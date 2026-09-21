@@ -1,0 +1,335 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2a28468779ee80408e9ce4363c630d48",
+  "pageId": "2a284687-79ee-8040-8e9c-e4363c630d48",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2a284687-79ee-8040-8e9c-e4363c630d48": {
+      "id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "version": 32,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2a284687-79ee-80c9-9eee-d0be5083f877",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-8199-8849-dd47aa1a0a75",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "레퍼런스"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-11-05",
+                  "start_date": "2025-11-05"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "시작 전"
+          ]
+        ],
+        "title": [
+          [
+            "미리 알았으면 - 컨텐츠찾기"
+          ]
+        ]
+      },
+      "content": [
+        "2a284687-79ee-81b1-b5d3-d3a023b4ec4a",
+        "2a284687-79ee-81c8-9a64-e47a6449c223",
+        "2a284687-79ee-81b3-b083-cee0342b85f7",
+        "2a284687-79ee-81d4-bd4c-cdcc7889a105",
+        "2a284687-79ee-81bc-bb3e-e8f85c27a893",
+        "2a284687-79ee-814c-9ad5-f22162bcb905",
+        "2a284687-79ee-8037-a932-e54c53dbbbcc"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80b2-89b5-f6459a332b87",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "social_media_image_preview_url": "attachment:899251f6-5f46-4098-9db5-68d6ca07d9a5:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1762328373166,
+      "last_edited_time": 1779623560863
+    },
+    "2a284687-79ee-81b1-b5d3-d3a023b4ec4a": {
+      "id": "2a284687-79ee-81b1-b5d3-d3a023b4ec4a",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2a284687-79ee-81c4-80ff-e56478c1b4d3"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8024-9e82-d53e85ca1305",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375205,
+      "last_edited_time": 1762328375205
+    },
+    "2a284687-79ee-81c4-80ff-e56478c1b4d3": {
+      "id": "2a284687-79ee-81c4-80ff-e56478c1b4d3",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2a284687-79ee-8183-968c-dea94237cd96",
+        "2a284687-79ee-810f-8663-eddfce18b22d"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80b7-b9a1-dcad0fbca650",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-81b1-b5d3-d3a023b4ec4a",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375206,
+      "last_edited_time": 1762328375206
+    },
+    "2a284687-79ee-8183-968c-dea94237cd96": {
+      "id": "2a284687-79ee-8183-968c-dea94237cd96",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2a284687-79ee-814c-b713-f3e96a2726a6"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80a7-b9ec-fc4b5f94020b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-81c4-80ff-e56478c1b4d3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375206,
+      "last_edited_time": 1762328375206
+    },
+    "2a284687-79ee-814c-b713-f3e96a2726a6": {
+      "id": "2a284687-79ee-814c-b713-f3e96a2726a6",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2a284687-79ee-81bb-87a6-004dcbdd349e",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8099-a9fd-d39f2bdf9aaf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-8183-968c-dea94237cd96",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375206,
+      "last_edited_time": 1762328375206
+    },
+    "2a284687-79ee-810f-8663-eddfce18b22d": {
+      "id": "2a284687-79ee-810f-8663-eddfce18b22d",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2a284687-79ee-81fa-bc46-e4c6218acb25"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8059-938c-fbfd2e93bdae",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-81c4-80ff-e56478c1b4d3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375206,
+      "last_edited_time": 1762328375206
+    },
+    "2a284687-79ee-81fa-bc46-e4c6218acb25": {
+      "id": "2a284687-79ee-81fa-bc46-e4c6218acb25",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2a284687-79ee-81d6-8050-004d151f6517",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-808c-9fa9-f8756a7912a0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-810f-8663-eddfce18b22d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375206,
+      "last_edited_time": 1762328375206
+    },
+    "2a284687-79ee-81c8-9a64-e47a6449c223": {
+      "id": "2a284687-79ee-81c8-9a64-e47a6449c223",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80ea-aeed-e43f32c9bbb5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375205,
+      "last_edited_time": 1762328375205
+    },
+    "2a284687-79ee-81b3-b083-cee0342b85f7": {
+      "id": "2a284687-79ee-81b3-b083-cee0342b85f7",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8025-b26c-c2a0743b8736",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375205,
+      "last_edited_time": 1762328375205
+    },
+    "2a284687-79ee-81d4-bd4c-cdcc7889a105": {
+      "id": "2a284687-79ee-81d4-bd4c-cdcc7889a105",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8087-9c97-e293964db48c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375205,
+      "last_edited_time": 1762328375205
+    },
+    "2a284687-79ee-81bc-bb3e-e8f85c27a893": {
+      "id": "2a284687-79ee-81bc-bb3e-e8f85c27a893",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-805e-a9cf-fc1bcec0ec8a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375205,
+      "last_edited_time": 1762328375205
+    },
+    "2a284687-79ee-814c-9ad5-f22162bcb905": {
+      "id": "2a284687-79ee-814c-9ad5-f22162bcb905",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80cb-ae2c-de421f640c5e",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328375205,
+      "last_edited_time": 1762328375205
+    },
+    "2a284687-79ee-8037-a932-e54c53dbbbcc": {
+      "id": "2a284687-79ee-8037-a932-e54c53dbbbcc",
+      "version": 9,
+      "type": "video",
+      "properties": {
+        "source": [
+          [
+            "https://youtu.be/5wT0Py4yfkk?si=QXzME68e2UV_dgjU"
+          ]
+        ]
+      },
+      "format": {
+        "link_title": "Seriously, please watch this before your next exam",
+        "block_width": 1280,
+        "link_author": "Collin The Chad",
+        "link_provider": "YouTube",
+        "display_source": "https://www.youtube.com/embed/5wT0Py4yfkk?rel=0",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2a284687-79ee-8040-8e9c-e4363c630d48",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762328781269,
+      "last_edited_time": 1762328782408
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

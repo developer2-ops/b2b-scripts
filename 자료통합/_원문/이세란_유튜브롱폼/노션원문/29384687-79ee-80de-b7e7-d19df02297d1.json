@@ -1,0 +1,338 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2938468779ee80deb7e7d19df02297d1",
+  "pageId": "29384687-79ee-80de-b7e7-d19df02297d1",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "29384687-79ee-80de-b7e7-d19df02297d1": {
+      "id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "version": 25,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "29384687-79ee-8052-856f-e3db92dc7117",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-8199-8849-dd47aa1a0a75",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "레퍼런스"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-10-21",
+                  "start_date": "2025-10-21"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "시작 전"
+          ]
+        ],
+        "title": [
+          [
+            "gpt 쇼핑 - 컨텐츠찾기"
+          ]
+        ]
+      },
+      "content": [
+        "29384687-79ee-8175-9234-ec4f139ad243",
+        "29384687-79ee-810e-b89f-f1987356c67c",
+        "29384687-79ee-8196-bfce-eed26aa1f4a2",
+        "29384687-79ee-812c-b049-c176ca11eed8",
+        "29384687-79ee-8193-a947-d4b20f1b2b53",
+        "29384687-79ee-81cd-886e-eabd5e2b5c96",
+        "29384687-79ee-802f-b93b-e677e894d52f"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80b2-89b5-f6459a332b87",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "social_media_image_preview_url": "attachment:899251f6-5f46-4098-9db5-68d6ca07d9a5:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1761016232182,
+      "last_edited_time": 1779623560796
+    },
+    "29384687-79ee-8175-9234-ec4f139ad243": {
+      "id": "29384687-79ee-8175-9234-ec4f139ad243",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "29384687-79ee-8166-8b67-fb7efed8d444"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8024-9e82-d53e85ca1305",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-8166-8b67-fb7efed8d444": {
+      "id": "29384687-79ee-8166-8b67-fb7efed8d444",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "29384687-79ee-8163-869c-e4ba0bf5fa18",
+        "29384687-79ee-8178-b6f3-d12e3a741ac3"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80b7-b9a1-dcad0fbca650",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-8175-9234-ec4f139ad243",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-8163-869c-e4ba0bf5fa18": {
+      "id": "29384687-79ee-8163-869c-e4ba0bf5fa18",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "29384687-79ee-81b0-92df-f1f726cfd100"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80a7-b9ec-fc4b5f94020b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-8166-8b67-fb7efed8d444",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233262,
+      "last_edited_time": 1761016233262
+    },
+    "29384687-79ee-81b0-92df-f1f726cfd100": {
+      "id": "29384687-79ee-81b0-92df-f1f726cfd100",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "29384687-79ee-8112-991a-004d00cc29fa",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8099-a9fd-d39f2bdf9aaf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-8163-869c-e4ba0bf5fa18",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233262,
+      "last_edited_time": 1761016233262
+    },
+    "29384687-79ee-8178-b6f3-d12e3a741ac3": {
+      "id": "29384687-79ee-8178-b6f3-d12e3a741ac3",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "29384687-79ee-81e6-9a5c-ea70465e0a76"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8059-938c-fbfd2e93bdae",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-8166-8b67-fb7efed8d444",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233262,
+      "last_edited_time": 1761016233262
+    },
+    "29384687-79ee-81e6-9a5c-ea70465e0a76": {
+      "id": "29384687-79ee-81e6-9a5c-ea70465e0a76",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "29384687-79ee-81f9-9744-004dcccde4fe",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-808c-9fa9-f8756a7912a0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-8178-b6f3-d12e3a741ac3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233262,
+      "last_edited_time": 1761016233262
+    },
+    "29384687-79ee-810e-b89f-f1987356c67c": {
+      "id": "29384687-79ee-810e-b89f-f1987356c67c",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80ea-aeed-e43f32c9bbb5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-8196-bfce-eed26aa1f4a2": {
+      "id": "29384687-79ee-8196-bfce-eed26aa1f4a2",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8025-b26c-c2a0743b8736",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-812c-b049-c176ca11eed8": {
+      "id": "29384687-79ee-812c-b049-c176ca11eed8",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8087-9c97-e293964db48c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-8193-a947-d4b20f1b2b53": {
+      "id": "29384687-79ee-8193-a947-d4b20f1b2b53",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-805e-a9cf-fc1bcec0ec8a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-81cd-886e-eabd5e2b5c96": {
+      "id": "29384687-79ee-81cd-886e-eabd5e2b5c96",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80cb-ae2c-de421f640c5e",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016233261,
+      "last_edited_time": 1761016233261
+    },
+    "29384687-79ee-802f-b93b-e677e894d52f": {
+      "id": "29384687-79ee-802f-b93b-e677e894d52f",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://youtu.be/VETfOniRLtk?si=a29vF2imQ_OkjyOj"
+          ]
+        ],
+        "title": [
+          [
+            "전 세계 8억명 쓰는 GPT 플랫폼, 이젠 '글'로 쇼핑합니다."
+          ]
+        ],
+        "description": [
+          [
+            "#스마트스토어 #브랜딩  #상세페이지 #위탁판매 \n\nGPT 쇼핑 시대가 본격적으로 시작됐습니다. 이제는 키워드 광고만으론 부족합니다. 위탁판매, 해외구매대행, 스마트스토어, 쿠팡 셀러라면 꼭 알아야 할 변화예요. 이번 영상은 AI에게 선택받는 상품 설명을 어떻게 만들지, 실제로 어떤 준비가 필요한지 감을 잡는 데 큰 도움이 될 거예요. 그리고 이 흐름에 맞춘 스토리텔링 방식은 GPT 쇼핑뿐 아니라, 일반적인 상세페이지 전환율을 높이는 데도 강력하게 작용합니다.\n\n\n2025년 일머니 월 100 무료 전자책 & 마진 계산기 링크받기\nhttp://pf.kakao.com/_hwCxhn (채널 톡 추가시 링크 전송) \n\n일머니 카페 혹은 단톡방에 오시면 여러자료를 받으실수 있습니다.\n(유료강의 이상의 도움이 되실거라 생각됩니다)\nhttps://cafe.naver.com/goldoutman\n\n여러분들과 다양한 의견 교류를 하고 싶습니다.(초보도 환영)\n카카오톡 일머니_쇼핑몰 정보공유방\nhttps://open.kakao.com/o/g6si7fPf"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/dc78d16c/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/VETfOniRLtk/maxresdefault.jpg"
+      },
+      "parent_id": "29384687-79ee-80de-b7e7-d19df02297d1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1761016240726,
+      "last_edited_time": 1761016240735
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

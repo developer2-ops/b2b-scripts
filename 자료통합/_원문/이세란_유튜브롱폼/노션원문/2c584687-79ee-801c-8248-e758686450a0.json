@@ -1,0 +1,982 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2c58468779ee801c8248e758686450a0",
+  "pageId": "2c584687-79ee-801c-8248-e758686450a0",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2c584687-79ee-801c-8248-e758686450a0": {
+      "id": "2c584687-79ee-801c-8248-e758686450a0",
+      "version": 207,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2c584687-79ee-80c3-889b-c645558d9590",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-12-10",
+                  "start_date": "2025-12-10"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "1차 수정"
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰_시스템 에어컨 대표님 - 편집 1차"
+          ]
+        ]
+      },
+      "content": [
+        "2c584687-79ee-8158-a195-c1c4df8af888",
+        "2c584687-79ee-810d-86a7-f69c21322cd4",
+        "2c584687-79ee-8024-a988-cb016fcaf581",
+        "2c584687-79ee-80ef-91b1-ecf4cdf8b333",
+        "2c584687-79ee-802f-8064-f8d4a215da3e",
+        "2c584687-79ee-8090-9b8a-d0c52572ca7b",
+        "2c584687-79ee-80c8-85e2-d1de26acb2c5",
+        "2c584687-79ee-8072-9c17-e10c27c9e685",
+        "2c584687-79ee-80e6-bd81-e80b426cccda",
+        "2c584687-79ee-809d-8583-fe16aa2103d7",
+        "2c584687-79ee-800a-af37-cc276fb1acba",
+        "2c584687-79ee-80c9-be8c-d8bf5cd7cffb",
+        "2c584687-79ee-80a3-b9d0-c28b4615ef6c",
+        "2c584687-79ee-8017-9732-d30a34e2a259",
+        "2c584687-79ee-80ba-a3b9-c287710cffe2",
+        "2c584687-79ee-8021-a997-cc9c473b7707",
+        "2c584687-79ee-8091-bab9-e34dfc8300ed",
+        "2c584687-79ee-80c7-9d9b-fde2eb9cac4e",
+        "2c584687-79ee-8012-b860-f33070197365",
+        "2c584687-79ee-80a3-a0ab-c834f5e4ff4f",
+        "2c584687-79ee-80cd-afe1-f85af1805fb9",
+        "2c584687-79ee-806a-9bfe-fa23037f74a7",
+        "2c584687-79ee-8092-8044-ead3ae4888d1",
+        "2c584687-79ee-80a0-8c44-c12945e9cdb8",
+        "2c584687-79ee-80d9-8bb0-d00a81698f41",
+        "2c584687-79ee-8096-ab14-c747fefb9def",
+        "2c584687-79ee-804a-95eb-cd506670c241",
+        "2c584687-79ee-8030-931d-f8d859c9c6df",
+        "2c584687-79ee-80e7-850e-d100a7735403",
+        "2c584687-79ee-80db-96bf-f4b0ead76934",
+        "2c584687-79ee-8036-8bda-dc4163ffbde5",
+        "2c584687-79ee-80d1-9be5-f0f2368d6096",
+        "2c584687-79ee-80d3-817a-d414ff96f01e",
+        "2c584687-79ee-8088-b281-ef72d5120006",
+        "2c584687-79ee-8054-a9d3-f7c790c8fb9b",
+        "2c584687-79ee-8023-9047-f1ce5020fac8",
+        "2c584687-79ee-80e5-adbb-ec7f5e7eea01",
+        "2c584687-79ee-808c-be22-f1779f7a22ce",
+        "2c584687-79ee-800a-80fc-cd0485a0a97e",
+        "2c584687-79ee-8076-93cb-c3d0807011e0",
+        "2c584687-79ee-8046-88db-e821594955f5",
+        "2c584687-79ee-8095-b842-c3bb37767509",
+        "2c584687-79ee-804f-bbac-ddae19aadd00",
+        "2c584687-79ee-8092-bc92-dfe63442edda",
+        "2c584687-79ee-80b3-b030-c9472b64ffab",
+        "2c584687-79ee-80fa-866f-ecc8ddbb60b0"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "d2d32202-bde8-474f-947d-8232cc18f575",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-814a-bfbe-f51612579c70",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1765349165535,
+      "last_edited_time": 1779623561053
+    },
+    "2c584687-79ee-8158-a195-c1c4df8af888": {
+      "id": "2c584687-79ee-8158-a195-c1c4df8af888",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2c584687-79ee-815c-90fd-f217447376e6",
+        "2c584687-79ee-81e2-af34-cd6b7accade3"
+      ],
+      "format": {
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ed-a632-d724422d76bf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349168092,
+      "last_edited_time": 1765349168092
+    },
+    "2c584687-79ee-815c-90fd-f217447376e6": {
+      "id": "2c584687-79ee-815c-90fd-f217447376e6",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2c584687-79ee-81bb-af53-004dfdc10d08",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81af-86c5-fc0fe5d6fb49",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-8158-a195-c1c4df8af888",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349168092,
+      "last_edited_time": 1765349168092
+    },
+    "2c584687-79ee-81e2-af34-cd6b7accade3": {
+      "id": "2c584687-79ee-81e2-af34-cd6b7accade3",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2c584687-79ee-81e8-9b09-004d69139475",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-815c-a141-f22a539443f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-8158-a195-c1c4df8af888",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349168092,
+      "last_edited_time": 1765349168092
+    },
+    "2c584687-79ee-810d-86a7-f69c21322cd4": {
+      "id": "2c584687-79ee-810d-86a7-f69c21322cd4",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ba-bd63-e43a4489e613",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349168092,
+      "last_edited_time": 1765349168092
+    },
+    "2c584687-79ee-8024-a988-cb016fcaf581": {
+      "id": "2c584687-79ee-8024-a988-cb016fcaf581",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349225684,
+      "last_edited_time": 1765349225686
+    },
+    "2c584687-79ee-80ef-91b1-ecf4cdf8b333": {
+      "id": "2c584687-79ee-80ef-91b1-ecf4cdf8b333",
+      "version": 5,
+      "type": "callout",
+      "content": [
+        "2c584687-79ee-8074-82e6-ffdf3d54667c"
+      ],
+      "format": {
+        "page_icon": "🤚",
+        "block_color": "red_background",
+        "callout_version": 2
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349228659,
+      "last_edited_time": 1765349228665
+    },
+    "2c584687-79ee-8074-82e6-ffdf3d54667c": {
+      "id": "2c584687-79ee-8074-82e6-ffdf3d54667c",
+      "version": 1085,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "전체 영상이 길어서 1차는 컷편집 먼저 하려고 합니다. 1차 컷편집 해주시고 녹음 파일 올려드렸으니 녹음파일 싱크 잘 맞게 입혀주세요.\n\n그리고 전체적으로 대화텀이 길어서 이 부분도 타이트하게 수정부탁드릴게요."
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-80ef-91b1-ecf4cdf8b333",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349228659,
+      "last_edited_time": 1765356841861
+    },
+    "2c584687-79ee-802f-8064-f8d4a215da3e": {
+      "id": "2c584687-79ee-802f-8064-f8d4a215da3e",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349255527,
+      "last_edited_time": 1765349255529
+    },
+    "2c584687-79ee-8090-9b8a-d0c52572ca7b": {
+      "id": "2c584687-79ee-8090-9b8a-d0c52572ca7b",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349255656,
+      "last_edited_time": 1765349255658
+    },
+    "2c584687-79ee-80c8-85e2-d1de26acb2c5": {
+      "id": "2c584687-79ee-80c8-85e2-d1de26acb2c5",
+      "version": 47,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349254982,
+      "last_edited_time": 1766111638275
+    },
+    "2c584687-79ee-8072-9c17-e10c27c9e685": {
+      "id": "2c584687-79ee-8072-9c17-e10c27c9e685",
+      "version": 9,
+      "type": "callout",
+      "content": [
+        "2c584687-79ee-8067-84ac-e508501a30e6"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349906963,
+      "last_edited_time": 1765349915469
+    },
+    "2c584687-79ee-8067-84ac-e508501a30e6": {
+      "id": "2c584687-79ee-8067-84ac-e508501a30e6",
+      "version": 82,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "만나러 가는 부분, 현장"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-8072-9c17-e10c27c9e685",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349906963,
+      "last_edited_time": 1765349921083
+    },
+    "2c584687-79ee-80e6-bd81-e80b426cccda": {
+      "id": "2c584687-79ee-80e6-bd81-e80b426cccda",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349927871,
+      "last_edited_time": 1765349927872
+    },
+    "2c584687-79ee-809d-8583-fe16aa2103d7": {
+      "id": "2c584687-79ee-809d-8583-fe16aa2103d7",
+      "version": 5,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349925803,
+      "last_edited_time": 1765349927152
+    },
+    "2c584687-79ee-800a-af37-cc276fb1acba": {
+      "id": "2c584687-79ee-800a-af37-cc276fb1acba",
+      "version": 575,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "(토글에 영상 경로 첨부)\n00:34 ~ 00:36 /  01:22 ~ 01:25 / 03:12 ~ 03:19 / 03:43 ~ 04:14 빨리감기 / 04:14 ~ 04:20 / 04:26 ~ 04:44 빨리감기 /  05:21 ~ 05:27 / 05:28~05:41 / 06:24 ~ 06:37"
+          ]
+        ]
+      },
+      "content": [
+        "2c584687-79ee-8080-bdc9-e6a04c98f6ac"
+      ],
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349261388,
+      "last_edited_time": 1765350424983
+    },
+    "2c584687-79ee-80c9-be8c-d8bf5cd7cffb": {
+      "id": "2c584687-79ee-80c9-be8c-d8bf5cd7cffb",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349933540,
+      "last_edited_time": 1765349933541
+    },
+    "2c584687-79ee-80a3-b9d0-c28b4615ef6c": {
+      "id": "2c584687-79ee-80a3-b9d0-c28b4615ef6c",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349929680,
+      "last_edited_time": 1765349929682
+    },
+    "2c584687-79ee-8017-9732-d30a34e2a259": {
+      "id": "2c584687-79ee-8017-9732-d30a34e2a259",
+      "version": 14,
+      "type": "callout",
+      "content": [
+        "2c584687-79ee-809e-832e-c7fd36d56964"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349930677,
+      "last_edited_time": 1765350805375
+    },
+    "2c584687-79ee-809e-832e-c7fd36d56964": {
+      "id": "2c584687-79ee-809e-832e-c7fd36d56964",
+      "version": 47,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "인터뷰"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-8017-9732-d30a34e2a259",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349930677,
+      "last_edited_time": 1765350807151
+    },
+    "2c584687-79ee-80ba-a3b9-c287710cffe2": {
+      "id": "2c584687-79ee-80ba-a3b9-c287710cffe2",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765352391552,
+      "last_edited_time": 1765352391556
+    },
+    "2c584687-79ee-8021-a997-cc9c473b7707": {
+      "id": "2c584687-79ee-8021-a997-cc9c473b7707",
+      "version": 713,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "드라이브에서 영상 이름 보시고 편집 부탁드립니다. 고정캠이랑 서브캠 적절하게 섞어서 편집 부탁드릴게요."
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349939782,
+      "last_edited_time": 1765352675654
+    },
+    "2c584687-79ee-8091-bab9-e34dfc8300ed": {
+      "id": "2c584687-79ee-8091-bab9-e34dfc8300ed",
+      "version": 688,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "타임스템프는 고정캠 기준입니다. (서브캠은 별도 표시)\n고정캠과 서브캠 표시 여부는 타임스템프 참고를 위함이며"
+          ],
+          [
+            " 해당 영상만 사용해달라는 의미는 아닙니다.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2c584687-79ee-800a-bf01-e20c78f750a7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765352621916,
+      "last_edited_time": 1765354985781
+    },
+    "2c584687-79ee-80c7-9d9b-fde2eb9cac4e": {
+      "id": "2c584687-79ee-80c7-9d9b-fde2eb9cac4e",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765352626782,
+      "last_edited_time": 1765352626784
+    },
+    "2c584687-79ee-8012-b860-f33070197365": {
+      "id": "2c584687-79ee-8012-b860-f33070197365",
+      "version": 5,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765352626195,
+      "last_edited_time": 1765352626409
+    },
+    "2c584687-79ee-80a3-a0ab-c834f5e4ff4f": {
+      "id": "2c584687-79ee-80a3-a0ab-c834f5e4ff4f",
+      "version": 129,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "도입부 / 인터뷰1 00:05 ~ 00:21"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349961426,
+      "last_edited_time": 1765352637571
+    },
+    "2c584687-79ee-80cd-afe1-f85af1805fb9": {
+      "id": "2c584687-79ee-80cd-afe1-f85af1805fb9",
+      "version": 360,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "왜 시스템 에어컨을 하시는 건지 / 인터뷰1 00:22~01:21"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350021213,
+      "last_edited_time": 1765352641243
+    },
+    "2c584687-79ee-806a-9bfe-fa23037f74a7": {
+      "id": "2c584687-79ee-806a-9bfe-fa23037f74a7",
+      "version": 400,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "시스템 에어컨을 시작하신 계기 / 인터뷰1 01:22~02:06"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350166810,
+      "last_edited_time": 1765352643722
+    },
+    "2c584687-79ee-8092-8044-ead3ae4888d1": {
+      "id": "2c584687-79ee-8092-8044-ead3ae4888d1",
+      "version": 441,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "처음 배우실 때 어떠셨나요 / 인터뷰1 02:08~02:55"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350571328,
+      "last_edited_time": 1765352648620
+    },
+    "2c584687-79ee-80a0-8c44-c12945e9cdb8": {
+      "id": "2c584687-79ee-80a0-8c44-c12945e9cdb8",
+      "version": 261,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "기술을 잘 안 알려주던데 / 인터뷰1 02:58~03:42"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350681962,
+      "last_edited_time": 1765352652823
+    },
+    "2c584687-79ee-80d9-8bb0-d00a81698f41": {
+      "id": "2c584687-79ee-80d9-8bb0-d00a81698f41",
+      "version": 236,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "그 때 당시 하루 일하는 시간 / 인터뷰1 03:44~04:11"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350797431,
+      "last_edited_time": 1765352655552
+    },
+    "2c584687-79ee-8096-ab14-c747fefb9def": {
+      "id": "2c584687-79ee-8096-ab14-c747fefb9def",
+      "version": 193,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "어떻게 버티셨는지 / 인터뷰1 04:12~04:38"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350897117,
+      "last_edited_time": 1765352659710
+    },
+    "2c584687-79ee-804a-95eb-cd506670c241": {
+      "id": "2c584687-79ee-804a-95eb-cd506670c241",
+      "version": 264,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "대표님 사연1 / 인터뷰1 04:44~05:16"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350942834,
+      "last_edited_time": 1765352690971
+    },
+    "2c584687-79ee-8030-931d-f8d859c9c6df": {
+      "id": "2c584687-79ee-8030-931d-f8d859c9c6df",
+      "version": 451,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "여기(대한민국) 처음 오시고 어떠셨냐 / 인터뷰2 서브캠 00:28~02:14 / 02:30~03:22"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765351362131,
+      "last_edited_time": 1765353050589
+    },
+    "2c584687-79ee-80e7-850e-d100a7735403": {
+      "id": "2c584687-79ee-80e7-850e-d100a7735403",
+      "version": 413,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "시스템 에어컨 할 수 있는 정도면 4년이면 된다 생각하는지 / 인터뷰2 서브캠 03:24~03:56"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765353040138,
+      "last_edited_time": 1765353425545
+    },
+    "2c584687-79ee-80db-96bf-f4b0ead76934": {
+      "id": "2c584687-79ee-80db-96bf-f4b0ead76934",
+      "version": 194,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "회사에서 프리랜서로 나온 이유 / 인터뷰2 서브캠 03:56~05:05"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765353425781,
+      "last_edited_time": 1765353599073
+    },
+    "2c584687-79ee-8036-8bda-dc4163ffbde5": {
+      "id": "2c584687-79ee-8036-8bda-dc4163ffbde5",
+      "version": 226,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "회사에서 나오고 영업 어떻게 하셨는지 / 인터뷰2 서브캠 05:06~05:22"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765353626962,
+      "last_edited_time": 1765353727662
+    },
+    "2c584687-79ee-80d1-9be5-f0f2368d6096": {
+      "id": "2c584687-79ee-80d1-9be5-f0f2368d6096",
+      "version": 346,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "회사에서 나와서 혼자 할 생각을 했을 수 있었던 이유 / 인터뷰2 서브캠 05:28~07:30"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765353725170,
+      "last_edited_time": 1765354637867
+    },
+    "2c584687-79ee-80d3-817a-d414ff96f01e": {
+      "id": "2c584687-79ee-80d3-817a-d414ff96f01e",
+      "version": 263,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "사업체로 바뀌면서 제일  힘들었던 점 / 인터뷰2 서브캠 07:32~08:16"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765354638579,
+      "last_edited_time": 1765354893424
+    },
+    "2c584687-79ee-8088-b281-ef72d5120006": {
+      "id": "2c584687-79ee-8088-b281-ef72d5120006",
+      "version": 420,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "→ 여기서부터 고정캠 있습니다. 고정캠이랑 섞어가면서 편집부탁드릴게요"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765354631951,
+      "last_edited_time": 1765354711897
+    },
+    "2c584687-79ee-8054-a9d3-f7c790c8fb9b": {
+      "id": "2c584687-79ee-8054-a9d3-f7c790c8fb9b",
+      "version": 386,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "직원을 구하기가 힘들 것 같은데, 어떻게 하는지 / 인터뷰2 서브캠 08:17~08:41 / 08:48~09:02"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765354865240,
+      "last_edited_time": 1765355197030
+    },
+    "2c584687-79ee-8023-9047-f1ce5020fac8": {
+      "id": "2c584687-79ee-8023-9047-f1ce5020fac8",
+      "version": 339,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "더 힘든 상황에서 거래처를 확보할 수 있었던 나만의 비결 던 남/  인터뷰2 서브캠 09:15~09:56 / 10:02~11:52"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765355198359,
+      "last_edited_time": 1765355410004
+    },
+    "2c584687-79ee-80e5-adbb-ec7f5e7eea01": {
+      "id": "2c584687-79ee-80e5-adbb-ec7f5e7eea01",
+      "version": 309,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "규모가 커지면서 어떤 때 더 커질 수 있겠다는 느낌이 왔는가 / 인터뷰2 서브캠 11:53~13:26 "
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765355411501,
+      "last_edited_time": 1765355640091
+    },
+    "2c584687-79ee-808c-be22-f1779f7a22ce": {
+      "id": "2c584687-79ee-808c-be22-f1779f7a22ce",
+      "version": 202,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "그때 당시 마케팅은 어떻게 하셨는지 / 인터뷰2 서브캠 13:27~16:18"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765355640767,
+      "last_edited_time": 1765356004144
+    },
+    "2c584687-79ee-800a-80fc-cd0485a0a97e": {
+      "id": "2c584687-79ee-800a-80fc-cd0485a0a97e",
+      "version": 246,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "다 내 탓을 하는 것에 대한 반작용은 없는지 / 인터뷰3 00:06~05:49"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765356011669,
+      "last_edited_time": 1765356346462
+    },
+    "2c584687-79ee-8076-93cb-c3d0807011e0": {
+      "id": "2c584687-79ee-8076-93cb-c3d0807011e0",
+      "version": 204,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "마케팅 없이 매출을 낼 수 있었던 이유 / 인터뷰3 09:45~10:06"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765356351214,
+      "last_edited_time": 1765356643540
+    },
+    "2c584687-79ee-8046-88db-e821594955f5": {
+      "id": "2c584687-79ee-8046-88db-e821594955f5",
+      "version": 350,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "일과 가족과의 관계에 대해서 / 인터뷰3 11:14~14:30"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765356644296,
+      "last_edited_time": 1765356858499
+    },
+    "2c584687-79ee-8095-b842-c3bb37767509": {
+      "id": "2c584687-79ee-8095-b842-c3bb37767509",
+      "version": 234,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "와이프분은 어떻게 지지를 해주는 편인지 / 인터뷰3 14:31~16:46"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765356858766,
+      "last_edited_time": 1765357268726
+    },
+    "2c584687-79ee-804f-bbac-ddae19aadd00": {
+      "id": "2c584687-79ee-804f-bbac-ddae19aadd00",
+      "version": 213,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "앞으로 회사를 키우는데 집중하고 있는 부분 / 인터뷰3 16:46~17:44"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765357023620,
+      "last_edited_time": 1765357271903
+    },
+    "2c584687-79ee-8092-bc92-dfe63442edda": {
+      "id": "2c584687-79ee-8092-bc92-dfe63442edda",
+      "version": 240,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "안 힘들어 보이는 이유 / 인터뷰3 17:55~24:11"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765357121164,
+      "last_edited_time": 1765357379290
+    },
+    "2c584687-79ee-80b3-b030-c9472b64ffab": {
+      "id": "2c584687-79ee-80b3-b030-c9472b64ffab",
+      "version": 195,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "힘든분, 새터민분들에게 조언 / 인터뷰3 19:09~19:42 / 21:28~22:54"
+          ]
+        ]
+      },
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765357261250,
+      "last_edited_time": 1765357671616
+    },
+    "2c584687-79ee-80fa-866f-ecc8ddbb60b0": {
+      "id": "2c584687-79ee-80fa-866f-ecc8ddbb60b0",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2c584687-79ee-801c-8248-e758686450a0",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765357641199,
+      "last_edited_time": 1765357641201
+    },
+    "2c584687-79ee-8080-bdc9-e6a04c98f6ac": {
+      "id": "2c584687-79ee-8080-bdc9-e6a04c98f6ac",
+      "version": 13,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "244.3 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:d2c87ae1-b9ec-440c-8f26-c87f8ca3ea06:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 680.984375,
+        "display_source": "attachment:d2c87ae1-b9ec-440c-8f26-c87f8ca3ea06:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.2681498829039813,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2c584687-79ee-800a-af37-cc276fb1acba",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765350401305,
+      "last_edited_time": 1765350413126
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

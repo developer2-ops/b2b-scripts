@@ -1,0 +1,157 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/25a8468779ee806b92f7ebdb4660c364",
+  "pageId": "25a84687-79ee-806b-92f7-ebdb4660c364",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "25a84687-79ee-806b-92f7-ebdb4660c364": {
+      "id": "25a84687-79ee-806b-92f7-ebdb4660c364",
+      "version": 31,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "25584687-79ee-8096-a127-c0a8eb603a8c",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "업로드"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "datetime",
+                  "time_zone": "Asia/Seoul",
+                  "start_date": "2025-08-25",
+                  "start_time": "19:34"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "풀링_직원표정 - 업로드"
+          ]
+        ]
+      },
+      "content": [
+        "25a84687-79ee-80c0-b7f8-c9d3533c3968",
+        "25a84687-79ee-808d-9955-c0b8ef3af4c3",
+        "25a84687-79ee-8027-9d17-c4de17bef987",
+        "25a84687-79ee-8036-88a1-f041597011ed"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8172-a030-e41f6f0ae294",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_floating_table_of_contents": {
+          "state": "off"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1756118068490,
+      "last_edited_time": 1779623560444
+    },
+    "25a84687-79ee-80c0-b7f8-c9d3533c3968": {
+      "id": "25a84687-79ee-80c0-b7f8-c9d3533c3968",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-819b-b063-c83b644a1e54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "25a84687-79ee-806b-92f7-ebdb4660c364",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1756118069215,
+      "last_edited_time": 1756118069218
+    },
+    "25a84687-79ee-808d-9955-c0b8ef3af4c3": {
+      "id": "25a84687-79ee-808d-9955-c0b8ef3af4c3",
+      "version": 2,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c8-8857-d26e76179f75",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25a84687-79ee-806b-92f7-ebdb4660c364",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1756118069215,
+      "last_edited_time": 1756118069218
+    },
+    "25a84687-79ee-8027-9d17-c4de17bef987": {
+      "id": "25a84687-79ee-8027-9d17-c4de17bef987",
+      "version": 2,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8148-9e6c-ef508c6aba03",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25a84687-79ee-806b-92f7-ebdb4660c364",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1756118069215,
+      "last_edited_time": 1756118069218
+    },
+    "25a84687-79ee-8036-88a1-f041597011ed": {
+      "id": "25a84687-79ee-8036-88a1-f041597011ed",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-818a-9e28-f5c9038fd012",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "25a84687-79ee-806b-92f7-ebdb4660c364",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1756118069215,
+      "last_edited_time": 1756118069218
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

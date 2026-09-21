@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-21",
+  "pages": 162,
+  "unique_blocks": 16098,
+  "missing_referenced_blocks": 0,
+  "readable_markdown": 162,
+  "text_blocks_indexed": 7469,
+  "video_catalog": 48,
+  "match_status": {
+    "영상링크 일치": 10,
+    "영상링크 일치·인터뷰자료": 4,
+    "대응": 27,
+    "후보": 7
+  },
+  "new_authored_navigation_broken_links": 0,
+  "notion_media_export": "3.6GB browser download in progress; workspace copy and ZIP validation not complete",
+  "video_transcript_alignment": "not performed",
+  "notion1_media": "remote URLs retained; bulk binary copy not performed",
+  "relation_edges_verified": 124
+}

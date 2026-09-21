@@ -1,0 +1,22 @@
+{
+  "article_ids_matched": 179,
+  "story_cards": 179,
+  "source_formats": [
+    "json",
+    "html",
+    "md"
+  ],
+  "image_files_nonempty_and_image_signature_verified": 730,
+  "missing_images": 11,
+  "attachment_files": 4,
+  "notion_pages_saved": 9,
+  "empty_next_list_page_verified": true,
+  "broken_local_markdown_links": 0,
+  "source_and_interpretation_separated": true,
+  "notion_export_files": 305,
+  "notion_images": 295,
+  "notion_video": 1,
+  "notion_story_cards": 26,
+  "notion_zip_crc_verified": true,
+  "new_authored_navigation_broken_links": 0
+}

@@ -1,0 +1,873 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1658468779ee808ba2bdffa6b52f8166",
+  "pageId": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "16584687-79ee-808b-a2bd-ffa6b52f8166": {
+      "id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "version": 1234,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "세무공무원도 놀란 억대매출 올리는 가게[작1223,1224/업]"
+          ]
+        ]
+      },
+      "content": [
+        "16584687-79ee-807e-a3d5-fd3451d3da75",
+        "16684687-79ee-8071-8470-c66ac6ea2636",
+        "16584687-79ee-8075-bf24-dc921cd133a1",
+        "16684687-79ee-80e1-9e64-cd888fc6947c",
+        "16684687-79ee-80bf-8bed-c2be9e9f838a",
+        "16684687-79ee-80ec-89d6-c4d18fe8867b",
+        "16684687-79ee-80bd-986b-cbf6519edf82",
+        "16584687-79ee-8050-94e8-ed890b809d1f",
+        "16684687-79ee-80a2-9113-cdee3b49fae3",
+        "16684687-79ee-806d-9c20-dbfbb3a0dea4",
+        "16684687-79ee-804e-af75-d96cb0a789bf",
+        "16684687-79ee-80a1-a5f5-e3605b3d3092",
+        "16684687-79ee-806e-990d-fa3820188808",
+        "16684687-79ee-8047-8451-e5959bdb716b",
+        "16684687-79ee-803b-948c-fd57e4d23913",
+        "16684687-79ee-8050-8518-e518620b1bb8",
+        "16684687-79ee-808f-bdec-e1b7b96fce4d",
+        "16684687-79ee-80c6-add9-e75578b43140",
+        "16684687-79ee-803a-852d-d01dc85f3fe7",
+        "16684687-79ee-80ff-b6a1-e1a006591c3a",
+        "16684687-79ee-80a7-a237-fba57a6f1458",
+        "16684687-79ee-80c0-92ce-e6a2ca99bbb5",
+        "16684687-79ee-8024-8f0c-efdd56b86dae",
+        "16684687-79ee-80fd-80db-f1ab1d498cd2",
+        "16684687-79ee-8078-8f86-c95717b82976",
+        "16684687-79ee-80e3-a86a-d7edfe326817",
+        "16684687-79ee-80ec-95d5-d44ebedab82c",
+        "16684687-79ee-80dc-9848-fc2cd236b47a"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734941183680,
+      "last_edited_time": 1738311353723
+    },
+    "16584687-79ee-807e-a3d5-fd3451d3da75": {
+      "id": "16584687-79ee-807e-a3d5-fd3451d3da75",
+      "version": 875,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "손님이 없어보여도 그 근처 돈 싹쓸이 하는 곳들"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734941216338,
+      "last_edited_time": 1735019810832
+    },
+    "16684687-79ee-8071-8470-c66ac6ea2636": {
+      "id": "16684687-79ee-8071-8470-c66ac6ea2636",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019806885,
+      "last_edited_time": 1735019806887
+    },
+    "16584687-79ee-8075-bf24-dc921cd133a1": {
+      "id": "16584687-79ee-8075-bf24-dc921cd133a1",
+      "version": 36,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "참고영상"
+          ]
+        ]
+      },
+      "content": [
+        "16584687-79ee-8060-a3c3-cdf965ec5cd8"
+      ],
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734941525470,
+      "last_edited_time": 1734941528391
+    },
+    "16684687-79ee-80e1-9e64-cd888fc6947c": {
+      "id": "16684687-79ee-80e1-9e64-cd888fc6947c",
+      "version": 6,
+      "type": "callout",
+      "content": [
+        "d48b61f1-544c-4e75-92cc-b977772d667a"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020733941,
+      "last_edited_time": 1735020733943
+    },
+    "d48b61f1-544c-4e75-92cc-b977772d667a": {
+      "id": "d48b61f1-544c-4e75-92cc-b977772d667a",
+      "version": 33,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "썸네일"
+          ]
+        ]
+      },
+      "parent_id": "16684687-79ee-80e1-9e64-cd888fc6947c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020733941,
+      "last_edited_time": 1735020735736
+    },
+    "16684687-79ee-80bf-8bed-c2be9e9f838a": {
+      "id": "16684687-79ee-80bf-8bed-c2be9e9f838a",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020728454,
+      "last_edited_time": 1735020728455
+    },
+    "16684687-79ee-80ec-89d6-c4d18fe8867b": {
+      "id": "16684687-79ee-80ec-89d6-c4d18fe8867b",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020728589,
+      "last_edited_time": 1735020728590
+    },
+    "16684687-79ee-80bd-986b-cbf6519edf82": {
+      "id": "16684687-79ee-80bd-986b-cbf6519edf82",
+      "version": 6,
+      "type": "callout",
+      "content": [
+        "2956d7db-d197-401c-bb57-6117d64f9745"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020729488,
+      "last_edited_time": 1735020729494
+    },
+    "2956d7db-d197-401c-bb57-6117d64f9745": {
+      "id": "2956d7db-d197-401c-bb57-6117d64f9745",
+      "version": 19,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "대본"
+          ]
+        ]
+      },
+      "parent_id": "16684687-79ee-80bd-986b-cbf6519edf82",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020729488,
+      "last_edited_time": 1735020730144
+    },
+    "16584687-79ee-8050-94e8-ed890b809d1f": {
+      "id": "16584687-79ee-8050-94e8-ed890b809d1f",
+      "version": 3140,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "사업자현황조사를 나온 세무공무원도 놀라는거죠. 매번 갈때마다 문이 닫혀있는거예요. “여기 장사하는거 맞아?” 싶은데 사실 여기는 딱 쌈빡하게 장사하고 끝내는 곳이예요. 영업시간이 길지 않을뿐. 근데 억대매출. 물론 그 세무공무원은 말 그대로 현황조사 “여기에서 진짜 사업하는거 맞나?” 확인하러 온거니깐 매출까지는 모르겠지만요. "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734941448320,
+      "last_edited_time": 1735019878696
+    },
+    "16684687-79ee-80a2-9113-cdee3b49fae3": {
+      "id": "16684687-79ee-80a2-9113-cdee3b49fae3",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019878861,
+      "last_edited_time": 1735019878863
+    },
+    "16684687-79ee-806d-9c20-dbfbb3a0dea4": {
+      "id": "16684687-79ee-806d-9c20-dbfbb3a0dea4",
+      "version": 94,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "아마 자영업자라면 이런 삶을 꿈꾸실거예요. 오픈하기 전에 대기하고 있고 영업시간에 쌈빡하게 일하고 퇴근하는 삶이요. 영업시간에만도 충분한 고객이 있어서 좀 쉴수 있는. "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019878693,
+      "last_edited_time": 1735019893439
+    },
+    "16684687-79ee-804e-af75-d96cb0a789bf": {
+      "id": "16684687-79ee-804e-af75-d96cb0a789bf",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019895582,
+      "last_edited_time": 1735019895582
+    },
+    "16684687-79ee-80a1-a5f5-e3605b3d3092": {
+      "id": "16684687-79ee-80a1-a5f5-e3605b3d3092",
+      "version": 1753,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "자영업자에게는 시간과 수익은 비례합니다. "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019762325,
+      "last_edited_time": 1735020712224
+    },
+    "16684687-79ee-806e-990d-fa3820188808": {
+      "id": "16684687-79ee-806e-990d-fa3820188808",
+      "version": 95,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "비례한다고 할때 아래처럼"
+          ]
+        ]
+      },
+      "content": [
+        "16684687-79ee-805a-99ee-eb4c44be7975"
+      ],
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020713960,
+      "last_edited_time": 1735020721177
+    },
+    "16684687-79ee-8047-8451-e5959bdb716b": {
+      "id": "16684687-79ee-8047-8451-e5959bdb716b",
+      "version": 6,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020724878,
+      "last_edited_time": 1735020725043
+    },
+    "16684687-79ee-803b-948c-fd57e4d23913": {
+      "id": "16684687-79ee-803b-948c-fd57e4d23913",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그래서 하루 12시간이고 일하죠. 벼룩시장에서 한 조사에 따르면 자영업자의 일평균 근무시간은  10시간 정도라네요. 근데 뭐 저도 생각해보면 지금도 그렇고 최소가 10시간이지 거의 12시간까지 하는 날도 많은것 같아요. "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020712222,
+      "last_edited_time": 1735020712224
+    },
+    "16684687-79ee-8050-8518-e518620b1bb8": {
+      "id": "16684687-79ee-8050-8518-e518620b1bb8",
+      "version": 92,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "벼룩시장 할때 아래 사진"
+          ]
+        ]
+      },
+      "content": [
+        "16684687-79ee-8098-9a90-fea50973781e"
+      ],
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019965050,
+      "last_edited_time": 1735019971145
+    },
+    "16684687-79ee-808f-bdec-e1b7b96fce4d": {
+      "id": "16684687-79ee-808f-bdec-e1b7b96fce4d",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020012350,
+      "last_edited_time": 1735020012351
+    },
+    "16684687-79ee-80c6-add9-e75578b43140": {
+      "id": "16684687-79ee-80c6-add9-e75578b43140",
+      "version": 3017,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "하지만 실제로는 최저시급도 안되는 경우도 있습니다. 그래서 종종 너무 잘되서 정말 쌈빡하게 일하는 곳들을 보면 부럽기도 하죠. 제가 사는 지역에도 한 호떡집이 있는데 7,8월 여름 비수기에는 그냥 안하구요. 겨울에도 아침 7시에 시작하는데 줄서서 사가고 딱 12시면 끝납니다. 오전만 일하시고 끝나시죠. 그리고 1200원짜리 호떡을 2000개정도 파니깐 월매출은 아마 1억 안밖되실거예요. 제가 알기론 건물사셨다고 "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019729415,
+      "last_edited_time": 1735020606378
+    },
+    "16684687-79ee-803a-852d-d01dc85f3fe7": {
+      "id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "version": 106,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "아래 사진 "
+          ]
+        ]
+      },
+      "content": [
+        "16684687-79ee-808e-8a38-e0d4d9c9392f",
+        "16684687-79ee-80dd-bfa6-e30ffb57aa63",
+        "16684687-79ee-809d-8d89-da962949481b",
+        "16684687-79ee-80c5-8842-f816ab775c72",
+        "16684687-79ee-80dd-b8f7-f7b5cd6f4051",
+        "16684687-79ee-806f-8a2a-c7323fd5baf4",
+        "16684687-79ee-8007-8fe9-ee6c25c9e7d0",
+        "16684687-79ee-8095-8da9-e430aa5d72e8",
+        "16684687-79ee-80e9-a41c-d3cb8a455c83",
+        "16684687-79ee-803d-b961-fea17f825b80",
+        "16684687-79ee-809a-928c-e29709187134"
+      ],
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020213378,
+      "last_edited_time": 1735020331301
+    },
+    "16684687-79ee-80ff-b6a1-e1a006591c3a": {
+      "id": "16684687-79ee-80ff-b6a1-e1a006591c3a",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020792470,
+      "last_edited_time": 1735020792471
+    },
+    "16684687-79ee-80a7-a237-fba57a6f1458": {
+      "id": "16684687-79ee-80a7-a237-fba57a6f1458",
+      "version": 1569,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "또 제가 다니는 피부과가 있는데요. 일주일에 4일밖에 안해요. 그리고 시간도 오전 9시부터 저녁 6시까지 하는데 점심시간도 1시간 30분이고 심지어 예약없이 오면 받지도 않아요. 예약도 한달전에 안하면 잡을수도 없구요. 그래서 티켓팅 더 하려고 하면 하지 말래요. 홈케어로 하라고. 나는 다니고 싶은데"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020335254,
+      "last_edited_time": 1735020879585
+    },
+    "16684687-79ee-80c0-92ce-e6a2ca99bbb5": {
+      "id": "16684687-79ee-80c0-92ce-e6a2ca99bbb5",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020880247,
+      "last_edited_time": 1735020880249
+    },
+    "16684687-79ee-8024-8f0c-efdd56b86dae": {
+      "id": "16684687-79ee-8024-8f0c-efdd56b86dae",
+      "version": 761,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "아마 지역별로 한곳쯤은 이런 곳이 떠오르실거예요. 근데 실제로 사람들이 이런 곳들이 왜 이렇게 됐는지는 잘 모르는데 사실 이런곳들의 공통점이 있습니다. "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019438343,
+      "last_edited_time": 1735023067409
+    },
+    "16684687-79ee-80fd-80db-f1ab1d498cd2": {
+      "id": "16684687-79ee-80fd-80db-f1ab1d498cd2",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735023067904,
+      "last_edited_time": 1735023067905
+    },
+    "16684687-79ee-8078-8f86-c95717b82976": {
+      "id": "16684687-79ee-8078-8f86-c95717b82976",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735023068072,
+      "last_edited_time": 1735023068073
+    },
+    "16684687-79ee-80e3-a86a-d7edfe326817": {
+      "id": "16684687-79ee-80e3-a86a-d7edfe326817",
+      "version": 10,
+      "type": "callout",
+      "content": [
+        "ee7aa2fb-b189-4a97-9c8a-b36aace4b27a"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735023069159,
+      "last_edited_time": 1735023291822
+    },
+    "ee7aa2fb-b189-4a97-9c8a-b36aace4b27a": {
+      "id": "ee7aa2fb-b189-4a97-9c8a-b36aace4b27a",
+      "version": 125,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "너무 뜨겁지도 너무 차갑지도 "
+          ]
+        ]
+      },
+      "parent_id": "16684687-79ee-80e3-a86a-d7edfe326817",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735023069159,
+      "last_edited_time": 1735023275606
+    },
+    "16684687-79ee-80ec-95d5-d44ebedab82c": {
+      "id": "16684687-79ee-80ec-95d5-d44ebedab82c",
+      "version": 59,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735023291681,
+      "last_edited_time": 1735023459322
+    },
+    "16684687-79ee-80dc-9848-fc2cd236b47a": {
+      "id": "16684687-79ee-80dc-9848-fc2cd236b47a",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-808b-a2bd-ffa6b52f8166",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735023456419,
+      "last_edited_time": 1735023456420
+    },
+    "16584687-79ee-8060-a3c3-cdf965ec5cd8": {
+      "id": "16584687-79ee-8060-a3c3-cdf965ec5cd8",
+      "version": 6,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://www.youtube.com/watch?v=4bPFQsaeILQ",
+            [
+              [
+                "a",
+                "https://www.youtube.com/watch?v=4bPFQsaeILQ"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-8075-bf24-dc921cd133a1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734941528389,
+      "last_edited_time": 1734941528630
+    },
+    "16684687-79ee-805a-99ee-eb4c44be7975": {
+      "id": "16684687-79ee-805a-99ee-eb4c44be7975",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "233.3KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f4e85bec-6e2d-4f3e-8d46-e2381ff489b5/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 695,
+        "block_height": 209,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f4e85bec-6e2d-4f3e-8d46-e2381ff489b5/image.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 0.30071942446043165,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-806e-990d-fa3820188808",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020718314,
+      "last_edited_time": 1735020723967
+    },
+    "16684687-79ee-8098-9a90-fea50973781e": {
+      "id": "16684687-79ee-8098-9a90-fea50973781e",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "35.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/01a69c2b-c3c4-4e86-9219-69176a12e6dd/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.96875,
+        "block_height": 317,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/01a69c2b-c3c4-4e86-9219-69176a12e6dd/image.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 0.4620991253644315,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-8050-8518-e518620b1bb8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735019971142,
+      "last_edited_time": 1735019976797
+    },
+    "16684687-79ee-808e-8a38-e0d4d9c9392f": {
+      "id": "16684687-79ee-808e-8a38-e0d4d9c9392f",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "2084.4KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/7f99b229-9180-4939-8426-cef62fc44c47/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/7f99b229-9180-4939-8426-cef62fc44c47/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 1.3333333333333333,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020250693,
+      "last_edited_time": 1735020256154
+    },
+    "16684687-79ee-80dd-bfa6-e30ffb57aa63": {
+      "id": "16684687-79ee-80dd-bfa6-e30ffb57aa63",
+      "version": 8,
+      "type": "text",
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020325822,
+      "last_edited_time": 1735020328192
+    },
+    "16684687-79ee-809d-8d89-da962949481b": {
+      "id": "16684687-79ee-809d-8d89-da962949481b",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1553.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/3c935d62-24cc-4a81-a416-231c4bafd723/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 900,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/3c935d62-24cc-4a81-a416-231c4bafd723/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 1.3333333333333333,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020326238,
+      "last_edited_time": 1735020331395
+    },
+    "16684687-79ee-80c5-8842-f816ab775c72": {
+      "id": "16684687-79ee-80c5-8842-f816ab775c72",
+      "version": 8,
+      "type": "text",
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020298554,
+      "last_edited_time": 1735020325205
+    },
+    "16684687-79ee-80dd-b8f7-f7b5cd6f4051": {
+      "id": "16684687-79ee-80dd-b8f7-f7b5cd6f4051",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "2389.8KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/0c80d646-21c2-4c15-9dba-39de64dcbed0/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/0c80d646-21c2-4c15-9dba-39de64dcbed0/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 1.3333333333333333,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020299065,
+      "last_edited_time": 1735020304804
+    },
+    "16684687-79ee-806f-8a2a-c7323fd5baf4": {
+      "id": "16684687-79ee-806f-8a2a-c7323fd5baf4",
+      "version": 8,
+      "type": "text",
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020289190,
+      "last_edited_time": 1735020297987
+    },
+    "16684687-79ee-8007-8fe9-ee6c25c9e7d0": {
+      "id": "16684687-79ee-8007-8fe9-ee6c25c9e7d0",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1064.8KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/31863fd0-9b44-4aad-bd97-4b0f2c5d94c8/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/31863fd0-9b44-4aad-bd97-4b0f2c5d94c8/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5633333333333334,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020289533,
+      "last_edited_time": 1735020294381
+    },
+    "16684687-79ee-8095-8da9-e430aa5d72e8": {
+      "id": "16684687-79ee-8095-8da9-e430aa5d72e8",
+      "version": 8,
+      "type": "text",
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020278847,
+      "last_edited_time": 1735020288159
+    },
+    "16684687-79ee-80e9-a41c-d3cb8a455c83": {
+      "id": "16684687-79ee-80e9-a41c-d3cb8a455c83",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "2051.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/a65286a1-fed0-4cc1-9dd0-20416e52f12a/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 680,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/a65286a1-fed0-4cc1-9dd0-20416e52f12a/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 1,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020279363,
+      "last_edited_time": 1735020285255
+    },
+    "16684687-79ee-803d-b961-fea17f825b80": {
+      "id": "16684687-79ee-803d-b961-fea17f825b80",
+      "version": 8,
+      "type": "text",
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020258662,
+      "last_edited_time": 1735020277751
+    },
+    "16684687-79ee-809a-928c-e29709187134": {
+      "id": "16684687-79ee-809a-928c-e29709187134",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "2547.6KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/e0df2ba8-df76-445a-bcbc-6eaa8bb45895/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/e0df2ba8-df76-445a-bcbc-6eaa8bb45895/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 1.3333333333333333,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16684687-79ee-803a-852d-d01dc85f3fe7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1735020259062,
+      "last_edited_time": 1735020263727
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

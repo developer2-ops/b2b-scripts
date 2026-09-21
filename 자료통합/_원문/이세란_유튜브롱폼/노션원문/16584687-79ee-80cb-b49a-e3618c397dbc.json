@@ -1,0 +1,398 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1658468779ee80cbb49ae3618c397dbc",
+  "pageId": "16584687-79ee-80cb-b49a-e3618c397dbc",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "16584687-79ee-80cb-b49a-e3618c397dbc": {
+      "id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "version": 777,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "왜 더 싼데도 안 팔릴까?"
+          ]
+        ]
+      },
+      "content": [
+        "16584687-79ee-80ea-a011-f595a8e34908",
+        "16584687-79ee-80b2-9397-d14fe18dbbe2",
+        "16584687-79ee-8098-950a-cf6a085a98e6",
+        "16584687-79ee-80f1-88bf-c6e44c722b66",
+        "16584687-79ee-8043-9826-d7cee810238e",
+        "16584687-79ee-80a7-a40c-ed8d25460c4d",
+        "16584687-79ee-806f-bb2c-d75e1eb3bcd4",
+        "16584687-79ee-80c9-a623-f2fb1b9f5ddb",
+        "16584687-79ee-805d-8d7c-de1d3bde9089",
+        "16584687-79ee-800e-947f-f2477399ad29",
+        "16584687-79ee-8097-995f-dedc94d6258c",
+        "16584687-79ee-808c-9748-dff0a98b3369",
+        "16584687-79ee-8072-a004-e556d6fb3c05",
+        "16584687-79ee-8043-b5d9-dbf4f7ca9ba6",
+        "16584687-79ee-80a6-84e1-ff733e89f5b7",
+        "16584687-79ee-80cb-b5f6-de368d28b4fb",
+        "16584687-79ee-8051-8fee-d4f016c56229",
+        "16584687-79ee-807a-b456-ffa8bdf56311"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734931340927,
+      "last_edited_time": 1738311355436
+    },
+    "16584687-79ee-80ea-a011-f595a8e34908": {
+      "id": "16584687-79ee-80ea-a011-f595a8e34908",
+      "version": 637,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "똑같아도 훨씬 더 특별하게 파는법 "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933684366,
+      "last_edited_time": 1734934440578
+    },
+    "16584687-79ee-80b2-9397-d14fe18dbbe2": {
+      "id": "16584687-79ee-80b2-9397-d14fe18dbbe2",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            " "
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933686518,
+      "last_edited_time": 1734933686521
+    },
+    "16584687-79ee-8098-950a-cf6a085a98e6": {
+      "id": "16584687-79ee-8098-950a-cf6a085a98e6",
+      "version": 48,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "참고영상"
+          ]
+        ]
+      },
+      "content": [
+        "16584687-79ee-803a-9622-ccdca14c9535"
+      ],
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734932683727,
+      "last_edited_time": 1734932687331
+    },
+    "16584687-79ee-80f1-88bf-c6e44c722b66": {
+      "id": "16584687-79ee-80f1-88bf-c6e44c722b66",
+      "version": 10,
+      "type": "callout",
+      "content": [
+        "652a9af8-fc7b-4674-8ebe-3ea6e24f2e05"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734932690109,
+      "last_edited_time": 1734932691680
+    },
+    "652a9af8-fc7b-4674-8ebe-3ea6e24f2e05": {
+      "id": "652a9af8-fc7b-4674-8ebe-3ea6e24f2e05",
+      "version": 27,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "썸네일"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80f1-88bf-c6e44c722b66",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734932690109,
+      "last_edited_time": 1734932691192
+    },
+    "16584687-79ee-8043-9826-d7cee810238e": {
+      "id": "16584687-79ee-8043-9826-d7cee810238e",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933108407,
+      "last_edited_time": 1734933108408
+    },
+    "16584687-79ee-80a7-a40c-ed8d25460c4d": {
+      "id": "16584687-79ee-80a7-a40c-ed8d25460c4d",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933108526,
+      "last_edited_time": 1734933108528
+    },
+    "16584687-79ee-806f-bb2c-d75e1eb3bcd4": {
+      "id": "16584687-79ee-806f-bb2c-d75e1eb3bcd4",
+      "version": 14,
+      "type": "callout",
+      "content": [
+        "b45f8d4f-8ae5-4a42-b507-43a8328e69f2"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933109633,
+      "last_edited_time": 1734933130383
+    },
+    "b45f8d4f-8ae5-4a42-b507-43a8328e69f2": {
+      "id": "b45f8d4f-8ae5-4a42-b507-43a8328e69f2",
+      "version": 34,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "내용 구조"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-806f-bb2c-d75e1eb3bcd4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933109633,
+      "last_edited_time": 1734933111141
+    },
+    "16584687-79ee-80c9-a623-f2fb1b9f5ddb": {
+      "id": "16584687-79ee-80c9-a623-f2fb1b9f5ddb",
+      "version": 142,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "당신이 같은 제품을 2배 비싸게 사먹는 이유"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933152662,
+      "last_edited_time": 1734933159702
+    },
+    "16584687-79ee-805d-8d7c-de1d3bde9089": {
+      "id": "16584687-79ee-805d-8d7c-de1d3bde9089",
+      "version": 213,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "⇒ 당신이 같은 원가로 더 싸게 팔아야 하는 이유"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933159887,
+      "last_edited_time": 1734933171126
+    },
+    "16584687-79ee-800e-947f-f2477399ad29": {
+      "id": "16584687-79ee-800e-947f-f2477399ad29",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933152837,
+      "last_edited_time": 1734933152838
+    },
+    "16584687-79ee-8097-995f-dedc94d6258c": {
+      "id": "16584687-79ee-8097-995f-dedc94d6258c",
+      "version": 147,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "동일한 제품을 전혀 다르게 파는 기술"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933128677,
+      "last_edited_time": 1734933136168
+    },
+    "16584687-79ee-808c-9748-dff0a98b3369": {
+      "id": "16584687-79ee-808c-9748-dff0a98b3369",
+      "version": 48,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "인트로"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933111319,
+      "last_edited_time": 1734933115494
+    },
+    "16584687-79ee-8072-a004-e556d6fb3c05": {
+      "id": "16584687-79ee-8072-a004-e556d6fb3c05",
+      "version": 64,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "비싼 생수의 비밀"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933115648,
+      "last_edited_time": 1734933117664
+    },
+    "16584687-79ee-8043-b5d9-dbf4f7ca9ba6": {
+      "id": "16584687-79ee-8043-b5d9-dbf4f7ca9ba6",
+      "version": 107,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "같은걸 마셔도 느낌이 다른 이유"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933117752,
+      "last_edited_time": 1734933122496
+    },
+    "16584687-79ee-80a6-84e1-ff733e89f5b7": {
+      "id": "16584687-79ee-80a6-84e1-ff733e89f5b7",
+      "version": 116,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "스포츠음료가 이온음료가 된 이유"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933122656,
+      "last_edited_time": 1734933126529
+    },
+    "16584687-79ee-80cb-b5f6-de368d28b4fb": {
+      "id": "16584687-79ee-80cb-b5f6-de368d28b4fb",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933138469,
+      "last_edited_time": 1734933138470
+    },
+    "16584687-79ee-8051-8fee-d4f016c56229": {
+      "id": "16584687-79ee-8051-8fee-d4f016c56229",
+      "version": 10,
+      "type": "callout",
+      "content": [
+        "0a2318a5-6f14-47f7-b4b8-3bf2ef79111e"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933139403,
+      "last_edited_time": 1734933141918
+    },
+    "0a2318a5-6f14-47f7-b4b8-3bf2ef79111e": {
+      "id": "0a2318a5-6f14-47f7-b4b8-3bf2ef79111e",
+      "version": 45,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "대본"
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-8051-8fee-d4f016c56229",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933139403,
+      "last_edited_time": 1734933141648
+    },
+    "16584687-79ee-807a-b456-ffa8bdf56311": {
+      "id": "16584687-79ee-807a-b456-ffa8bdf56311",
+      "version": 7,
+      "type": "text",
+      "parent_id": "16584687-79ee-80cb-b49a-e3618c397dbc",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734933141767,
+      "last_edited_time": 1734933141918
+    },
+    "16584687-79ee-803a-9622-ccdca14c9535": {
+      "id": "16584687-79ee-803a-9622-ccdca14c9535",
+      "version": 6,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://www.youtube.com/watch?v=ubiFjAUa4po",
+            [
+              [
+                "a",
+                "https://www.youtube.com/watch?v=ubiFjAUa4po"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "16584687-79ee-8098-950a-cf6a085a98e6",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734932687329,
+      "last_edited_time": 1734932687573
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

@@ -1,0 +1,566 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2cd8468779ee80088d4ed82cb3199e72",
+  "pageId": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2cd84687-79ee-8008-8d4e-d82cb3199e72": {
+      "id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "version": 72,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2cc84687-79ee-8006-9189-e0a7bf6a4651",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "대본"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2cd84687-79ee-802f-85d8-e027ec5f47b6",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-12-18",
+                  "start_date": "2025-12-18"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "시작 전"
+          ]
+        ],
+        "title": [
+          [
+            " 인터뷰_김찬우대표님(호랑이굴) - 느낀점"
+          ]
+        ]
+      },
+      "content": [
+        "2cd84687-79ee-8111-9822-f729e219fb13",
+        "2cd84687-79ee-8156-a5d1-e7836d2cc2a4",
+        "2cd84687-79ee-817e-b8ed-f8aee59b1884",
+        "2cd84687-79ee-81d0-a4ca-c8a8ab9f6dd8",
+        "2cd84687-79ee-8132-92c0-c59643777d17",
+        "2cd84687-79ee-8146-8374-ff91733052c5",
+        "2cd84687-79ee-80d7-afad-fa6562ca66e5",
+        "2cd84687-79ee-8040-a4e4-ed271981b52a",
+        "2cd84687-79ee-80d0-96ff-e627c29df76b",
+        "2cd84687-79ee-808e-958d-e215dd8fac0d",
+        "2cd84687-79ee-802f-a0a2-c40718f6d785",
+        "2cd84687-79ee-8081-8428-c5d9f4b5d79e",
+        "2cd84687-79ee-80ae-a8bb-db48c202ef86",
+        "2cd84687-79ee-80b6-ba1f-cb141c3d43ff",
+        "2cd84687-79ee-8001-972c-e9fc12d984d1",
+        "2cd84687-79ee-8010-880c-de8874e586a6"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-810a-801e-f53c8242d9c0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1766048331371,
+      "last_edited_time": 1779623561102
+    },
+    "2cd84687-79ee-8111-9822-f729e219fb13": {
+      "id": "2cd84687-79ee-8111-9822-f729e219fb13",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2cd84687-79ee-81c5-ba65-ed3b87eaeff5"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c2-8a59-ccc49643ce28",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-81c5-ba65-ed3b87eaeff5": {
+      "id": "2cd84687-79ee-81c5-ba65-ed3b87eaeff5",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2cd84687-79ee-81e0-a8a8-f425d144fc26",
+        "2cd84687-79ee-812f-8047-c6b65b5f5535"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-817a-a39c-d8b332ad1d27",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8111-9822-f729e219fb13",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-81e0-a8a8-f425d144fc26": {
+      "id": "2cd84687-79ee-81e0-a8a8-f425d144fc26",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2cd84687-79ee-818e-99b0-c35e408e259e"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8169-9cc0-de0fdc35b2ed",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-81c5-ba65-ed3b87eaeff5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-818e-99b0-c35e408e259e": {
+      "id": "2cd84687-79ee-818e-99b0-c35e408e259e",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2cd84687-79ee-8147-bf81-004dc672f4fd",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8121-aaea-f17177b38a36",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-81e0-a8a8-f425d144fc26",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-812f-8047-c6b65b5f5535": {
+      "id": "2cd84687-79ee-812f-8047-c6b65b5f5535",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2cd84687-79ee-8111-9758-dda07c06f5ab"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8193-9db2-ddcd26d66896",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-81c5-ba65-ed3b87eaeff5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-8111-9758-dda07c06f5ab": {
+      "id": "2cd84687-79ee-8111-9758-dda07c06f5ab",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2cd84687-79ee-81bb-bc1d-004debb8645e",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8138-bc47-c8d6bfde4f7a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-812f-8047-c6b65b5f5535",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-8156-a5d1-e7836d2cc2a4": {
+      "id": "2cd84687-79ee-8156-a5d1-e7836d2cc2a4",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ad-8867-eabf14c3d89c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-817e-b8ed-f8aee59b1884": {
+      "id": "2cd84687-79ee-817e-b8ed-f8aee59b1884",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8184-ad27-dedccb0f89d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-81d0-a4ca-c8a8ab9f6dd8": {
+      "id": "2cd84687-79ee-81d0-a4ca-c8a8ab9f6dd8",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81f1-87fb-e1c078959f69",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-8132-92c0-c59643777d17": {
+      "id": "2cd84687-79ee-8132-92c0-c59643777d17",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8176-bc97-e03ef4bf34b7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332696,
+      "last_edited_time": 1766048332696
+    },
+    "2cd84687-79ee-8146-8374-ff91733052c5": {
+      "id": "2cd84687-79ee-8146-8374-ff91733052c5",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8186-a9bb-d013ab2099d6",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048332697,
+      "last_edited_time": 1766048332697
+    },
+    "2cd84687-79ee-80d7-afad-fa6562ca66e5": {
+      "id": "2cd84687-79ee-80d7-afad-fa6562ca66e5",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-803c-865b-dab23a7a5589",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343606,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-8040-a4e4-ed271981b52a": {
+      "id": "2cd84687-79ee-8040-a4e4-ed271981b52a",
+      "version": 3,
+      "type": "callout",
+      "content": [
+        "2cd84687-79ee-80dd-9bb7-eddca4c3622e"
+      ],
+      "format": {
+        "page_icon": "📌",
+        "block_color": "red_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-800a-9b65-e81abe7f8f76",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343607,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-80dd-9bb7-eddca4c3622e": {
+      "id": "2cd84687-79ee-80dd-9bb7-eddca4c3622e",
+      "version": 3,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "느낀점"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-804d-a580-c021b6e3b359",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8040-a4e4-ed271981b52a",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343607,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-80d0-96ff-e627c29df76b": {
+      "id": "2cd84687-79ee-80d0-96ff-e627c29df76b",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "디자이너 ⇒ 간판 도와주기 "
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-809f-a88e-c69a0fafe1d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343610,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-808e-958d-e215dd8fac0d": {
+      "id": "2cd84687-79ee-808e-958d-e215dd8fac0d",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "페이스북 광고 얼굴"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-801f-bcbf-ced6f6754603",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343610,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-802f-a0a2-c40718f6d785": {
+      "id": "2cd84687-79ee-802f-a0a2-c40718f6d785",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "인스타 스토리 어필했음 오픈할때"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-8034-98bb-d7f9b07e80c3",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343611,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-8081-8428-c5d9f4b5d79e": {
+      "id": "2cd84687-79ee-8081-8428-c5d9f4b5d79e",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "심야식당 / 고기경매 이벤트 함 ⇒ 고객 커넥션"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-807d-8cde-eb1c19a20d51",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343611,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-80ae-a8bb-db48c202ef86": {
+      "id": "2cd84687-79ee-80ae-a8bb-db48c202ef86",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "결국 요즘 온라인 안하면 안되는 듯함 "
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-8019-8530-e905ee6feb8b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343612,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-80b6-ba1f-cb141c3d43ff": {
+      "id": "2cd84687-79ee-80b6-ba1f-cb141c3d43ff",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "기간을 오래보는 것도 중요"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-8085-9571-d74cd46380d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343613,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-8001-972c-e9fc12d984d1": {
+      "id": "2cd84687-79ee-8001-972c-e9fc12d984d1",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "메뉴별로 재방문기간이 달라지니깐 그것도 감안하기"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-801c-974a-f1c4483a636b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343614,
+      "last_edited_time": 1766048343618
+    },
+    "2cd84687-79ee-8010-880c-de8874e586a6": {
+      "id": "2cd84687-79ee-8010-880c-de8874e586a6",
+      "version": 4,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "성공 경험에 취하려 하지 않은것 "
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-80d8-9ead-ddc00f462667",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cd84687-79ee-8008-8d4e-d82cb3199e72",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766048343614,
+      "last_edited_time": 1766048343618
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

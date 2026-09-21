@@ -1,0 +1,462 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1618468779ee8039b6cfdb9d2949cf38",
+  "pageId": "16184687-79ee-8039-b6cf-db9d2949cf38",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "16184687-79ee-8039-b6cf-db9d2949cf38": {
+      "id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "version": 86,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "계엄 수정"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-800c-8acc-ebbde7926835",
+        "16184687-79ee-8069-818c-cdd1eaccf7be",
+        "16184687-79ee-80d8-a6ef-d68d2095bd6a",
+        "16184687-79ee-800e-a124-f73b79ba29fb",
+        "16184687-79ee-80c6-906f-f28af9eba07e",
+        "16184687-79ee-80b6-b44c-eaca0751629a",
+        "16184687-79ee-809b-8576-f70eecbde789",
+        "16184687-79ee-80fc-b502-f553b2daae3c",
+        "16184687-79ee-8063-b3e3-fd25cbc0f036",
+        "16184687-79ee-80c5-b643-f2913b7a12a5"
+      ],
+      "parent_id": "15b84687-79ee-8022-9619-c189c0cd9da1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586598569,
+      "last_edited_time": 1734591059702
+    },
+    "16184687-79ee-800c-8acc-ebbde7926835": {
+      "id": "16184687-79ee-800c-8acc-ebbde7926835",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586601887,
+      "last_edited_time": 1734586601887
+    },
+    "16184687-79ee-8069-818c-cdd1eaccf7be": {
+      "id": "16184687-79ee-8069-818c-cdd1eaccf7be",
+      "version": 11,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "preview 테두리 없애주세요!"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-80ba-985d-c8d169e5c07b"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586607021,
+      "last_edited_time": 1734586662822
+    },
+    "16184687-79ee-80d8-a6ef-d68d2095bd6a": {
+      "id": "16184687-79ee-80d8-a6ef-d68d2095bd6a",
+      "version": 25,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "02:31 사진위에 <경기불황곡선> 이라고 적어주시구요. \n02:36 안좋았다가 좋았다가 할때 위 아래 부분 화살표로 그려서 왔다갔다함 이라고 적어주세요"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-8045-87df-fd2902ce070f"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586611375,
+      "last_edited_time": 1734586682343
+    },
+    "16184687-79ee-800e-a124-f73b79ba29fb": {
+      "id": "16184687-79ee-800e-a124-f73b79ba29fb",
+      "version": 23,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "02:59 이 사진 위에 <년도별 전염병 순서> 라고 적어주세요\n전염병 할때 03:02 메르스 할때 해당 부분 확대 03:04 더 전에 신종플루 사스 할때 해당 부분 확대해주세요"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-80e8-ad18-d4a4f14b7466"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586629886,
+      "last_edited_time": 1734586668546
+    },
+    "16184687-79ee-80c6-906f-f28af9eba07e": {
+      "id": "16184687-79ee-80c6-906f-f28af9eba07e",
+      "version": 6,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "03:08 사진 다시 바뀔때는 제목에 <년도별 경기 불황순서> 라고 적어주세요"
+          ]
+        ]
+      },
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586648782,
+      "last_edited_time": 1734586652004
+    },
+    "16184687-79ee-80b6-b44c-eaca0751629a": {
+      "id": "16184687-79ee-80b6-b44c-eaca0751629a",
+      "version": 613,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "03:25 사진 없애지 마시고 “이번엔 좀 짧은데?”에서 확대한 부분 위에 코로나끝~계엄까지 2년도 안걸림 이라고 적어주세요"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-800a-b6aa-d3a0f3d10bae"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587459777,
+      "last_edited_time": 1734587548785
+    },
+    "16184687-79ee-809b-8576-f70eecbde789": {
+      "id": "16184687-79ee-809b-8576-f70eecbde789",
+      "version": 328,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "04:18 이 평균 업체들이 항상 가장 많고요 할때 04:36 에서 가장 많음 부분 한번더 보여주세요"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-80f5-8d5f-f40be6c98d60"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587800832,
+      "last_edited_time": 1734587903427
+    },
+    "16184687-79ee-80fc-b502-f553b2daae3c": {
+      "id": "16184687-79ee-80fc-b502-f553b2daae3c",
+      "version": 385,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "04:28 하위권 할때 아래 부분은 빨간색으로 색칠하는거랑 최하위권은 빨간색으로 부탁드려요"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-809f-9e17-fc589103185b"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587836103,
+      "last_edited_time": 1734587873076
+    },
+    "16184687-79ee-8063-b3e3-fd25cbc0f036": {
+      "id": "16184687-79ee-8063-b3e3-fd25cbc0f036",
+      "version": 283,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "05:03 하위권 전체가 날아가기도 하루요 할때 아래 빨간색 부분 아예 날려주세요"
+          ]
+        ]
+      },
+      "content": [
+        "16184687-79ee-804b-8610-c16c92045543"
+      ],
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587916905,
+      "last_edited_time": 1734587947571
+    },
+    "16184687-79ee-80c5-b643-f2913b7a12a5": {
+      "id": "16184687-79ee-80c5-b643-f2913b7a12a5",
+      "version": 4,
+      "type": "text",
+      "parent_id": "16184687-79ee-8039-b6cf-db9d2949cf38",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586635008,
+      "last_edited_time": 1734586635009
+    },
+    "16184687-79ee-80ba-985d-c8d169e5c07b": {
+      "id": "16184687-79ee-80ba-985d-c8d169e5c07b",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1478.0KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/35220aae-5f4d-4f9c-bb9a-7fc7534bf83c/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 1346,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/35220aae-5f4d-4f9c-bb9a-7fc7534bf83c/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5735512630014858,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-8069-818c-cdd1eaccf7be",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586662816,
+      "last_edited_time": 1734586666752
+    },
+    "16184687-79ee-8045-87df-fd2902ce070f": {
+      "id": "16184687-79ee-8045-87df-fd2902ce070f",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1409.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/58975a54-de4f-4912-9241-ee4abd322dc5/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/58975a54-de4f-4912-9241-ee4abd322dc5/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5649926144756278,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-80d8-a6ef-d68d2095bd6a",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586682340,
+      "last_edited_time": 1734588781512
+    },
+    "16184687-79ee-80e8-ad18-d4a4f14b7466": {
+      "id": "16184687-79ee-80e8-ad18-d4a4f14b7466",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "927.6KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/2ff3afa3-450d-44e1-b03f-a6ee0af72fcd/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/2ff3afa3-450d-44e1-b03f-a6ee0af72fcd/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5695167286245353,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-800e-a124-f73b79ba29fb",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734586668544,
+      "last_edited_time": 1734589621469
+    },
+    "16184687-79ee-800a-b6aa-d3a0f3d10bae": {
+      "id": "16184687-79ee-800a-b6aa-d3a0f3d10bae",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "793.8KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/5ae61393-485d-406e-92a9-a6a336b0fd9d/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.9921875,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/5ae61393-485d-406e-92a9-a6a336b0fd9d/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5918686473807663,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-80b6-b44c-eaca0751629a",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587529562,
+      "last_edited_time": 1734590370906
+    },
+    "16184687-79ee-80f5-8d5f-f40be6c98d60": {
+      "id": "16184687-79ee-80f5-8d5f-f40be6c98d60",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "183.9KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/1a147629-dc02-4118-a53a-acfbb3c25395/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 540,
+        "block_height": 355,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/1a147629-dc02-4118-a53a-acfbb3c25395/image.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 0.6574074074074074,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-809b-8576-f70eecbde789",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587903425,
+      "last_edited_time": 1734587906778
+    },
+    "16184687-79ee-809f-9e17-fc589103185b": {
+      "id": "16184687-79ee-809f-9e17-fc589103185b",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1491.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/ce2d0d5e-233d-4fae-bc17-de1c8c287f54/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.9921875,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/ce2d0d5e-233d-4fae-bc17-de1c8c287f54/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5634328358208955,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-80fc-b502-f553b2daae3c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587873072,
+      "last_edited_time": 1734591059702
+    },
+    "16184687-79ee-804b-8610-c16c92045543": {
+      "id": "16184687-79ee-804b-8610-c16c92045543",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1171.4KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/fe118073-94ea-46e0-a95f-2388308e89c5/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 679.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/fe118073-94ea-46e0-a95f-2388308e89c5/image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5608663181478716,
+        "block_preserve_scale": true
+      },
+      "parent_id": "16184687-79ee-8063-b3e3-fd25cbc0f036",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1734587947569,
+      "last_edited_time": 1734588361519
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

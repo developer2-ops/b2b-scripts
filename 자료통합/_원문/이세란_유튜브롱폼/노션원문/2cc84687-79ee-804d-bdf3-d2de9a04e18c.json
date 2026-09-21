@@ -1,0 +1,193 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2cc8468779ee804dbdf3d2de9a04e18c",
+  "pageId": "2cc84687-79ee-804d-bdf3-d2de9a04e18c",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2cc84687-79ee-804d-bdf3-d2de9a04e18c": {
+      "id": "2cc84687-79ee-804d-bdf3-d2de9a04e18c",
+      "version": 32,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2cc84687-79ee-80a4-b080-c2834344ef22",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "eNf^": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2cc84687-79ee-8076-a1e9-d06d0471ab15",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ],
+          [
+            ","
+          ],
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2e084687-79ee-807c-9b44-c80df8450c50",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-12-17",
+                  "start_date": "2025-12-17"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "진행중"
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰_신병철대표님(우정옥) - 편집"
+          ]
+        ]
+      },
+      "content": [
+        "2cc84687-79ee-80c9-a000-c40cf10ed35e",
+        "2cc84687-79ee-80ed-b5d5-fdb7fdf44570",
+        "2cc84687-79ee-80dd-ab0e-ccbeda72a97f",
+        "2cc84687-79ee-805a-8512-ee08faf04324"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8172-a030-e41f6f0ae294",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_floating_table_of_contents": {
+          "state": "off"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1765960151863,
+      "last_edited_time": 1779623561099
+    },
+    "2cc84687-79ee-80c9-a000-c40cf10ed35e": {
+      "id": "2cc84687-79ee-80c9-a000-c40cf10ed35e",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-819b-b063-c83b644a1e54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2cc84687-79ee-804d-bdf3-d2de9a04e18c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765960152449,
+      "last_edited_time": 1765960152451
+    },
+    "2cc84687-79ee-80ed-b5d5-fdb7fdf44570": {
+      "id": "2cc84687-79ee-80ed-b5d5-fdb7fdf44570",
+      "version": 2,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c8-8857-d26e76179f75",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-804d-bdf3-d2de9a04e18c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765960152449,
+      "last_edited_time": 1765960152451
+    },
+    "2cc84687-79ee-80dd-ab0e-ccbeda72a97f": {
+      "id": "2cc84687-79ee-80dd-ab0e-ccbeda72a97f",
+      "version": 2,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8148-9e6c-ef508c6aba03",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-804d-bdf3-d2de9a04e18c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765960152449,
+      "last_edited_time": 1765960152451
+    },
+    "2cc84687-79ee-805a-8512-ee08faf04324": {
+      "id": "2cc84687-79ee-805a-8512-ee08faf04324",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-818a-9e28-f5c9038fd012",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2cc84687-79ee-804d-bdf3-d2de9a04e18c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765960152449,
+      "last_edited_time": 1765960152451
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

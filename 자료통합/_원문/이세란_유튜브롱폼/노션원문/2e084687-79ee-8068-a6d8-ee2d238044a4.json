@@ -1,0 +1,499 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2e08468779ee8068a6d8ee2d238044a4",
+  "pageId": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2e084687-79ee-8068-a6d8-ee2d238044a4": {
+      "id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "version": 72,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2ca84687-79ee-8076-8a41-d895b393c230",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2da84687-79ee-808c-9924-d872da1d5af5",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2026-01-06"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "진행중"
+          ]
+        ],
+        "title": [
+          [
+            " 인터뷰_김진관대표님(수앤진골드) - 컷편집2차"
+          ]
+        ]
+      },
+      "content": [
+        "2e084687-79ee-81c4-a297-e4acfcaeccdf",
+        "2e084687-79ee-81c1-b983-e21442ad8258",
+        "2e084687-79ee-81fe-b9ed-d568422af6a9",
+        "2e084687-79ee-81e9-82c4-ebd74e3c00af",
+        "2e084687-79ee-8112-87c6-f3b4b35da748",
+        "2e084687-79ee-81e2-86cc-f168639a02f8",
+        "2e084687-79ee-80de-84ac-e1aa8ddc8853",
+        "2e084687-79ee-80d3-99c4-ea0f372fcd29",
+        "2e084687-79ee-805b-a233-d2108b680099",
+        "2e084687-79ee-80c7-90e0-dff9ba292a17",
+        "2e084687-79ee-805f-aad5-c8b7f54bf072",
+        "2e084687-79ee-8065-9656-ea2eb9cc6914",
+        "2e084687-79ee-808c-aae4-e75e0293fdcc",
+        "2e084687-79ee-8061-9826-f38a2596619a",
+        "2e084687-79ee-8092-9393-f49cd0b483d6",
+        "2e084687-79ee-80f8-abe5-e50ed8411639"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-810a-801e-f53c8242d9c0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1767680425511,
+      "last_edited_time": 1779623561167
+    },
+    "2e084687-79ee-81c4-a297-e4acfcaeccdf": {
+      "id": "2e084687-79ee-81c4-a297-e4acfcaeccdf",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2e084687-79ee-8115-be26-c722271f7a57"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c2-8a59-ccc49643ce28",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-8115-be26-c722271f7a57": {
+      "id": "2e084687-79ee-8115-be26-c722271f7a57",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2e084687-79ee-812e-a137-e947cbe7219c",
+        "2e084687-79ee-81c0-a4bf-d3267008981a"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-817a-a39c-d8b332ad1d27",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-81c4-a297-e4acfcaeccdf",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-812e-a137-e947cbe7219c": {
+      "id": "2e084687-79ee-812e-a137-e947cbe7219c",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2e084687-79ee-8132-a9e2-f9f4b188172e"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8169-9cc0-de0fdc35b2ed",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8115-be26-c722271f7a57",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-8132-a9e2-f9f4b188172e": {
+      "id": "2e084687-79ee-8132-a9e2-f9f4b188172e",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2e084687-79ee-81f0-ab3a-004d21b0faf4",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8121-aaea-f17177b38a36",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-812e-a137-e947cbe7219c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-81c0-a4bf-d3267008981a": {
+      "id": "2e084687-79ee-81c0-a4bf-d3267008981a",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2e084687-79ee-81ef-8888-ffd091ddc6d7"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8193-9db2-ddcd26d66896",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8115-be26-c722271f7a57",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-81ef-8888-ffd091ddc6d7": {
+      "id": "2e084687-79ee-81ef-8888-ffd091ddc6d7",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2e084687-79ee-8193-bc85-004d0b082a5f",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8138-bc47-c8d6bfde4f7a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-81c0-a4bf-d3267008981a",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-81c1-b983-e21442ad8258": {
+      "id": "2e084687-79ee-81c1-b983-e21442ad8258",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ad-8867-eabf14c3d89c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-81fe-b9ed-d568422af6a9": {
+      "id": "2e084687-79ee-81fe-b9ed-d568422af6a9",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8184-ad27-dedccb0f89d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426800,
+      "last_edited_time": 1767680426800
+    },
+    "2e084687-79ee-81e9-82c4-ebd74e3c00af": {
+      "id": "2e084687-79ee-81e9-82c4-ebd74e3c00af",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81f1-87fb-e1c078959f69",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767680426801
+    },
+    "2e084687-79ee-8112-87c6-f3b4b35da748": {
+      "id": "2e084687-79ee-8112-87c6-f3b4b35da748",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8176-bc97-e03ef4bf34b7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426800,
+      "last_edited_time": 1767680426800
+    },
+    "2e084687-79ee-81e2-86cc-f168639a02f8": {
+      "id": "2e084687-79ee-81e2-86cc-f168639a02f8",
+      "version": 238,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "맨 앞에 인터뷰 시작전에 현장 영상 빠르게 잠깐만 보여주세요. "
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8186-a9bb-d013ab2099d6",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680426801,
+      "last_edited_time": 1767681074458
+    },
+    "2e084687-79ee-80de-84ac-e1aa8ddc8853": {
+      "id": "2e084687-79ee-80de-84ac-e1aa8ddc8853",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681058905,
+      "last_edited_time": 1767681058906
+    },
+    "2e084687-79ee-80d3-99c4-ea0f372fcd29": {
+      "id": "2e084687-79ee-80d3-99c4-ea0f372fcd29",
+      "version": 176,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "그리고 현장영상 끝나고 인터뷰는 바로 자기 소개 부탁드립니다로 소개해주세요. "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 2
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681058066,
+      "last_edited_time": 1767681087684
+    },
+    "2e084687-79ee-805b-a233-d2108b680099": {
+      "id": "2e084687-79ee-805b-a233-d2108b680099",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681088652,
+      "last_edited_time": 1767681088654
+    },
+    "2e084687-79ee-80c7-90e0-dff9ba292a17": {
+      "id": "2e084687-79ee-80c7-90e0-dff9ba292a17",
+      "version": 467,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "인터뷰 시작 전에 검은 문구 아래처럼 글자 좀 작게 수정해주세요. "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 3
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681081740,
+      "last_edited_time": 1767681144881
+    },
+    "2e084687-79ee-805f-aad5-c8b7f54bf072": {
+      "id": "2e084687-79ee-805f-aad5-c8b7f54bf072",
+      "version": 13,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "75.7 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:ff2649bb-f626-412f-84eb-cf0ed8c940db:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.07666015625,
+        "display_source": "attachment:ff2649bb-f626-412f-84eb-cf0ed8c940db:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5439512619669278,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681137938,
+      "last_edited_time": 1767681141884
+    },
+    "2e084687-79ee-8065-9656-ea2eb9cc6914": {
+      "id": "2e084687-79ee-8065-9656-ea2eb9cc6914",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681149282,
+      "last_edited_time": 1767681149283
+    },
+    "2e084687-79ee-808c-aae4-e75e0293fdcc": {
+      "id": "2e084687-79ee-808c-aae4-e75e0293fdcc",
+      "version": 59,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "아래 영상 참고 - "
+          ]
+        ]
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681146869,
+      "last_edited_time": 1767681151525
+    },
+    "2e084687-79ee-8061-9826-f38a2596619a": {
+      "id": "2e084687-79ee-8061-9826-f38a2596619a",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://naver.me/xF21I7ol"
+          ]
+        ],
+        "title": [
+          [
+            "우정옥_신벙철 대표님.mp4"
+          ]
+        ],
+        "description": [
+          [
+            "prepharm님이 공유한 동영상을 확인하세요."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://mybox.naver.com/favicon.ico",
+        "bookmark_cover": "https://thumb2.photo.mybox.naver.com/3472595310453579604?type=f200_200&authtoken=hty/Zi5MtbxSRB3VNPOULwI=&filelink=hiAfV8N8X9Onu/vqKmzW/o9E+jXyBNKRDI1NtWe41Qg6ZOFuTuJUtcd0R7EQJNx28UqWMsQE5r/oXtAqLEPBXAI="
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681044659,
+      "last_edited_time": 1767681044662
+    },
+    "2e084687-79ee-8092-9393-f49cd0b483d6": {
+      "id": "2e084687-79ee-8092-9393-f49cd0b483d6",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681194092,
+      "last_edited_time": 1767681194094
+    },
+    "2e084687-79ee-80f8-abe5-e50ed8411639": {
+      "id": "2e084687-79ee-80f8-abe5-e50ed8411639",
+      "version": 524,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "위 영상에서 맨 화면 대표님의 이야기를 들려주세요. 인터뷰 출연신청 고정댓글 참조 넣어주세요. "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 4
+      },
+      "parent_id": "2e084687-79ee-8068-a6d8-ee2d238044a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767680449189,
+      "last_edited_time": 1767681219951
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

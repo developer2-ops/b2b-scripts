@@ -1,0 +1,193 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2c58468779ee80aea9c4c3baafd1d1ac",
+  "pageId": "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2c584687-79ee-80ae-a9c4-c3baafd1d1ac": {
+      "id": "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+      "version": 66,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2c584687-79ee-80c3-889b-c645558d9590",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "eNf^": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2c584687-79ee-801c-8248-e758686450a0",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ],
+          [
+            ","
+          ],
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2ce84687-79ee-808e-94e3-c2d2223b8954",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-12-10",
+                  "start_date": "2025-12-10"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "2차 수정"
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰_시스템 에어컨 대표님 - 편집 (윤민영)"
+          ]
+        ]
+      },
+      "content": [
+        "2c584687-79ee-805f-a7a0-c987734b7207",
+        "2c584687-79ee-80c4-9765-c58e6e066446",
+        "2c584687-79ee-8069-bdbc-c51a50dd6bcf",
+        "2c584687-79ee-80df-ac98-cea3539f734c"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "d2d32202-bde8-474f-947d-8232cc18f575",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8172-a030-e41f6f0ae294",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_floating_table_of_contents": {
+          "state": "off"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1765349165512,
+      "last_edited_time": 1779623561054
+    },
+    "2c584687-79ee-805f-a7a0-c987734b7207": {
+      "id": "2c584687-79ee-805f-a7a0-c987734b7207",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-819b-b063-c83b644a1e54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349167046,
+      "last_edited_time": 1765349167052
+    },
+    "2c584687-79ee-80c4-9765-c58e6e066446": {
+      "id": "2c584687-79ee-80c4-9765-c58e6e066446",
+      "version": 2,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c8-8857-d26e76179f75",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349167046,
+      "last_edited_time": 1765349167052
+    },
+    "2c584687-79ee-8069-bdbc-c51a50dd6bcf": {
+      "id": "2c584687-79ee-8069-bdbc-c51a50dd6bcf",
+      "version": 2,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8148-9e6c-ef508c6aba03",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349167046,
+      "last_edited_time": 1765349167052
+    },
+    "2c584687-79ee-80df-ac98-cea3539f734c": {
+      "id": "2c584687-79ee-80df-ac98-cea3539f734c",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-818a-9e28-f5c9038fd012",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765349167046,
+      "last_edited_time": 1765349167052
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "CH03-C01",
+    "title": "CJ 2002 연차보고서 접근 시도",
+    "url": "https://display.cjonstyle.com/p/homeTab/main?hmtabMenuId=H00005",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C01.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "사용 제외: PDF 대신 쇼핑 홈으로 리다이렉트. engine ok를 내용 검증으로 간주하지 않음.",
+    "sha256": "783bc38655f9f90f1c06e1d1808340b6e9285c4c9727613fe921fc7709cf1e08",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C02",
+    "title": "야후코리아 철수 당시 보도",
+    "url": "https://www.yna.co.kr/view/AKR20121231046300017",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C02.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "f5ba415ede0d51436f3f5f19eafc755cce0b4a40d74e717eb0d76c0f59db30e2",
+    "type": "당시 언론 보도"
+  },
+  {
+    "id": "CH03-C03",
+    "title": "싸이월드 2006 회원 규모",
+    "url": "https://www.etnews.com/200607260043",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C03.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "cbc00161b8b9f05d0afc4c039791057d079e72383e18be9ff497cc4d677e6385",
+    "type": "당시 언론 보도"
+  },
+  {
+    "id": "CH03-C04",
+    "title": "ETRI 2017 연구자 분석",
+    "url": "https://ksp.etri.re.kr/ksp/plan-report/file/591.pdf",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C04_web_extract.txt",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "engine 160초 초과. web PDF 추출로 본문 36~37쪽(PDF 40~41쪽) 확인. 전체 PDF 로컬 저장은 미완료.",
+    "sha256": "81258b9ca08fc095fbdc07daaf37721887044bd71ed3c39adec4ddd0b230d656",
+    "type": "연구 보고서 부분 추출"
+  },
+  {
+    "id": "CH03-C05",
+    "title": "싸이월드 2022 재개",
+    "url": "https://www.yna.co.kr/view/AKR20220402040900017",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C05.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "720687780a72dbd023b9e8b8388dc65d8adfc7d2af6ea0b9780fe1aee6120b0d",
+    "type": "당시 언론 보도"
+  },
+  {
+    "id": "CH03-C06",
+    "title": "카카오톡 공식 연혁",
+    "url": "https://www.kakaocorp.com/page/detail/10810",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C06.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "e751c697dbde27feadec1b9e1a672972bb430091c19769941438e0ab49a09532",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C07",
+    "title": "핑크퐁 100억뷰",
+    "url": "https://www.thepinkfongcompany.com/news/pr/70",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C07.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "97e5005017be94e685abd52e90aa9e732feb02d0792b48b8ddf25c98cfa04fe1",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C08",
+    "title": "틱톡 월 이용자 10억",
+    "url": "https://newsroom.tiktok.com/1-billion-people-on-tiktok?lang=en",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C08.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "4175e54b97ddab9c8f559e2c15eccb19c9aea4f4fcf5ee028dc904bddc79a2c3",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C09",
+    "title": "무신사 창업·확장 기록",
+    "url": "https://about.musinsa.com/newsroom/musinsa-ceo",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C09.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "7eb6ec3092caef6dd92ccea122069281382fc86dee08cecfbe88d9e6f39ca69a",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C10",
+    "title": "무신사 2023 실적",
+    "url": "https://about.musinsa.com/newsroom/2024-0409",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C10.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "c09e1fab3040bbf38e4c6817894eeb2a7d5fe5f30ebee553b54c0db53409ac27",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C11",
+    "title": "OpenAI 소비자 이용 연구",
+    "url": "https://openai.com/ko-KR/index/how-people-are-using-chatgpt/",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C11.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "5c2bc68c5d1f2f4c86ef1ed9e0973e25484b2ca4c4359e1c8577ed95dae71dbf",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C12",
+    "title": "홈쇼핑 10주년 보도 접근 시도",
+    "url": "https://www.hankyung.com/article/2005073187181",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C12.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "사용 제외: Cloudflare 차단. C15의 회사 배포자료로 대체.",
+    "sha256": "a44a300a406ae8b6a10dfc3489f03d044f565faa470f2c4ed7d0604a87812246",
+    "type": "당시 언론 보도"
+  },
+  {
+    "id": "CH03-C13",
+    "title": "네이버 지식iN 10주년",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=28650",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C13.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "93bb01f8343d6155f20f7e83c64210e878b7a73b87d588dfd0f35cbe05e00672",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C14",
+    "title": "네이버 2003 검색 순위",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=26513",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C14.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "fd51bd48b668e4e6e4d825f65de66581b8924c5575bcbef4cc0f193064e43ffb",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C15",
+    "title": "CJ홈쇼핑 히트상품 회고",
+    "url": "https://www.newswire.co.kr/newsRead.php?no=351237",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C15.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 확인",
+    "sha256": "e3e14b1267abbafbd1aa00b9433e43fbb82d956f36c896ce172e4e311eec060a",
+    "type": "기업 공식 발표·배포자료"
+  },
+  {
+    "id": "CH03-C16",
+    "title": "2008 근로자 평균 연봉 국세청 발표 보도",
+    "type": "당시 언론 보도",
+    "url": "https://www.mt.co.kr/economy/2009/12/29/2009122911301898547",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C16.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 본문 확인",
+    "sha256": "36ceae532ff33d0a88a1a82d74a19e132b7b77e3e4ec6a7c35200ddac2657e1a"
+  },
+  {
+    "id": "CH03-C17",
+    "title": "가구 인터넷 보급률 해설",
+    "type": "공식 통계 해설",
+    "url": "https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1345",
+    "path": "자료통합/_원문/CH00_3강_시대별회사사례/C17.json",
+    "retrieved": "2026-09-18",
+    "version": "retrieved snapshot",
+    "status": "원문 본문 확인",
+    "sha256": "f35945f523357b47150ca274dbcb0a6d8a44549336829a68714cfb29d631f5d7"
+  }
+]

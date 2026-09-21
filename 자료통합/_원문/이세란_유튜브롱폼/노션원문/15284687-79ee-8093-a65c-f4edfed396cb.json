@@ -1,0 +1,53 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1528468779ee8093a65cf4edfed396cb",
+  "pageId": "15284687-79ee-8093-a65c-f4edfed396cb",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "15284687-79ee-8093-a65c-f4edfed396cb": {
+      "id": "15284687-79ee-8093-a65c-f4edfed396cb",
+      "version": 327,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "자영업자가 현실적으로 벌수 있는 월 순수익은 얼마일까?"
+          ]
+        ]
+      },
+      "content": [
+        "15284687-79ee-80ad-81cd-f04634b460e9"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292759993,
+      "last_edited_time": 1733292780476
+    },
+    "15284687-79ee-80ad-81cd-f04634b460e9": {
+      "id": "15284687-79ee-80ad-81cd-f04634b460e9",
+      "version": 8,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://www.hankyung.com/article/2016122270241",
+            [
+              [
+                "a",
+                "https://www.hankyung.com/article/2016122270241"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-8093-a65c-f4edfed396cb",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292775091,
+      "last_edited_time": 1733292780476
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

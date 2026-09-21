@@ -1,0 +1,596 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/0dd4f6ff78094ae58057fa8dfc63317f",
+  "pageId": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f": {
+      "id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "version": 138,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "편집 가이드라인"
+          ]
+        ]
+      },
+      "content": [
+        "f6f01186-690e-4653-a617-296d99bf3a11",
+        "36cbd3be-61a8-41ac-80cc-4834d81a3942",
+        "060710ec-2abe-4905-b279-6b09b6e994dc",
+        "543b2211-d82b-4e31-acbc-6f033229037b",
+        "7df08265-3c95-41c2-8596-9ac0d20594ad",
+        "ccbf96e2-2dd9-40d6-af9e-0b0c8cb950d8",
+        "9c83093f-09f8-4c1c-8ed6-44dcb7c20e08",
+        "65658980-bff6-410a-be33-484be60f6834",
+        "15a79cf3-a9dc-4f21-a317-3412bf476ecf",
+        "5b5f6f75-3ae9-412e-a456-a935e11546e1",
+        "b76f02e4-1bec-41ba-bc61-bdee244d11e4",
+        "c040afea-c8c2-4f88-a894-10f1742d01d9",
+        "85dce6fd-2e96-4fb3-a9a9-e14d6cef9ad2",
+        "abd27e77-d3e4-4217-85a7-1dc6a2bc733b",
+        "bb06468b-8744-4057-b0d1-e164a01ef7c6",
+        "d681b691-cbf2-40ef-a98e-318ee9e8d15b",
+        "84f7e3ea-dcc8-4b67-8ea4-d7339c0ef979",
+        "9a44604e-9bd9-4cd1-a802-1ca7abefb791",
+        "3f1f3f6c-4370-4d7d-a935-619478463794",
+        "ac786fa4-d8d7-48b8-a5b2-8203918210ad",
+        "17193915-1dbe-4df5-99c3-98924815219e",
+        "4d6c2630-ed44-4a61-bc95-36f86aa00dbb",
+        "c5187586-3569-40ca-80fe-ece846000b87"
+      ],
+      "format": {
+        "social_media_image_preview_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/20f2bcc2-8027-4a63-9d70-e84db3cf25e4/SocialMediaPreviewImage.png"
+      },
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442958196,
+      "last_edited_time": 1738298884849
+    },
+    "f6f01186-690e-4653-a617-296d99bf3a11": {
+      "id": "f6f01186-690e-4653-a617-296d99bf3a11",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442974783,
+      "last_edited_time": 1721442974785
+    },
+    "36cbd3be-61a8-41ac-80cc-4834d81a3942": {
+      "id": "36cbd3be-61a8-41ac-80cc-4834d81a3942",
+      "version": 254,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "*편집 가이드라인 영상",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442877007,
+      "last_edited_time": 1721442973247
+    },
+    "060710ec-2abe-4905-b279-6b09b6e994dc": {
+      "id": "060710ec-2abe-4905-b279-6b09b6e994dc",
+      "version": 16,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://www.youtube.com/channel/UChs-TNchKal0S3FwGFwP-Ww",
+            [
+              [
+                "a",
+                "https://www.youtube.com/channel/UChs-TNchKal0S3FwGFwP-Ww"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442571658,
+      "last_edited_time": 1738298886279
+    },
+    "543b2211-d82b-4e31-acbc-6f033229037b": {
+      "id": "543b2211-d82b-4e31-acbc-6f033229037b",
+      "version": 158,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "파트별로 브금을 다르게해주세요"
+          ]
+        ]
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721279687887,
+      "last_edited_time": 1721443121478
+    },
+    "7df08265-3c95-41c2-8596-9ac0d20594ad": {
+      "id": "7df08265-3c95-41c2-8596-9ac0d20594ad",
+      "version": 301,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "여기서 말하는 파트란 대본에서 아래처럼 표시되어있는 부분입니다."
+          ]
+        ]
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721783263316,
+      "last_edited_time": 1721783274961
+    },
+    "ccbf96e2-2dd9-40d6-af9e-0b0c8cb950d8": {
+      "id": "ccbf96e2-2dd9-40d6-af9e-0b0c8cb950d8",
+      "version": 16,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "2.3KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/88cc4765-9d60-4d68-84f1-dbdc25be42a2/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/88cc4765-9d60-4d68-84f1-dbdc25be42a2/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.0957004160887656,
+        "block_preserve_scale": true
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721783261260,
+      "last_edited_time": 1721783264834
+    },
+    "9c83093f-09f8-4c1c-8ed6-44dcb7c20e08": {
+      "id": "9c83093f-09f8-4c1c-8ed6-44dcb7c20e08",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721783260516,
+      "last_edited_time": 1721783260517
+    },
+    "65658980-bff6-410a-be33-484be60f6834": {
+      "id": "65658980-bff6-410a-be33-484be60f6834",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442981367,
+      "last_edited_time": 1721442981368
+    },
+    "15a79cf3-a9dc-4f21-a317-3412bf476ecf": {
+      "id": "15a79cf3-a9dc-4f21-a317-3412bf476ecf",
+      "version": 305,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "파트가 시작될때마다 뒤에 움직이는 화면 앞에 아래 사진처럼 글을 써주세요."
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 2
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442818318,
+      "last_edited_time": 1721443121478
+    },
+    "5b5f6f75-3ae9-412e-a456-a935e11546e1": {
+      "id": "5b5f6f75-3ae9-412e-a456-a935e11546e1",
+      "version": 7,
+      "type": "column_list",
+      "content": [
+        "cc48b03e-22f0-4770-b9b2-0842f8dabc02",
+        "5166fdc8-8aa6-4068-bc6d-20090f4eec40"
+      ],
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721443103314,
+      "last_edited_time": 1721443103317
+    },
+    "cc48b03e-22f0-4770-b9b2-0842f8dabc02": {
+      "id": "cc48b03e-22f0-4770-b9b2-0842f8dabc02",
+      "version": 7,
+      "type": "column",
+      "content": [
+        "3b8eb372-2316-4cd0-9cd2-7c177fb21778"
+      ],
+      "format": {
+        "column_ratio": 0.5
+      },
+      "parent_id": "5b5f6f75-3ae9-412e-a456-a935e11546e1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721443103313,
+      "last_edited_time": 1721443103317
+    },
+    "3b8eb372-2316-4cd0-9cd2-7c177fb21778": {
+      "id": "3b8eb372-2316-4cd0-9cd2-7c177fb21778",
+      "version": 28,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "368.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f2e1809c-4408-4a03-b17b-a3a0036d3777/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 330.95703125,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f2e1809c-4408-4a03-b17b-a3a0036d3777/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.48970747562296857,
+        "block_preserve_scale": true
+      },
+      "parent_id": "cc48b03e-22f0-4770-b9b2-0842f8dabc02",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442830811,
+      "last_edited_time": 1730772653609
+    },
+    "5166fdc8-8aa6-4068-bc6d-20090f4eec40": {
+      "id": "5166fdc8-8aa6-4068-bc6d-20090f4eec40",
+      "version": 7,
+      "type": "column",
+      "content": [
+        "f340d051-e899-4fcc-a5fb-c21c60f8ff99"
+      ],
+      "format": {
+        "column_ratio": 0.5
+      },
+      "parent_id": "5b5f6f75-3ae9-412e-a456-a935e11546e1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721443103315,
+      "last_edited_time": 1721443103317
+    },
+    "f340d051-e899-4fcc-a5fb-c21c60f8ff99": {
+      "id": "f340d051-e899-4fcc-a5fb-c21c60f8ff99",
+      "version": 17,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "363.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/4b4cc20e-a340-4ea9-af83-465688267089/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 1600,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/4b4cc20e-a340-4ea9-af83-465688267089/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.50625,
+        "block_preserve_scale": true
+      },
+      "parent_id": "5166fdc8-8aa6-4068-bc6d-20090f4eec40",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721443101965,
+      "last_edited_time": 1721443105187
+    },
+    "b76f02e4-1bec-41ba-bc61-bdee244d11e4": {
+      "id": "b76f02e4-1bec-41ba-bc61-bdee244d11e4",
+      "version": 13,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442590677,
+      "last_edited_time": 1721442961529
+    },
+    "c040afea-c8c2-4f88-a894-10f1742d01d9": {
+      "id": "c040afea-c8c2-4f88-a894-10f1742d01d9",
+      "version": 441,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "강조하는 부분은 아래 사진처럼 화면전체에 적어주세요"
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 3
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721442877207,
+      "last_edited_time": 1721443089127
+    },
+    "85dce6fd-2e96-4fb3-a9a9-e14d6cef9ad2": {
+      "id": "85dce6fd-2e96-4fb3-a9a9-e14d6cef9ad2",
+      "version": 14,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721443069208,
+      "last_edited_time": 1721783846415
+    },
+    "abd27e77-d3e4-4217-85a7-1dc6a2bc733b": {
+      "id": "abd27e77-d3e4-4217-85a7-1dc6a2bc733b",
+      "version": 16,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "2087.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f8cf24ad-bb04-4d50-9945-ce88674d1aac/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 707.96875,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f8cf24ad-bb04-4d50-9945-ce88674d1aac/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.554375,
+        "block_preserve_scale": true
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721443069530,
+      "last_edited_time": 1727963344068
+    },
+    "bb06468b-8744-4057-b0d1-e164a01ef7c6": {
+      "id": "bb06468b-8744-4057-b0d1-e164a01ef7c6",
+      "version": 16,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1049.0KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/42e1eaf0-e03e-43f8-8ec3-9de649acc8f5/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 707.96875,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/42e1eaf0-e03e-43f8-8ec3-9de649acc8f5/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5531914893617021,
+        "block_preserve_scale": true
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721783871555,
+      "last_edited_time": 1727963343958
+    },
+    "d681b691-cbf2-40ef-a98e-318ee9e8d15b": {
+      "id": "d681b691-cbf2-40ef-a98e-318ee9e8d15b",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721782758579,
+      "last_edited_time": 1721782758581
+    },
+    "84f7e3ea-dcc8-4b67-8ea4-d7339c0ef979": {
+      "id": "84f7e3ea-dcc8-4b67-8ea4-d7339c0ef979",
+      "version": 679,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "위 영상처럼 강조 및 정리하는 부분의 문구들 배경은 #400B9B 로만 사용 해주세요"
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 4
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721782757861,
+      "last_edited_time": 1721784265032
+    },
+    "9a44604e-9bd9-4cd1-a802-1ca7abefb791": {
+      "id": "9a44604e-9bd9-4cd1-a802-1ca7abefb791",
+      "version": 18,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "45.9KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/e7a4e1a4-3b2e-47c3-b45a-c325c3f80e17/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 303.92578125,
+        "block_height": 80,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/e7a4e1a4-3b2e-47c3-b45a-c325c3f80e17/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 0.2631578947368421,
+        "block_preserve_scale": true
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721782824279,
+      "last_edited_time": 1730772653196
+    },
+    "3f1f3f6c-4370-4d7d-a935-619478463794": {
+      "id": "3f1f3f6c-4370-4d7d-a935-619478463794",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721782844033,
+      "last_edited_time": 1721782844035
+    },
+    "ac786fa4-d8d7-48b8-a5b2-8203918210ad": {
+      "id": "ac786fa4-d8d7-48b8-a5b2-8203918210ad",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721783884421,
+      "last_edited_time": 1721783884423
+    },
+    "17193915-1dbe-4df5-99c3-98924815219e": {
+      "id": "17193915-1dbe-4df5-99c3-98924815219e",
+      "version": 143,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "컬러는 아래 컬러들만 사용해주세요. "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 5
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721782844123,
+      "last_edited_time": 1721783889879
+    },
+    "4d6c2630-ed44-4a61-bc95-36f86aa00dbb": {
+      "id": "4d6c2630-ed44-4a61-bc95-36f86aa00dbb",
+      "version": 16,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1600.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/9cb721e3-41db-446b-97d5-d89671926315/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 707.98291015625,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/9cb721e3-41db-446b-97d5-d89671926315/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5697160883280757,
+        "block_preserve_scale": true
+      },
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721784209777,
+      "last_edited_time": 1727963343570
+    },
+    "c5187586-3569-40ca-80fe-ece846000b87": {
+      "id": "c5187586-3569-40ca-80fe-ece846000b87",
+      "version": 5,
+      "type": "text",
+      "parent_id": "0dd4f6ff-7809-4ae5-8057-fa8dfc63317f",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1721784287276,
+      "last_edited_time": 1721784287279
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

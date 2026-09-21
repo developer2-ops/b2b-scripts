@@ -1,0 +1,249 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2808468779ee800293b1daa7150f9ee5",
+  "pageId": "28084687-79ee-8002-93b1-daa7150f9ee5",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "28084687-79ee-8002-93b1-daa7150f9ee5": {
+      "id": "28084687-79ee-8002-93b1-daa7150f9ee5",
+      "version": 29,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "27984687-79ee-8073-acef-e6b40172cc45",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "촬영"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2025-10-02"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "제로클릭시대 - 촬영"
+          ]
+        ]
+      },
+      "content": [
+        "28084687-79ee-8114-b643-d413b5c34dd1",
+        "28084687-79ee-819a-b780-d361fc4406cc"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-817d-8e2a-c6f7bc5b6c29",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1759391473126,
+      "last_edited_time": 1779623560637
+    },
+    "28084687-79ee-8114-b643-d413b5c34dd1": {
+      "id": "28084687-79ee-8114-b643-d413b5c34dd1",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "28084687-79ee-8138-bbee-c192ab469a14",
+        "28084687-79ee-81be-a671-d8e02c0e8ea4"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8115-a9fb-ca43622c0bb0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-8002-93b1-daa7150f9ee5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475214,
+      "last_edited_time": 1759391475214
+    },
+    "28084687-79ee-8138-bbee-c192ab469a14": {
+      "id": "28084687-79ee-8138-bbee-c192ab469a14",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "28084687-79ee-81d3-b8f8-f90f983b7253"
+      ],
+      "format": {
+        "column_ratio": 0.375,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8161-8244-c6b20eb6cc35",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-8114-b643-d413b5c34dd1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475215,
+      "last_edited_time": 1759391475215
+    },
+    "28084687-79ee-81d3-b8f8-f90f983b7253": {
+      "id": "28084687-79ee-81d3-b8f8-f90f983b7253",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "28084687-79ee-811d-b05b-edf7b43c69ed",
+        "28084687-79ee-81ca-a93a-fb7daa1fefdb"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81a9-b386-e7e8955220ad",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-8138-bbee-c192ab469a14",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475215,
+      "last_edited_time": 1759391475215
+    },
+    "28084687-79ee-811d-b05b-edf7b43c69ed": {
+      "id": "28084687-79ee-811d-b05b-edf7b43c69ed",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "28084687-79ee-812b-9343-004dc90108f7",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81b2-91f7-f2972b206dad",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-81d3-b8f8-f90f983b7253",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475215,
+      "last_edited_time": 1759391475215
+    },
+    "28084687-79ee-81ca-a93a-fb7daa1fefdb": {
+      "id": "28084687-79ee-81ca-a93a-fb7daa1fefdb",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "28084687-79ee-8111-9293-004da2f00711",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8161-8f72-e3d3081e0638",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-81d3-b8f8-f90f983b7253",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475215,
+      "last_edited_time": 1759391475215
+    },
+    "28084687-79ee-81be-a671-d8e02c0e8ea4": {
+      "id": "28084687-79ee-81be-a671-d8e02c0e8ea4",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "28084687-79ee-81ba-9c0f-c787b756ff56"
+      ],
+      "format": {
+        "column_ratio": 0.625,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81e0-bdec-e71955bce1a0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-8114-b643-d413b5c34dd1",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475215,
+      "last_edited_time": 1759391475215
+    },
+    "28084687-79ee-81ba-9c0f-c787b756ff56": {
+      "id": "28084687-79ee-81ba-9c0f-c787b756ff56",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8116-bca7-d7b20200fb2f",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "28084687-79ee-81be-a671-d8e02c0e8ea4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475215,
+      "last_edited_time": 1759391475215
+    },
+    "28084687-79ee-819a-b780-d361fc4406cc": {
+      "id": "28084687-79ee-819a-b780-d361fc4406cc",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81a9-aaf0-d45d56cc32f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-8002-93b1-daa7150f9ee5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391475214,
+      "last_edited_time": 1759391475214
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

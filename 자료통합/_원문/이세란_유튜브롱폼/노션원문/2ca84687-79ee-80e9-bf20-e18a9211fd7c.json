@@ -1,0 +1,180 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2ca8468779ee80e9bf20e18a9211fd7c",
+  "pageId": "2ca84687-79ee-80e9-bf20-e18a9211fd7c",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2ca84687-79ee-80e9-bf20-e18a9211fd7c": {
+      "id": "2ca84687-79ee-80e9-bf20-e18a9211fd7c",
+      "version": 25,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2ca84687-79ee-8076-8a41-d895b393c230",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "대본"
+          ]
+        ],
+        "eNf^": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2ca84687-79ee-80ae-bc2b-da37cd3d5384",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-12-15",
+                  "start_date": "2025-12-15"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰_김진관대표님 - 대본"
+          ]
+        ]
+      },
+      "content": [
+        "2ca84687-79ee-804c-a24c-f8da4990ad45",
+        "2ca84687-79ee-80c8-ac3c-ef646157207b",
+        "2ca84687-79ee-80fa-ba33-fc4e84d1eb32",
+        "2ca84687-79ee-807a-be9b-dbf40921c90f"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8172-a030-e41f6f0ae294",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_floating_table_of_contents": {
+          "state": "off"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1765804411202,
+      "last_edited_time": 1779623561091
+    },
+    "2ca84687-79ee-804c-a24c-f8da4990ad45": {
+      "id": "2ca84687-79ee-804c-a24c-f8da4990ad45",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-819b-b063-c83b644a1e54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2ca84687-79ee-80e9-bf20-e18a9211fd7c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765804422488,
+      "last_edited_time": 1765804422491
+    },
+    "2ca84687-79ee-80c8-ac3c-ef646157207b": {
+      "id": "2ca84687-79ee-80c8-ac3c-ef646157207b",
+      "version": 2,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c8-8857-d26e76179f75",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ca84687-79ee-80e9-bf20-e18a9211fd7c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765804422488,
+      "last_edited_time": 1765804422491
+    },
+    "2ca84687-79ee-80fa-ba33-fc4e84d1eb32": {
+      "id": "2ca84687-79ee-80fa-ba33-fc4e84d1eb32",
+      "version": 2,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8148-9e6c-ef508c6aba03",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ca84687-79ee-80e9-bf20-e18a9211fd7c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765804422488,
+      "last_edited_time": 1765804422491
+    },
+    "2ca84687-79ee-807a-be9b-dbf40921c90f": {
+      "id": "2ca84687-79ee-807a-be9b-dbf40921c90f",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-818a-9e28-f5c9038fd012",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2ca84687-79ee-80e9-bf20-e18a9211fd7c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765804422488,
+      "last_edited_time": 1765804422491
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

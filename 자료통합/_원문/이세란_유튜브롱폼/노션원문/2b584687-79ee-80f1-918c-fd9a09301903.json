@@ -1,0 +1,1331 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2b58468779ee80f1918cfd9a09301903",
+  "pageId": "2b584687-79ee-80f1-918c-fd9a09301903",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2b584687-79ee-80f1-918c-fd9a09301903": {
+      "id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "version": 155,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2b584687-79ee-8007-891e-eaed00a1587f",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-8199-8849-dd47aa1a0a75",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "레퍼런스"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-11-24",
+                  "start_date": "2025-11-24"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "버터마케팅 _컨텐츠찾기"
+          ]
+        ]
+      },
+      "content": [
+        "2b584687-79ee-81a9-b02d-c3db5a23f317",
+        "2b584687-79ee-814d-9067-ccb569292d54",
+        "2b584687-79ee-8193-945d-cea462c458c6",
+        "2b584687-79ee-811b-8b49-c4715d6f7d87",
+        "2b584687-79ee-81a2-b767-d38b6611313e",
+        "2b584687-79ee-818d-8a7f-fc05a55b97e1",
+        "2b584687-79ee-80fc-bfc3-ec91135a233b",
+        "2b584687-79ee-801e-8c7b-fac4f2289790",
+        "2b584687-79ee-80b1-9c34-c5775a8637cb",
+        "2b584687-79ee-8016-9540-e7467b669782",
+        "2b584687-79ee-809f-8b30-cefb15553c91",
+        "2b584687-79ee-8017-9349-d04ddc92e481",
+        "2b584687-79ee-80f6-a760-ed71d621bc20",
+        "2b584687-79ee-80ff-afa4-c4e838b94276",
+        "2b584687-79ee-804b-8635-e28bdadba8c8",
+        "2b584687-79ee-80d2-ace7-ee09d34bb94c",
+        "2b584687-79ee-8039-b027-c8d8c827d6e9",
+        "2b584687-79ee-80dd-9fa7-df2c26cf7610",
+        "2b584687-79ee-80cd-ba57-e77e03c6894e",
+        "2b584687-79ee-80ed-91d8-cce686422ee3",
+        "2b584687-79ee-809e-9678-ea01ce3d22d7",
+        "2b584687-79ee-8023-bada-ead9fe1d2883",
+        "2b584687-79ee-8026-88a5-e256f5dc8635",
+        "2b584687-79ee-80bd-af86-f449bcc27b11",
+        "2b584687-79ee-80cb-9518-f2526dbfff76",
+        "2b584687-79ee-808d-ac40-c137c84d04d9",
+        "2b584687-79ee-80a2-9020-d6069b66de5d",
+        "2b584687-79ee-807f-9596-c3b06936653f",
+        "2b584687-79ee-8040-98be-d25177f13d29",
+        "2b584687-79ee-8046-8d2e-dd731229a614",
+        "2b584687-79ee-80a4-a849-f36605b208a6",
+        "2b584687-79ee-80e0-aa1f-f29de2c23ade",
+        "2b584687-79ee-804a-8512-d9d0b608e800",
+        "2b584687-79ee-8053-b141-d11e3caa03b0",
+        "2b584687-79ee-80aa-a861-ec62d4518f07",
+        "2b584687-79ee-80f1-9e85-d064d439e679",
+        "2b584687-79ee-806a-9978-c4b8a01f6d08",
+        "2b584687-79ee-80c6-8d7d-e3e99a32b3bf",
+        "2b584687-79ee-80f4-be9f-d7c5242a48e5",
+        "2b584687-79ee-80d6-bd43-de2827fd43d2",
+        "2b584687-79ee-8096-bd31-ee1410824d2c",
+        "2b584687-79ee-8000-8c82-cccfb43c1d58",
+        "2b584687-79ee-80f2-8f88-d5b22f7518c2",
+        "2b584687-79ee-806b-b4e9-feae527a4793",
+        "2b584687-79ee-8065-9e15-f7d4dec29216",
+        "2b584687-79ee-80bc-8bb6-e67e880d1261",
+        "2b584687-79ee-80f2-ac1b-c302e94ad8b0"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80b2-89b5-f6459a332b87",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "social_media_image_preview_url": "attachment:899251f6-5f46-4098-9db5-68d6ca07d9a5:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1763973116585,
+      "last_edited_time": 1779623560963
+    },
+    "2b584687-79ee-81a9-b02d-c3db5a23f317": {
+      "id": "2b584687-79ee-81a9-b02d-c3db5a23f317",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2b584687-79ee-81e4-baa1-c5fcca8ac2a5"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8024-9e82-d53e85ca1305",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117498,
+      "last_edited_time": 1763973117498
+    },
+    "2b584687-79ee-81e4-baa1-c5fcca8ac2a5": {
+      "id": "2b584687-79ee-81e4-baa1-c5fcca8ac2a5",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2b584687-79ee-81e1-a59b-f176cfde06fd",
+        "2b584687-79ee-816d-8fef-cc24b0e92717"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80b7-b9a1-dcad0fbca650",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-81a9-b02d-c3db5a23f317",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-81e1-a59b-f176cfde06fd": {
+      "id": "2b584687-79ee-81e1-a59b-f176cfde06fd",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2b584687-79ee-81b9-91a1-e4b17e8c55f7"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80a7-b9ec-fc4b5f94020b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-81e4-baa1-c5fcca8ac2a5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-81b9-91a1-e4b17e8c55f7": {
+      "id": "2b584687-79ee-81b9-91a1-e4b17e8c55f7",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2b584687-79ee-814b-919e-004d586bd876",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8099-a9fd-d39f2bdf9aaf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-81e1-a59b-f176cfde06fd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-816d-8fef-cc24b0e92717": {
+      "id": "2b584687-79ee-816d-8fef-cc24b0e92717",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2b584687-79ee-8184-a582-ff6f51acd858"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8059-938c-fbfd2e93bdae",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-81e4-baa1-c5fcca8ac2a5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-8184-a582-ff6f51acd858": {
+      "id": "2b584687-79ee-8184-a582-ff6f51acd858",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2b584687-79ee-8129-9bec-004d67995e21",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-808c-9fa9-f8756a7912a0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-816d-8fef-cc24b0e92717",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-814d-9067-ccb569292d54": {
+      "id": "2b584687-79ee-814d-9067-ccb569292d54",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80ea-aeed-e43f32c9bbb5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-8193-945d-cea462c458c6": {
+      "id": "2b584687-79ee-8193-945d-cea462c458c6",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8025-b26c-c2a0743b8736",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117498,
+      "last_edited_time": 1763973117498
+    },
+    "2b584687-79ee-811b-8b49-c4715d6f7d87": {
+      "id": "2b584687-79ee-811b-8b49-c4715d6f7d87",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-8087-9c97-e293964db48c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117498,
+      "last_edited_time": 1763973117498
+    },
+    "2b584687-79ee-81a2-b767-d38b6611313e": {
+      "id": "2b584687-79ee-81a2-b767-d38b6611313e",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-805e-a9cf-fc1bcec0ec8a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117498,
+      "last_edited_time": 1763973117498
+    },
+    "2b584687-79ee-818d-8a7f-fc05a55b97e1": {
+      "id": "2b584687-79ee-818d-8a7f-fc05a55b97e1",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27a84687-79ee-80cb-ae2c-de421f640c5e",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973117499,
+      "last_edited_time": 1763973117499
+    },
+    "2b584687-79ee-80fc-bfc3-ec91135a233b": {
+      "id": "2b584687-79ee-80fc-bfc3-ec91135a233b",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973140584,
+      "last_edited_time": 1763973140586
+    },
+    "2b584687-79ee-801e-8c7b-fac4f2289790": {
+      "id": "2b584687-79ee-801e-8c7b-fac4f2289790",
+      "version": 13,
+      "type": "callout",
+      "content": [
+        "2b584687-79ee-80a6-b193-c45c9a2fd241"
+      ],
+      "format": {
+        "page_icon": "📌",
+        "block_color": "red_background",
+        "callout_version": 2
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973141352,
+      "last_edited_time": 1763973166072
+    },
+    "2b584687-79ee-80a6-b193-c45c9a2fd241": {
+      "id": "2b584687-79ee-80a6-b193-c45c9a2fd241",
+      "version": 15,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "버터"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-801e-8c7b-fac4f2289790",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973141352,
+      "last_edited_time": 1763973141791
+    },
+    "2b584687-79ee-80b1-9c34-c5775a8637cb": {
+      "id": "2b584687-79ee-80b1-9c34-c5775a8637cb",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973577975,
+      "last_edited_time": 1763973577977
+    },
+    "2b584687-79ee-8016-9540-e7467b669782": {
+      "id": "2b584687-79ee-8016-9540-e7467b669782",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=SZJnCAmRq_U"
+          ]
+        ],
+        "title": [
+          [
+            "돌처럼 굳은 변 30분만에 쾌변하는 법(변비에 좋은 음식 1위 조합),비싼 약대신 아침에 ‘이것’을 먹어보세요."
+          ]
+        ],
+        "description": [
+          [
+            "같이 일하던 소화기내과 의사 선생님이랑\n항상 이야기 했던 '돌처럼 굳은 변 30분만에 쾌변하는 법'을 말씀드렸습니다.\n\n변비약, 유산균, 식이섬유 먹어도 해결되지 않았던 분들은\n이 영상 참고하셔서 딱 1주일만 실천해보세요.\n\n[갱선생이 먹는 모든 식품들]\nhttps://litt.ly/ggang_teacher\n\n[시청 전 주의사항]\n이 영상은 특정 질환의 진단이나 치료 목적이 아닌,건강한 생활을 위한 건강 정보와 개인적 의견을 바탕으로 제작되었습니다.영상 속 내용이 모든 분께 동일하게 적용되는 것은 아니며,건강상 불편함이나 의심 증상이 있으신 경우에는반드시 의료기관을 방문하여 전문 의료진의 상담을 받으시기 바랍니다.\n\n#변비에좋은음식 #변비탈출 #버터다이어트\n#저탄고지식단 #버터효능 #기버터 #다이어트 #뱃살 #변비 #아랫배 #변비해소"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/bbe055b3/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/SZJnCAmRq_U/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973580462,
+      "last_edited_time": 1763973580468
+    },
+    "2b584687-79ee-809f-8b30-cefb15553c91": {
+      "id": "2b584687-79ee-809f-8b30-cefb15553c91",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973578320,
+      "last_edited_time": 1763973578321
+    },
+    "2b584687-79ee-8017-9349-d04ddc92e481": {
+      "id": "2b584687-79ee-8017-9349-d04ddc92e481",
+      "version": 26,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.11.18"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973165902,
+      "last_edited_time": 1763973169653
+    },
+    "2b584687-79ee-80f6-a760-ed71d621bc20": {
+      "id": "2b584687-79ee-80f6-a760-ed71d621bc20",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=_Iy2nnrt358"
+          ]
+        ],
+        "title": [
+          [
+            "5일동안 버터 한덩이 먹으면 진짜 뱃살이 얼마나 빠질까?"
+          ]
+        ],
+        "description": [
+          [
+            "00:00 버터 한덩이를 먹으면 뱃살이 얼마나 빠질까?\n02:30 이즈니 버터를 고른 이유?\n01:52 '진짜 범인'은 버터가 아니었다\n04:11 탄수화물과 버터를 같이 먹으면 절대 안되는 이유\n07:58 시작 전 꼭 알아야 할 부작용 3가지\n\n7.5kg 감량 후 3주간 꿈쩍도 안 하던 다이어트 정체기... 혹시 여러분도 겪고 계시나요?\n'버터를 먹으면 뱃살이 빠진다'는 솔깃한 정보. 저도 처음엔 콜레스테롤 걱정부터 했습니다. 그래서 직접 5일간 버터를 먹어보기로 했습니다.\n과연 5일 뒤 제 몸에는 어떤 변화가 일어났을까요?\n이 영상은 버터가 어떻게 체지방을 태우는지, 포화지방에 대한 오해와 진실, 그리고 '진짜 버터'를 고르는 방법(이즈니 AOP)과 5일간의 생생한 섭취 후기를 담았습니다.\n\n특히 부분에서 설명하는 버터 다이어트 시 '이것'을 모르고 먹으면 오히려 살이 찌는 이유를 꼭 확인하세요.\n\n여러분의 건강한 다이어트를 응원합니다. 궁금한 점은 댓글로 남겨주세요!\n\n#버터다이어트 #저탄고지 #다이어트정체기 #이즈니버터 #방탄커피"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/_Iy2nnrt358/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973159858,
+      "last_edited_time": 1763973159866
+    },
+    "2b584687-79ee-80ff-afa4-c4e838b94276": {
+      "id": "2b584687-79ee-80ff-afa4-c4e838b94276",
+      "version": 24,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.11.09"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974594598,
+      "last_edited_time": 1763974598661
+    },
+    "2b584687-79ee-804b-8635-e28bdadba8c8": {
+      "id": "2b584687-79ee-804b-8635-e28bdadba8c8",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=zj-2bNiqh-I"
+          ]
+        ],
+        "title": [
+          [
+            "버터 이렇게 먹으면 무섭게 뱃살 쏙 빠집니다. 버터 먹고 살 빼는 꿀팁!"
+          ]
+        ],
+        "description": [
+          [
+            "🧈 버터 다이어트는 지방을 줄이는 게 아니라, \n좋은 지방으로 몸의 대사를 바꾸는 방법입니다.\n\n버터 다이어트의 핵심은 탄수화물을 줄이고, \n기버터·에쉬레·이즈니 같은 진짜 버터로 \n지방을 에너지로 쓰게 만드는 것!\n\n포만감이 오래가고, 혈당이 안정되며, \n지방 연소 모드로 전환됩니다.\n\n버터 다이어트는 단순한 유행이 아니라, \n몸이 스스로 지방을 태우는 과학적인 루틴이에요.\n하루 30g 이하 섭취로 시작해 천천히 조절해보세요.\n\n#버터다이어트#아침버터#버터먹는방법#기버터#에쉬레#이즈니\n\n00:00 버터 다이어트 소개\n00:39 버터 다이어트 효과 있는 이유\n01:13 좋은 지방, 나쁜 지방 차이\n01:41 버터 다이어트 제품 소개\n02:15 기버터 소개\n02:53 버터, 올리브유 같이 먹어도 되나요?\n03:34 버터 다이어트, 고지혈증 괜찮은가?\n04:15 버터 다이어트 섭취량, 주의점\n04:49 무염버터 VS 가염버터\n05:20 버터 보관법\n05:55 지방분해 도와주는 다이어트 감비환"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/zj-2bNiqh-I/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974602357,
+      "last_edited_time": 1763974602367
+    },
+    "2b584687-79ee-80d2-ace7-ee09d34bb94c": {
+      "id": "2b584687-79ee-80d2-ace7-ee09d34bb94c",
+      "version": 20,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.11.01"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974657667,
+      "last_edited_time": 1763974660011
+    },
+    "2b584687-79ee-8039-b027-c8d8c827d6e9": {
+      "id": "2b584687-79ee-8039-b027-c8d8c827d6e9",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=6EDTNC-LW_U"
+          ]
+        ],
+        "title": [
+          [
+            "버터 추천 / 버터 다이어트 / 먹는법 / 고르는법"
+          ]
+        ],
+        "description": [
+          [
+            "#버터추천 #버터다이어트 #감비환 \n\n안녕하세요 매일백세한의원 송원장입니다. \n오늘은 제가 직접 먹고있는 버터 추천드리구요 \n버터 다이어트에서 중요한 6가지 방법 알려드립니다.\n\n0:00 ~ 0:49 — 버터 추천 이벤트 \n\n0:49 ~ 1:24 — 버터 섭취의 핵심 원칙\n\n1:24 ~ 2:32 — 아침 루틴과 버터 다이어트 간단한 활용법\n\n2:32 ~ 3:13 — 버터 요리 실전 레시피\n\n3:13 ~ 3:59 — 버터 추천 선택 기준과 섭취량\n\n3:59 ~ 5:01 — 버터 다이어트 콜레스테롤·트러블 관련 주의사항\n\n5:01 ~ 6:40 — 기 버터 다이어트 만드는 법 & 마무리"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/6EDTNC-LW_U/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974662890,
+      "last_edited_time": 1763974662897
+    },
+    "2b584687-79ee-80dd-9fa7-df2c26cf7610": {
+      "id": "2b584687-79ee-80dd-9fa7-df2c26cf7610",
+      "version": 33,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.10.29"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974689141,
+      "last_edited_time": 1763974693763
+    },
+    "2b584687-79ee-80cd-ba57-e77e03c6894e": {
+      "id": "2b584687-79ee-80cd-ba57-e77e03c6894e",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=k6GhfAgRv0E"
+          ]
+        ],
+        "title": [
+          [
+            "매일 버터 하나로 체중·혈당 모두 잡는다! 버터 다이어트 비법 총정리 - 건강 정보 #12"
+          ]
+        ],
+        "description": [
+          [
+            "매일 아침 버터 10g을 챙겨 먹으면 \n혈당이 내려가고 살이 빠집니다. \n그 이유! 아침에 버터를 먹으면 \n공복에 에너지를 공급하고 \n포만감을 높일 뿐만 아니라 \n혈당을 안정적으로 유지하기 때문이죠. \n\n하지만! 버터 다이어트! \n무작정 따라 하다가는 오히려 살이 더 찌거나 \n건강을 해칠 수 있습니다. \n버터 다이어트에 관심 많은 분들을 위해 \n그 효능과 똑똑한 섭취법을 준비했습니다.\n\n영상이 유익하셨다면\n구독, 좋아요, 알림 설정을 눌러주세요!\n\n궁금한 점은 댓글로 남겨 주시면\n최대한 빠르게 답변해 드리겠습니다.\n\n#다이어트 #버터 #버터추천 #기버터 #뱃살 #혈당 #혈당스파이크 #다이어트식단 #저탄고지\n-----------------------------------------------------------------\n가정의학과전문의 김태균\n\n- 김태균 클리닉 -\n주소 : 경기도 안양시 동안구 시민대로 317 2층 215호\n전화 : 0507-1421-7596\n홈페이지 : http://ktkclinic.com\n블로그 : https://blog.naver.com/taekyunup\n인스타그램 : https://www.instagram.com/ktkclinic\n\n시청해 주셔서 감사합니다.\nThank you for watching\n-----------------------------------------------------------------"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/k6GhfAgRv0E/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974696230,
+      "last_edited_time": 1763974696237
+    },
+    "2b584687-79ee-80ed-91d8-cce686422ee3": {
+      "id": "2b584687-79ee-80ed-91d8-cce686422ee3",
+      "version": 19,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.10.22"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973213828,
+      "last_edited_time": 1763973216579
+    },
+    "2b584687-79ee-809e-9678-ea01ce3d22d7": {
+      "id": "2b584687-79ee-809e-9678-ea01ce3d22d7",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=6hBqNAjiXI4"
+          ]
+        ],
+        "title": [
+          [
+            "다이어트에 건강한 지방 200% 활용하는 방법"
+          ]
+        ],
+        "description": [
+          [
+            "#다이어트  #버터  #올리브오일 \n\n다이어트에 좋다는 버터, 올리브오일\n지방이 많은데 왜 또 지방을 먹어야 되는지 궁금한 분들이 많죠.\n혈관 막힐까봐 걱정하시는 분들도 있고요.\n그래서 왜 지방을 먹어야 살이 빠지는지, 어떤 걸 주의해야 하는지  정리해보았습니다.\n\n00:00 인트로\n00:27 지방이 찌는 이유\n01:41 지방을 먹는게 다이어트에 도움이 되는 이유\n02:10 지방의 소화/흡수/사용\n03:30 공복에 지방을 먹는 이유\n04:36 버터, 올리브오일 고르는 방법\n05:51 공복에 지방 섭취 시 주의 사항\n06:38 고지혈증, 혈관질환과 지방\n09:08 정리\n\n⚠️ 본 영상은 건강·의학 정보 제공을 위한 일반 교육 콘텐츠입니다.\n개인의 증상이나 질환에 따라 적용이 다를 수 있으며, 진단이나 치료를 대체하지 않습니다."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/6hBqNAjiXI4/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973222726,
+      "last_edited_time": 1763973222734
+    },
+    "2b584687-79ee-8023-bada-ead9fe1d2883": {
+      "id": "2b584687-79ee-8023-bada-ead9fe1d2883",
+      "version": 20,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.10.17"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973236134,
+      "last_edited_time": 1763973239317
+    },
+    "2b584687-79ee-8026-88a5-e256f5dc8635": {
+      "id": "2b584687-79ee-8026-88a5-e256f5dc8635",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=7iPXTSgJ0ok"
+          ]
+        ],
+        "title": [
+          [
+            "살이 쫙쫙 빠진다. 위고비,마운자로보다 더 좋은 방법 ㅣ 나는 이걸로 다이어트 정착"
+          ]
+        ],
+        "description": [
+          [
+            "#버터추천 #기버터 #다이어트식품 #마운자로  #위고비 #저탄고지 #다이어트 #혈당 #체중감량  #방탄커피 \n\"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\"\n\n\n❤쿠팡 구매링크 공유❤\n\n3년 동안 찾아 헤매다 발견한 정착템 \"오가닉밸리 기 버터, 212g(로켓직구)\nhttps://link.coupang.com/a/cZ053S\n\n그리고 버터랑 같이 먹으면 지방 태우는 효과가 2배 이상이되는 방법이 궁금하다면 아래 영상 클릭~!! \nhttps://youtu.be/FUXApOWOtD8?si=4LLAiL5pB_XGQXKw\n\n어니스트 MCT오일 500ml (가정용, 유리병용기)\nhttps://link.coupang.com/a/cq7A8K\n\n어니스트 코코넛 MCT오일 40포, 총 400ml (휴대용, 스틱)\nhttps://link.coupang.com/a/cK2yRF\n\n키토제니 방탄커피, 230ml, 6개\nhttps://link.coupang.com/a/cq7VCy"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/7iPXTSgJ0ok/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973242061,
+      "last_edited_time": 1763973242067
+    },
+    "2b584687-79ee-80bd-af86-f449bcc27b11": {
+      "id": "2b584687-79ee-80bd-af86-f449bcc27b11",
+      "version": 20,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.09.26"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973358760,
+      "last_edited_time": 1763973362070
+    },
+    "2b584687-79ee-80cb-9518-f2526dbfff76": {
+      "id": "2b584687-79ee-80cb-9518-f2526dbfff76",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=NlbQfmvdMes"
+          ]
+        ],
+        "title": [
+          [
+            "\"버터 하나로 혈당·체중 모두 잡았습니다\" | 의사가 알려주는 버터 제대로 효과보는 방법"
+          ]
+        ],
+        "description": [
+          [
+            "버터 이렇게 먹으면 뱃살 싹 사라집니다!\n버터는 이렇게 드세요!\n\n🩸 혈당의 안정이 곧 삶의 안정입니다🩸\n\n더 많은 분들이 혈당의 중요성을 알고 미리 당뇨와 비만, 각종 대사질환을 예방할 수 있기를 바라며, 혈당과 대사 관련 유익하고 재미있는 컨텐츠를 만들어 나가겠습니다.\n\n✅혈당 어떻게 체크할 수 있을까요?\n- 의사가 만든 혈당케어 글루코핏 : https://bit.ly/glucofit_naver\n\n#버터 #뱃살 #뱃살빼기 #버터추천 #버터다이어트"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/NlbQfmvdMes/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973364173,
+      "last_edited_time": 1763973364176
+    },
+    "2b584687-79ee-808d-ac40-c137c84d04d9": {
+      "id": "2b584687-79ee-808d-ac40-c137c84d04d9",
+      "version": 20,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.06.19"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973358910,
+      "last_edited_time": 1763973472045
+    },
+    "2b584687-79ee-80a2-9020-d6069b66de5d": {
+      "id": "2b584687-79ee-80a2-9020-d6069b66de5d",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=PMTSstSfwzk"
+          ]
+        ],
+        "title": [
+          [
+            "버터덕후의 쿠팡 버터 추천템 12개"
+          ]
+        ],
+        "description": [
+          [
+            "빵딩이들~\n오늘은 100% 내돈내산!🧈버터 덕후로서 꼭 찍어보고 싶었던 버터 추천 영상을 가지고 왔어요!\n버터 종류부터 추천까지 알차게 담아왔으니 이번 영상도 재밌게 봐주시고\n또 보고 싶은 리뷰 있으면 댓글 달아주세요!\n그럼 Bon appetit!\n(가격은 제가 쿠팡에서 구매했던 기준으로 기재했으니 시청에 참고해주세요~😊)\n\n00:00 오프닝\n00:30 버터 종류 구분하기\n01:50 추천 등급 기준 설명\n02:08 이건 절대 사지 마세요..\n03:41🥉 C등급 추천\n05:48 🥈B등급 추천\n06:28 버터 보관 꿀팁\n07:58 🥇A등급 추천\n09:45 AOP란?\n10:22 빵딘의 원픽\n11:00 버터 시식\n\n🍞 빵딘의 빵집 _ 오뜨르베이커리\nhttps://www.instagram.com/autour_bakery/ \n\n💛 빵딘 인스타 \nhttps://www.instagram.com/breadin__/\n\n📭 문의 - painjeongwon@gmail.com\n\n#버터 #쿠팡추천템"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/PMTSstSfwzk/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973475240,
+      "last_edited_time": 1763973475247
+    },
+    "2b584687-79ee-807f-9596-c3b06936653f": {
+      "id": "2b584687-79ee-807f-9596-c3b06936653f",
+      "version": 19,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.04.06"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973574284,
+      "last_edited_time": 1763974723627
+    },
+    "2b584687-79ee-8040-98be-d25177f13d29": {
+      "id": "2b584687-79ee-8040-98be-d25177f13d29",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=kEcsaNwSWpE"
+          ]
+        ],
+        "title": [
+          [
+            "버터가 건강에 이렇게 좋다고? 가짜버터 vs 진짜버터 고르는 법"
+          ]
+        ],
+        "description": [
+          [
+            "건강식품 버터! 버터 고르는 법 \n\n“조선시대에는 버터를 ‘수유酥油'라고 하여 임금님을 위한 약이었고 늙고 병든 신하에게 나누어주기도 했대요.”\n\n#butter #버터 #천연버터 #가공버터 #마가린\n\n문의 010-4872-0075\n이메일 mkparkomd@gmail.com\n박미경닷컴 http://parkmikyeong.com/\n블로그 https://blog.naver.com/aurahani\n\n#박미경한의사"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/kEcsaNwSWpE/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763974726219,
+      "last_edited_time": 1763974726226
+    },
+    "2b584687-79ee-8046-8d2e-dd731229a614": {
+      "id": "2b584687-79ee-8046-8d2e-dd731229a614",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973574641,
+      "last_edited_time": 1763973574643
+    },
+    "2b584687-79ee-80a4-a849-f36605b208a6": {
+      "id": "2b584687-79ee-80a4-a849-f36605b208a6",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973307242,
+      "last_edited_time": 1763973307245
+    },
+    "2b584687-79ee-80e0-aa1f-f29de2c23ade": {
+      "id": "2b584687-79ee-80e0-aa1f-f29de2c23ade",
+      "version": 5,
+      "type": "callout",
+      "content": [
+        "2b584687-79ee-803d-8ec4-db8bfaf0dc91"
+      ],
+      "format": {
+        "page_icon": "📌",
+        "block_color": "red_background",
+        "callout_version": 2
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973143958,
+      "last_edited_time": 1763973143959
+    },
+    "2b584687-79ee-803d-8ec4-db8bfaf0dc91": {
+      "id": "2b584687-79ee-803d-8ec4-db8bfaf0dc91",
+      "version": 26,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "소금물"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80e0-aa1f-f29de2c23ade",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973143958,
+      "last_edited_time": 1763973144788
+    },
+    "2b584687-79ee-804a-8512-d9d0b608e800": {
+      "id": "2b584687-79ee-804a-8512-d9d0b608e800",
+      "version": 19,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.10.10"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973261003,
+      "last_edited_time": 1763973263229
+    },
+    "2b584687-79ee-8053-b141-d11e3caa03b0": {
+      "id": "2b584687-79ee-8053-b141-d11e3caa03b0",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=ZWBteffyPrE"
+          ]
+        ],
+        "title": [
+          [
+            "소금물에 ‘이것’ 넣고 딱 3일만 드세요! 뱃살·혈당·불면증·염증 싹 사라집니다ㅣ소금물 황금비율ㅣ65세 이후 필수 건강 루틴ㅣ노후지혜ㅣ노후건강ㅣ소금물 효능ㅣ의사의경고ㅣ오디오북"
+          ]
+        ],
+        "description": [
+          [
+            "여러분, 아침마다 마시는 그 물 한 잔,\n혹시 여러분의 혈관을 망치고 있다는 사실 알고 계셨나요?\n\n40년간 내과 전문의로 수많은 환자를 진료해온 김종혁 박사 입니다.\n\n오늘 영상에서는 65세 이후 반드시 알아야 할 아침 루틴,\n바로 “소금물에 이것 한 방울”의 비밀을 공개합니다.\n\n✔ 단 3일만 실천해도 뱃살이 줄고, 붓기가 사라지고, 불면증이 완화되는 놀라운 변화\n✔ 천일염과 이것 의 의학적 조합이 몸속 염증을 씻어내는 원리\n✔ 약 없이 혈당과 혈압을 안정시키는 3일 해독 루틴\n✔ 나이 들수록 위험해지는 잘못된 물 습관 바로잡기\n\n💧 하루 단 한 잔으로, 병원비 수백만 원을 아끼는 건강의 시작\n\n지금 바로 영상 끝까지 시청하시고,\n여러분의 몸이 다시 젊어지는 경험을 직접 느껴보세요.\n\n👉 좋아요 / 구독 / 알림 설정 눌러주시면\n앞으로도 검증된 건강 정보만 전해드리겠습니다.\n\n#소금물효능 #레몬물 #해독루틴 #시니어건강 #건강백세TV #혈당낮추는법 #뱃살빼는법 #불면증해결 #노년건강비법 #천일염레몬물"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/ZWBteffyPrE/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973265302,
+      "last_edited_time": 1763973265308
+    },
+    "2b584687-79ee-80aa-a861-ec62d4518f07": {
+      "id": "2b584687-79ee-80aa-a861-ec62d4518f07",
+      "version": 7,
+      "type": "text",
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973375306,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-80f1-9e85-d064d439e679": {
+      "id": "2b584687-79ee-80f1-9e85-d064d439e679",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.10.09"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-8095-a376-f1fff4d3f5eb",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376054,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-806a-9978-c4b8a01f6d08": {
+      "id": "2b584687-79ee-806a-9978-c4b8a01f6d08",
+      "version": 4,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=l1r84Pjia2g"
+          ]
+        ],
+        "title": [
+          [
+            "아침 소금물 vs 자기 전 소금물, 뭐가 더 좋을까? 소금물, 몇 %로 마셔야 할까? 진짜 중요한 건 ‘이것’입니다!"
+          ]
+        ],
+        "description": [
+          [
+            "소금물, 과연 0.9%가 정답일까요?\n체액 농도와 음용 농도는 다릅니다! 👀\n많은 분들이 “소금물은 0.9%로 마셔야 한다”는 오해를 하고 계시지만,\n진짜 중요한 건 OOO 입니다.\n\n📌 오늘 영상에서는 다음과 같은 궁금증을 해결해드립니다:\n\n소금물은 몇 %로 마시는 게 좋을까?\n\n0.3%, 0.5%, 0.9%의 차이점은?\n\n그리고 소금물은 아침, 운동 후, 자기 전 중 언제 마셔야 할까?\n\n당신의 몸이 원하는 진짜 짠맛,\n이 영상에서 함께 찾아보세요! 🧂💧\n\n📢 비움클래스 권원장이 알려주는\n몸이 진짜로 원하는 자연 링겔의 비밀,\n지금 확인하세요!\n\n00:00　0.3%? 0.5%? 0.9%? 중요한 건 농도가 아닙니다\n👉 소금물 농도 논쟁을 뒤집다!\n\n00:36　치료적 단식과 의학적 다이어트를 연구하는 비움클래스 권원장\n\n00:47　농도 0.9%의 진실\n👉 0.9%는 체액의 농도이지, 우리가 마셔야 할 기준이 아닙니다\n\n01:58　농도가 중요한 것이 아닙니다.\n👉 농도가 아니라 ‘소금양’이 핵심입니다\n\n03:33　소금양 1그램 — 내 몸이 편안한 기준\n\n05:11　1그램을 정확히 재는 방법\n\n07:06　소금물은 언제 먹어야 할까? — 아침, 운동 후, 취침 전\n\n10:22　소금물을 마실때 중요한 세 가지 — 양·타이밍·균형감"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/l1r84Pjia2g/maxresdefault.jpg",
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-8081-812e-dc4351184daf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376055,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-80c6-8d7d-e3e99a32b3bf": {
+      "id": "2b584687-79ee-80c6-8d7d-e3e99a32b3bf",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.09.30"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-805b-a1eb-c2c621291b65",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376056,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-80f4-be9f-d7c5242a48e5": {
+      "id": "2b584687-79ee-80f4-be9f-d7c5242a48e5",
+      "version": 4,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=4Id_i70vNWw"
+          ]
+        ],
+        "title": [
+          [
+            "밤에 마시는 소금물, 내 몸에 일어나는 놀라운 변화 6가지, 자기전에 마시는 소금물, 저녁에 마시는 소금물의 기적."
+          ]
+        ],
+        "description": [
+          [
+            "#소금물 #아침공복 #다이어트 #유산균 #올리브오일\n요즘 자기 전에 소금물 한 잔 챙겨 드시는 분들이 많습니다. 그런데 왜 굳이 짠 걸 더 마셔야 할까요?\n이미 음식을 통해 소금을 먹고 있는데도, 소금물은 따로 마실 이유가 분명히 있습니다.\n\n오늘 영상에서는 👇\n자기 전 소금물 한 잔이 몸에 주는 변화들을 과학적 근거와 함께 정리해 드립니다.\n단순한 민간요법이 아니라, 생리학적 원리를 바탕으로 설명드리는 영상이니 꼭 끝까지 시청해 주세요\n\n소금, 무조건 줄여야만 할까요?\n아니요! 제대로 알고, 제대로 먹는 소금이야말로 여러분의 건강을 지켜줄 수 있습니다.\n\n00:00 밤에 소금물 꼭 마셔야 하나요? | 아침 소금물과의 차이\n00:45 자기 전 소금물 → 숙면에 도움이 되는 이유 (미네랄 효과)\n01:27 마그네슘·칼륨이 부족할 때 생기는 종아리 쥐, 소금물로 예방\n01:51 야간뇨 원인과 해결 | 소금물이 밤중 화장실 횟수를 줄이는 원리\n02:25 소금물 마시면 아침에 얼굴 붓는다? → 부종과 숙면의 관계\n03:12 라면 대신 소금물 | 왜 짠 음식은 안 되고 소금물만 효과가 있을까\n03:35 남녀 모두 겪는 야간뇨 | 전립선·방광 문제와 소금물의 간접 효과\n04:48 자기 전 소금물 → 입마름·코막힘·안구건조까지 예방하는 방법\n05:58 숙면과 다이어트의 관계 | 소금물 한 잔이 식욕 조절을 돕는 원리\n07:03 소금물의 해독 효과 | 노폐물 배출·혈액순환 개선으로 머리 맑아짐\n08:09 자기 전 소금물의 6가지 놀라운 효능 총정리\n08:45 소금물 실천법 | 적정 농도(0.3~0.5%)와 주의사항\n08:55 마무리 | 건강을 위한 저녁 소금물 습관 꼭 실천해보세요\n\n📌 오늘부터 딱 한 잔, 영.점.삼~영.점.오%의 연한 소금물로\n건강한 숙면 루틴 만들어보세요!"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/4Id_i70vNWw/maxresdefault.jpg",
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-80d5-8f92-ea8cf9a8175d",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376057,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-80d6-bd43-de2827fd43d2": {
+      "id": "2b584687-79ee-80d6-bd43-de2827fd43d2",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.09.30"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-80ac-a8c3-cb621e40dae1",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376057,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-8096-bd31-ee1410824d2c": {
+      "id": "2b584687-79ee-8096-bd31-ee1410824d2c",
+      "version": 4,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=nOmzKZox6hM"
+          ]
+        ],
+        "title": [
+          [
+            "\"20년 소금만 죽어라 연구했다\" 소금물은 제발 '이렇게' 드세요. 병원도 못고친 원인모를 통증, 염증 사라지고 평생 병원갈 일 없습니다 (박주용 소금 전문가)"
+          ]
+        ],
+        "description": [
+          [
+            "\"20년 소금만 죽어라 연구했다\" 소금물은 제발 '이렇게' 드세요. 병원도 못고친 원인모를 통증, 염증 사라지고 평생 병원갈 일 없습니다 (박주용 소금 전문가)\n\n오늘은 박주용 작가님에게 소금의 효능에 대해 들어봤습니다.\n영상이 재미있으셨다면 좋아요와 구독, 댓글 부탁드립니다!\n#소금 #소금물 #염증 #지식의맛\n\n💚 건강 콘텐츠 제작에 전액 사용 되는 [지식의 맛 멤버십 후원하기]\nhttps://www.youtube.com/channel/UCG5LBY-JUvHYotJ8ODBNsNw/join\n국민 건강을 책임지는 선한 영향력을 함께해주세요 :)\n \n✅ [지식의 맛] 협업 및 모든 문의 & 출연 신청 폼\n  -  https://forms.gle/QN9LyPtncwQePqoo8\n  -  knowledgetaste0010@gmail.com\n\n💌 [오씨아드쇼핑몰]\n  -  https://www.mqsalt.com/\n\n💌 [유튜브] 소금 전문가\n  -  https://youtube.com/channel/UCOzQ5zddVzobsgEXD9WloAg?si=uYL68xOLgLPwa-2G\n\n🧂 [엠큐눈소금]\n  -  https://www.mqsalt.com/goods/view?no=...\n🧂 [엠큐해양고미네랄스틱]\n  -  https://www.mqsalt.com/goods/view?no=...\n🧂 [엠큐해양고미네랄세트]\n  -  https://www.coupang.com/vp/products/8732262801?itemId=25374390399&vendorItemId=70150414413&q=%EC%97%A0%ED%81%90%EB%88%88%EC%86%8C%EA%B8%88&searchId=ca548b7f2766322&sourceType=search&itemsCount=36&searchRank=11&rank=11\n🧂 쿠팡 엠큐눈소금\n  -  https://www.coupang.com/np/search?q=%EC%97%A0%ED%81%90%EB%88%88%EC%86%8C%EA%B8%88&channel=auto\n\n💌 [저서] 소금혁명! 환자의 반란\n📚 교보 : https://product.kyobobook.co.kr/detail/S000212897567\n📚 예스24 : https://www.yes24.com/product/goods/125793049\n\n00:00 \"약 필요 없는 몸 된다\" 아무리 검사해도 원인모를 통증에 아프다면 매일 밤 '이 물 한잔' 신체나이 20년 젊어져 만성 염증, 고혈압, 당뇨 뿌리 뽑는다 (박주용 작가 2부)\n23:31 \"자면서 20KG 빠집니다\" 참 쉽게 100% 살 빠지는 체질 되는 '이 소금 한잔' 2주 마셨더니 중년 뱃살, 옆구리살, 팔뚝살, 등살 싹 녹았다 (박주용 작가 3부)\n35:49 \"수천명 살린 이 가루의 비밀\" 병원에서 이악물고 감춘 '이 물 한잔' 매일 드세요. 온갖 염증, 통증 싹 사라지고 몸이 편안해집니다 (박주용 소금전문가 1부)\n\n※ 본 영상은 치료, 진단의 목적이 아닌, 건강 정보 제공을 위한 목적으로 제작된 영상입니다. 특히 건강상의 문제가 있다면 반드시 전문가와의 상담을 권장드립니다."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/nOmzKZox6hM/maxresdefault.jpg",
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-80e6-a57c-fea5bd85c469",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376058,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-8000-8c82-cccfb43c1d58": {
+      "id": "2b584687-79ee-8000-8c82-cccfb43c1d58",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.09.30"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-80e2-a710-ed40ae35812b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376059,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-80f2-8f88-d5b22f7518c2": {
+      "id": "2b584687-79ee-80f2-8f88-d5b22f7518c2",
+      "version": 4,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=bJN5y-XcSkY"
+          ]
+        ],
+        "title": [
+          [
+            "아침 소금물 비법 대공개! 일주일만 해보면 확실히 달라집니다! 뱃살 혈당 염증 잡고 활력 찾는 소금물 효능 | 건강 정보 | 오디오북"
+          ]
+        ],
+        "description": [
+          [
+            "당뇨, 뱃살, 만성 염증...\n왜 건강하게 먹고 운동을 해도 해결되지 않을까요?\n그 원인은 ‘몸속 수분 부족’에 있습니다.\n그리고 그 해결책은 “소금물 한 잔”일 수 있습니다.\n\n✔️ 혈당이 잡히고\n✔️ 뱃살이 줄어들고\n✔️ 염증이 사라지고\n✔️ 피부가 탱탱해지고\n✔️ 변비까지 해결되는\n놀라운 ‘소금물 요법’의 과학과 실천법을\n전문의가 직접 알려드립니다.\n\n🌱 이 영상에서 알 수 있는 것들\n✔️ 혈당과 뱃살이 잡히지 않는 진짜 이유\n✔️ 나이 들수록 수분이 부족해지는 과학적 원리\n✔️ 소금물의 황금 비율, 마시는 시간, 주의할 점\n✔️ 천일염, 죽염, 히말라야 소금 비교 및 추천\n✔️ 소금물에 넣어 먹는 추가 레시피\n✔️ 안전한 시작을 위한 7일 체크리스트\n✔️ 자주 묻는 질문 총정리(Q&A)\n\n💬 오늘부터 실천하고 계신가요?\n👉 “소금물 시작한 지 일주일째, 이런 변화가 있었어요!”\n댓글로 경험을 나눠주세요. 당신의 이야기 하나가 누군가의 건강을 바꿀 수 있습니다.\n\n📲 유익하셨다면 가족, 친구 분들께도 공유해 주세요.\n당신이 보낸 영상 하나가 소중한 사람의 삶을 바꿀 수 있습니다.\n\n❤️ 도움이 되셨다면 구독과 좋아요 부탁드립니다!\n🔔 알림 설정을 하면 새로운 영상을 가장 먼저 받아보실 수 있어요.\n\n📜 저작권 안내\n이 영상의 대본과 구성은 저작권법의 보호를 받습니다.\n무단 복제 및 도용 시 법적 조치가 이루어질 수 있습니다.\n본 영상은 ‘튼튼라디오’ 채널이 제작했습니다.\n\n#소금물요법 #혈당관리 #뱃살감소 #염증개선\n#수분부족 #피부개선 #변비해결 #시니어건강\n#아침건강습관 #소금의진실 #소금물 \n#노년건강 #시니어헬스 #시니어건강 #튼튼라디오\n\n\n⏰ 타임라인\n00:00 왜 건강한데도 아플까? 진짜 원인은 수분 부족\n02:48 몸속 수분이 줄어들며 생기는 변화\n03:35 소금물로 수분을 채우는 과학적 원리\n04:36 소금에 대한 우려와 고혈압의 진짜 원인\n07:09 저염식의 역설 – 소금이 부족하면 생기는 문제들\n10:10 소금물의 5가지 효능\n18:14 소금물 마시는 법\n19:52 소금 고르기 – 천일염, 죽염, 암염 비교\n21:51 함께 넣으면 더 좋은 재료 3가지\n24:16 자주 묻는 질문과 답변\n27:38 7일 체크리스트로 안전하게 시작하기\n28:38 지금부터 일주일, 당신의 몸이 달라질 시간\n\n------------------------------------------------------------------------------------------\n© 튼튼라디오 All rights reserved."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/bJN5y-XcSkY/maxresdefault.jpg",
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-8025-acbe-d996632225e1",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376060,
+      "last_edited_time": 1763973376066
+    },
+    "2b584687-79ee-806b-b4e9-feae527a4793": {
+      "id": "2b584687-79ee-806b-b4e9-feae527a4793",
+      "version": 23,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.09.20"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2b584687-79ee-8057-b993-f6fdd7a3e046",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973376060,
+      "last_edited_time": 1763973395409
+    },
+    "2b584687-79ee-8065-9e15-f7d4dec29216": {
+      "id": "2b584687-79ee-8065-9e15-f7d4dec29216",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=qypriJysaE8"
+          ]
+        ],
+        "title": [
+          [
+            "소금물 초보자 필독! 농도부터 양까지, 의사가 알려주는 완벽한 가이드!"
+          ]
+        ],
+        "description": [
+          [
+            "가정의학과 전문의\n굿닥터 김태균 원장님이 알려주시는 건강 이야기 \n#소금물 #소금 #간질액  #수액 #맹물시비\n\n홈페이지: https://lukehospital.imweb.me/\n스마트스토어: https://mkt.shopping.naver.com/link/682296b8efd7a65d55478e0a\n문의: drkimsformula@gmail.com\n\n*영상에 나오는 소금물에 관한 내용들은 모든 장기들이 정상적인 기능을 한다는 것을 전제로 말씀드리는 내용입니다. 심장과 신장이 정상적이라는 전제하에 소금을 일부러 적게 드실 필요가 없고 적절히 간을 해서 드시는게 좋다는 내용입니다!\n이미 질병을 가지고 계신 분들, 특히 심장이나 신장 기능이 이미 안 좋으신 분들은 소금이나 물을 배출하는데 어려움이 있기 때문에 장기의 기능이 정상이신 분들과 똑같이 소금물을 드시면 안 됩니다. 따라서 심부전-심장에 문제가 있거나, 혹은 신부전-신장(콩팥)에 문제가 있으신 분들은 꼭 본인의 주치의의 지시를 따르시길 바랍니다.\n\n\n챕터별 보기\n0:00 미리보기\n0:15 인트로\n0:55 어떤 소금이 좋을까?\n3:04 소금물의 적정 농도\n6:45 얼마나 마셔야할까?\n9:23 소금물의 온도\n10:30 팁 & 마시면 안되는 사람\n11:38 요점정리"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/9c0f82da/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/qypriJysaE8/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973397927,
+      "last_edited_time": 1763973397933
+    },
+    "2b584687-79ee-80bc-8bb6-e67e880d1261": {
+      "id": "2b584687-79ee-80bc-8bb6-e67e880d1261",
+      "version": 19,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "25.09.03"
+          ]
+        ]
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973392614,
+      "last_edited_time": 1763973426774
+    },
+    "2b584687-79ee-80f2-ac1b-c302e94ad8b0": {
+      "id": "2b584687-79ee-80f2-ac1b-c302e94ad8b0",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.youtube.com/watch?v=-toH0tbtSqQ"
+          ]
+        ],
+        "title": [
+          [
+            "아침에 소금물 마시면 무슨일이 생길까? (구체적인 용량 포함)"
+          ]
+        ],
+        "description": [
+          [
+            "아침 소금물의 효능과, 어떻게 마시면 되는지,\n구체적인 용량과 타이밍까지 모두 알려드렸습니다.\n\n↓ 이서울이 실제로 먹는것\nhttps://litt.ly/leeseoul\n\n[시청 전 주의사항 안내]\n제가 알려드린 내용들은 진단이나 치료 목적이 아닌,  일반적인 건강 정보 제공을 위한 개인 의견입니다. 모든 내용이 모든 사람에게 동일하게 적용되지 않을 수 있습니다. \n건강상 문제나 증상이 있다면, 반드시 근처 의료기관을 방문해 전문의와 상담하시기 바랍니다.\n\n#아침에 #소금물 #아침식사\n#아침루틴 #다이어트식품 #이서울"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/d0c6b06b/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/-toH0tbtSqQ/maxresdefault.jpg"
+      },
+      "parent_id": "2b584687-79ee-80f1-918c-fd9a09301903",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1763973429141,
+      "last_edited_time": 1763973429147
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

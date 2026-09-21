@@ -1,0 +1,979 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2da8468779ee802bbb6bc61860031ec3",
+  "pageId": "2da84687-79ee-802b-bb6b-c61860031ec3",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2da84687-79ee-802b-bb6b-c61860031ec3": {
+      "id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "version": 114,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2ca84687-79ee-8076-8a41-d895b393c230",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2da84687-79ee-808c-9924-d872da1d5af5",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2025-12-31"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "진행중"
+          ]
+        ],
+        "title": [
+          [
+            " 인터뷰_김진관대표님(수앤진골드) - 컷편집"
+          ]
+        ]
+      },
+      "content": [
+        "2da84687-79ee-81d3-adf4-c9dc30347035",
+        "2da84687-79ee-8110-9d88-f35f8c4f045b",
+        "2da84687-79ee-8039-8413-dbed6f5e4079",
+        "2da84687-79ee-80f2-98a4-fe3b34e47986",
+        "2da84687-79ee-8029-9478-cb1565b12e2e",
+        "2da84687-79ee-8069-9321-e062b0747386",
+        "2da84687-79ee-80d7-8699-eba1955c19ef",
+        "2da84687-79ee-8066-a199-f9fa8f259aa5",
+        "2da84687-79ee-80d7-9e1c-e62cee9d4717",
+        "2da84687-79ee-80f6-bd8e-f749ebe5cc3f",
+        "2da84687-79ee-804a-96ae-d9cbb09635ea",
+        "2da84687-79ee-803b-b0a2-cf350a57f293",
+        "2da84687-79ee-8028-b775-cbedf4bfc77e",
+        "2da84687-79ee-8046-b0c4-d3a18ce0b291",
+        "2da84687-79ee-80ea-b896-eb5a7b575267",
+        "2da84687-79ee-8092-99ec-c471d42e2adc",
+        "2da84687-79ee-8046-9124-ee0376cc18da",
+        "2da84687-79ee-8026-9cee-de799b783d90",
+        "2da84687-79ee-8057-8d9f-df5a0c33b054",
+        "2da84687-79ee-8086-bd8d-e0070d5fe881",
+        "2da84687-79ee-80c4-bc1f-c3e55bf8100a",
+        "2da84687-79ee-807c-bf44-f31a270216c5",
+        "2da84687-79ee-80b0-b8a8-c56d06320659",
+        "2da84687-79ee-804d-bbf3-df69cec47417",
+        "2da84687-79ee-80f6-a17e-ebd582824ea5",
+        "2da84687-79ee-8030-b462-f4d2c222e7a0",
+        "2da84687-79ee-8082-a186-f78e122a808f",
+        "2da84687-79ee-80e6-85e3-ca663a7e2dc5",
+        "2da84687-79ee-80c4-9c10-f6fd0a2d0f90",
+        "2da84687-79ee-80ef-b15f-e699ebbba709",
+        "2da84687-79ee-80c1-9c29-d67577119e95"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-814a-bfbe-f51612579c70",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "social_media_image_preview_url": "attachment:1be0e471-917e-4672-aeed-beadfb837dc1:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1767171904219,
+      "last_edited_time": 1779623561157
+    },
+    "2da84687-79ee-81d3-adf4-c9dc30347035": {
+      "id": "2da84687-79ee-81d3-adf4-c9dc30347035",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2da84687-79ee-8145-be7d-d6d5e79d3d0c",
+        "2da84687-79ee-81da-8811-fde8f44e7e70"
+      ],
+      "format": {
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ed-a632-d724422d76bf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171905209,
+      "last_edited_time": 1767171905209
+    },
+    "2da84687-79ee-8145-be7d-d6d5e79d3d0c": {
+      "id": "2da84687-79ee-8145-be7d-d6d5e79d3d0c",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2da84687-79ee-8162-85ff-004d5c6409ed",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81af-86c5-fc0fe5d6fb49",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-81d3-adf4-c9dc30347035",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171905209,
+      "last_edited_time": 1767171905209
+    },
+    "2da84687-79ee-81da-8811-fde8f44e7e70": {
+      "id": "2da84687-79ee-81da-8811-fde8f44e7e70",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2da84687-79ee-816d-ac40-004d3c379141",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-815c-a141-f22a539443f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-81d3-adf4-c9dc30347035",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171905209,
+      "last_edited_time": 1767171905209
+    },
+    "2da84687-79ee-8110-9d88-f35f8c4f045b": {
+      "id": "2da84687-79ee-8110-9d88-f35f8c4f045b",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ba-bd63-e43a4489e613",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171905209,
+      "last_edited_time": 1767171905209
+    },
+    "2da84687-79ee-8039-8413-dbed6f5e4079": {
+      "id": "2da84687-79ee-8039-8413-dbed6f5e4079",
+      "version": 14,
+      "type": "text",
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171909792,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80f2-98a4-fe3b34e47986": {
+      "id": "2da84687-79ee-80f2-98a4-fe3b34e47986",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "\"금을 누가 온라인에서 사요?\"라는 편견을 깨고, 보수적인 금 시장에서 '브랜딩' 하나로 판도를 바꾼 분",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-80f6-98d3-ddae19608c72",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932514,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8029-9478-cb1565b12e2e": {
+      "id": "2da84687-79ee-8029-9478-cb1565b12e2e",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-8096-9b7e-dbba5d9a7596",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932517,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8069-9321-e062b0747386": {
+      "id": "2da84687-79ee-8069-9321-e062b0747386",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-8010-a85c-f974160cb521",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932518,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80d7-8699-eba1955c19ef": {
+      "id": "2da84687-79ee-80d7-8699-eba1955c19ef",
+      "version": 5,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "성공전략 : 레드오션에서 블루오션을 찾아낸 3가지 포인트",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-805b-b349-eb8f20bf4426",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932518,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8066-a199-f9fa8f259aa5": {
+      "id": "2da84687-79ee-8066-a199-f9fa8f259aa5",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "전략 1. '금은방'이 아닌 '브랜드'를 팔다:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "8f60a7f6-5b8a-41e4-87b4-662636e6002b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932520,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80d7-9e1c-e62cee9d4717": {
+      "id": "2da84687-79ee-80d7-9e1c-e62cee9d4717",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 기존 순금 시장은 '금은방' 외에 연상되는 브랜드가 없는 거대하지만 세분화되지 않은 시장이었음."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "01714b3c-73bb-4284-b190-1998753c5eeb",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932521,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80f6-bd8e-f749ebe5cc3f": {
+      "id": "2da84687-79ee-80f6-bd8e-f749ebe5cc3f",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 단순한 현물 거래를 넘어 "
+          ],
+          [
+            "'신뢰'할 수 있는 프리미엄 브랜드",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "로 포지셔닝하여 고객의 심리적 장벽을 허묾."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "7da084e9-8ddb-41b2-b40d-16aa75783fdd",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932521,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-804a-96ae-d9cbb09635ea": {
+      "id": "2da84687-79ee-804a-96ae-d9cbb09635ea",
+      "version": 6,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "전략 2. 디자인의 혁신 (Old ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "→"
+          ],
+          [
+            " Young):",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "1998c5c0-8a6d-4799-8542-8ac872e62710",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932522,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-803b-b0a2-cf350a57f293": {
+      "id": "2da84687-79ee-803b-b0a2-cf350a57f293",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 순금 특유의 무른 성질 때문에 디자인이 투박했던 한계를 극복하기 위해 아버지의 제조 노하우와 본인의 디자인 감각을 결합."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "19aef32d-8757-4e7a-81f0-2c2529cba18a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932524,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8028-b775-cbedf4bfc77e": {
+      "id": "2da84687-79ee-8028-b775-cbedf4bfc77e",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 2030 세대도 패션 아이템으로 선호할 만한 감각적인 제품을 제안."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "65c76928-83a9-498b-a925-67f61542d729",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932524,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8046-b0c4-d3a18ce0b291": {
+      "id": "2da84687-79ee-8046-b0c4-d3a18ce0b291",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "전략 3. 데이터가 증명한 기획 상품 '콩알금':",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "da0cbe4f-9bc4-4ec4-a7d7-1abf244e5862",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932525,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80ea-b896-eb5a7b575267": {
+      "id": "2da84687-79ee-80ea-b896-eb5a7b575267",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 중국 MZ세대의 유행을 포착해 한국형 "
+          ],
+          [
+            "'10만 원대 금 재테크'",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " 문화를 만듦."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "00693069-682f-48bb-87ad-917c9f96d42a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932525,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8092-99ec-c471d42e2adc": {
+      "id": "2da84687-79ee-8092-99ec-c471d42e2adc",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 고가(150만 원 이상) 제품 위주에서 벗어나 누구나 쉽게 접근할 수 있는 '미끼 상품'으로 온라인 시장을 장악"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "56e465b5-1042-47b8-bf91-0348bab8d5b3",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932526,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8046-9124-ee0376cc18da": {
+      "id": "2da84687-79ee-8046-9124-ee0376cc18da",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-8064-8ee2-e284263a9faf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932526,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8026-9cee-de799b783d90": {
+      "id": "2da84687-79ee-8026-9cee-de799b783d90",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "전환점: 홈쇼핑 의존에서 자생적 브랜드로의 독립",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-8005-8338-df63d1341806",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932527,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8057-8d9f-df5a0c33b054": {
+      "id": "2da84687-79ee-8057-8d9f-df5a0c33b054",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "과거 홈쇼핑 매출 100억을 달성했으나, 유통 플랫폼과 MD에게 휘둘리는 구조의 위험성을 깨달음."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "06bba75f-0504-4de9-9307-4c587d3edc2b",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932527,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8086-bd8d-e0070d5fe881": {
+      "id": "2da84687-79ee-8086-bd8d-e0070d5fe881",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "직원들의 생계와 회사의 미래를 위해 "
+          ],
+          [
+            "자사몰 중심의 브랜드 사업",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "으로 전향하여 현재 매출의 70%를 브랜드에서 창출"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "fda773d5-6b87-494a-a9b1-00ba0b19b1f2",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932528,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80c4-bc1f-c3e55bf8100a": {
+      "id": "2da84687-79ee-80c4-bc1f-c3e55bf8100a",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-803a-b2e3-d746feb4f357",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932528,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-807c-bf44-f31a270216c5": {
+      "id": "2da84687-79ee-807c-bf44-f31a270216c5",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-804d-abe7-f227145740b8",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932528,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80b0-b8a8-c56d06320659": {
+      "id": "2da84687-79ee-80b0-b8a8-c56d06320659",
+      "version": 5,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "마케팅 솔루션",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 2,
+        "copied_from_pointer": {
+          "id": "2d884687-79ee-8091-bb4b-d5472af46fae",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932529,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-804d-bbf3-df69cec47417": {
+      "id": "2da84687-79ee-804d-bbf3-df69cec47417",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "문제점:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " 훌륭한 제품력을 가졌으나, 현재 마케팅은 퍼포먼스 광고와 자사몰 내부 인터뷰 위주로 한정됨. 유튜브 운영의 효율성과 지속성 고민."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "5d3327c7-9d33-42fb-a0ac-adf3b0417c3e",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932529,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80f6-a17e-ebd582824ea5": {
+      "id": "2da84687-79ee-80f6-a17e-ebd582824ea5",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "솔루션 1. '고충' 기반의 커뮤니티 구축:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "80d1d3cc-d2f1-439c-b765-b5c4c6bbbdea",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932530,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8030-b462-f4d2c222e7a0": {
+      "id": "2da84687-79ee-8030-b462-f4d2c222e7a0",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 금은 '시세 변동'이라는 확실한 고충(Pain Point)이 있음. 주식처럼 고객들이 매일 들어와 정보를 나눌 수 있는 "
+          ],
+          [
+            "커뮤니티(카페 등)를 유튜브와 연계",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "해야 함."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "080c3651-fd3b-4d2a-9247-58fb9e38ae34",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932530,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-8082-a186-f78e122a808f": {
+      "id": "2da84687-79ee-8082-a186-f78e122a808f",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "솔루션 2. 타겟팅의 확장 (경쟁 상대를 바꿔라):",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "a43d1180-cf16-4f43-8e53-e7be69b4aec6",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932531,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80e6-85e3-ca663a7e2dc5": {
+      "id": "2da84687-79ee-80e6-85e3-ca663a7e2dc5",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 금 투자 수요는 KRX와 경쟁하지만, "
+          ],
+          [
+            "자산 은닉과 증여를 원하는 고액 자산가",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "의 니즈는 다름."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "cf392782-12d3-4cf7-befe-d9c03a303198",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932531,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80c4-9c10-f6fd0a2d0f90": {
+      "id": "2da84687-79ee-80c4-9c10-f6fd0a2d0f90",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 명품 가방(샤넬, 루이비통)과 경쟁한다는 관점에서 '현물 자산의 안전성'이라는 코어 메시지를 강화해야 함."
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "31b1f907-0627-45fa-98f3-64325b4dc3d6",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932532,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80ef-b15f-e699ebbba709": {
+      "id": "2da84687-79ee-80ef-b15f-e699ebbba709",
+      "version": 5,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "솔루션 3. 콘텐츠 시스템화:",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "859fb6cb-d9d6-4743-9093-4a0af8b2cf8d",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932532,
+      "last_edited_time": 1767171932543
+    },
+    "2da84687-79ee-80c1-9c29-d67577119e95": {
+      "id": "2da84687-79ee-80c1-9c29-d67577119e95",
+      "version": 6,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "◦ 직접 편집하는 수고를 덜고, 당근마켓에서 은(Silver)을 팔아 트래픽을 모았던 경험처럼 고객이 저절로 모이는 "
+          ],
+          [
+            "'미끼 콘텐츠'와 '커뮤니티'의 결합",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " 제안"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "ac0a19c0-112e-47e4-b261-9b71fc941f5a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2da84687-79ee-802b-bb6b-c61860031ec3",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767171932533,
+      "last_edited_time": 1767171932543
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

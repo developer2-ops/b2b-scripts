@@ -1,0 +1,120 @@
+{
+  "checks": [
+    "39개 원본의 해시 및 작업 본문 존재 확인; 복사한 36개 MD는 원본과 바이트 일치",
+    "구피디 Downloads/rizz-hub 21편 대조: 21편 해시 일치",
+    "66개 강의 번호·제목: Aside 시트 스냅샷과 일치, 중복 번호 없음",
+    "150개 책 장 위치: 해당 본문 내 앵커 표기 확인",
+    "새로 작성한 안내·정리·양식의 절대 경로 링크 대상 존재 확인"
+  ],
+  "duplicate_comparison": [
+    {
+      "id": "G001",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/001_1년만에_100억을_번_96년생_한국인_100M_시리즈_ep.1.md"
+    },
+    {
+      "id": "G002",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/002_★_내_멤버십_유료_구독을_고민하는_사람에게_★.md"
+    },
+    {
+      "id": "G003",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/003_100억을_벌기_위한_5가지_전제조건_100M_시리즈_ep.2.md"
+    },
+    {
+      "id": "G004",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/004_100억_벌려면_그냥_이거_프린트하세용_ㅋㅋ.md"
+    },
+    {
+      "id": "G005",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/005_100M_lead_모르면_죽자!_돈복사_머신_만들기_100M_시리즈_ep.3.md"
+    },
+    {
+      "id": "G006",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/006_몇_살에_백만장자가_되셨나요_파헤치기_ep.1.md"
+    },
+    {
+      "id": "G007",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/007_해리포터_보다_많이_팔린_조때는_책_이야기_100M_시리즈_ep.4.md"
+    },
+    {
+      "id": "G008",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/008_(1000만원짜리_자료_1)_1000억짜리_마케팅_머신+광고_플레이북_리뷰.md"
+    },
+    {
+      "id": "G009",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/009_(야사지언)조언도_멍청하게_들으면_인생_조땜.md"
+    },
+    {
+      "id": "G010",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/010_(2편)_100억짜리_넥스트_비즈니스(이만_갓지_풀버전_링크_제공).md"
+    },
+    {
+      "id": "G011",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/011_직원_채용과_기용(지속적_업데이트_예정).md"
+    },
+    {
+      "id": "G012",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/012_좆됨을_즐겨야_하는_이유.(광고계정_정지).md"
+    },
+    {
+      "id": "G013",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/013_하상십_최소_1억_벌어주는_결정의_기준.md"
+    },
+    {
+      "id": "G014",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/014_영천일십백_-_단계별로_돈을_올인해야_하는곳_찝어줌.md"
+    },
+    {
+      "id": "G015",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/015_내가_200억에도_회사를_안판_이유_(회사_매각_주의점_7가지).md"
+    },
+    {
+      "id": "G016",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/016_(외부_비공개_자료)_세븐일레븐_회장이_말하는_진짜_성공의_비결_._Live.md"
+    },
+    {
+      "id": "G017",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/017_O퍼,_O겟,_O킹,_O이드_광고_해외에서_돈버는_4가지_본질.md"
+    },
+    {
+      "id": "G018",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/018_쓰레기_조언과_진짜_조언을_구분좀_하자.md"
+    },
+    {
+      "id": "G019",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/019_명절에도_일해야_할까_구피디의_생각은.md"
+    },
+    {
+      "id": "G020",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/020_광고를_1000개_만들면_1000억을_번다!_ㅋ.ㅋ.md"
+    },
+    {
+      "id": "G021",
+      "same": true,
+      "alternate": "/Users/seranlee/Downloads/GPD/구피디_칼럼_001-021_MD/021_(40만원짜리_자료)_700억을_번_마케팅_핵심_파헤치기.md"
+    }
+  ],
+  "limits": [
+    "원문 전체 사실 검증과 번역 대조는 미실시",
+    "배정은 관련 개념으로 찾은 자료 후보이며 실제 대본의 문장별 근거 확정이 아님"
+  ]
+}

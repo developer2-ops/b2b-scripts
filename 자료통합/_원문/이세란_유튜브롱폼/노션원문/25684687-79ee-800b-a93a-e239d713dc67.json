@@ -1,0 +1,199 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2568468779ee800ba93ae239d713dc67",
+  "pageId": "25684687-79ee-800b-a93a-e239d713dc67",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "25684687-79ee-800b-a93a-e239d713dc67": {
+      "id": "25684687-79ee-800b-a93a-e239d713dc67",
+      "version": 41,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "25584687-79ee-8096-a127-c0a8eb603a8c",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "25684687-79ee-80ff-9cd9-d936eb22b674",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-08-24",
+                  "start_date": "2025-08-22"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "풀링_직원표정 - 편집"
+          ]
+        ]
+      },
+      "content": [
+        "25684687-79ee-8126-b1c8-c8f4fc7144ee",
+        "25684687-79ee-81a7-9128-e63a4a1662c2",
+        "25784687-79ee-80d9-bf80-fd17f14cfe7f"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-814a-bfbe-f51612579c70",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1755773701751,
+      "last_edited_time": 1779623560436
+    },
+    "25684687-79ee-8126-b1c8-c8f4fc7144ee": {
+      "id": "25684687-79ee-8126-b1c8-c8f4fc7144ee",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "25684687-79ee-8195-a737-fd3172552ae9",
+        "25684687-79ee-812c-bb29-eb4f51f3f5ed"
+      ],
+      "format": {
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ed-a632-d724422d76bf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25684687-79ee-800b-a93a-e239d713dc67",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755773716094,
+      "last_edited_time": 1755773716094
+    },
+    "25684687-79ee-8195-a737-fd3172552ae9": {
+      "id": "25684687-79ee-8195-a737-fd3172552ae9",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "25684687-79ee-8104-b61a-004d38e9d9a6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81af-86c5-fc0fe5d6fb49",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25684687-79ee-8126-b1c8-c8f4fc7144ee",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755773716094,
+      "last_edited_time": 1755773716094
+    },
+    "25684687-79ee-812c-bb29-eb4f51f3f5ed": {
+      "id": "25684687-79ee-812c-bb29-eb4f51f3f5ed",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "25684687-79ee-8174-a5c8-004de143e9c1",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-815c-a141-f22a539443f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25684687-79ee-8126-b1c8-c8f4fc7144ee",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755773716094,
+      "last_edited_time": 1755773716094
+    },
+    "25684687-79ee-81a7-9128-e63a4a1662c2": {
+      "id": "25684687-79ee-81a7-9128-e63a4a1662c2",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ba-bd63-e43a4489e613",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25684687-79ee-800b-a93a-e239d713dc67",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755773716094,
+      "last_edited_time": 1755773716094
+    },
+    "25784687-79ee-80d9-bf80-fd17f14cfe7f": {
+      "id": "25784687-79ee-80d9-bf80-fd17f14cfe7f",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://naver.me/GYGjf5AQ"
+          ]
+        ],
+        "title": [
+          [
+            "자영업"
+          ]
+        ],
+        "description": [
+          [
+            "prepharm님이 공유한 폴더를 확인하세요."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://mybox.naver.com/favicon.ico",
+        "bookmark_cover": "https://ssl.pstatic.net/static/pwe/cloud/img/common/ogtag/folder.png"
+      },
+      "parent_id": "25684687-79ee-800b-a93a-e239d713dc67",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755832341749,
+      "last_edited_time": 1755832341754
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

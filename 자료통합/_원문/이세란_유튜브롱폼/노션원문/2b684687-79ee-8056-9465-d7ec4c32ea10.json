@@ -1,0 +1,403 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2b68468779ee80569465d7ec4c32ea10",
+  "pageId": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2b684687-79ee-8056-9465-d7ec4c32ea10": {
+      "id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "version": 223,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2b584687-79ee-8007-891e-eaed00a1587f",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2b684687-79ee-80cb-93e4-e9af3c37a053",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-11-25",
+                  "start_date": "2025-11-25"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "시작 전"
+          ]
+        ],
+        "title": [
+          [
+            "버터마케팅 - 편집피드백_1차"
+          ]
+        ]
+      },
+      "content": [
+        "2b684687-79ee-81ca-a925-c8df3a30d899",
+        "2b684687-79ee-81d6-9519-ff2652897310",
+        "2bc84687-79ee-8085-8939-e86fd23866ff",
+        "2bc84687-79ee-800b-ba34-c60c7de5291d",
+        "2bc84687-79ee-80cb-b252-d85302b16fbb",
+        "2bc84687-79ee-80b3-93b1-d5b2a6eaf100",
+        "2bc84687-79ee-8076-b016-e8c746ec0a4b",
+        "2bc84687-79ee-8013-87df-e963c6fd2891",
+        "2bc84687-79ee-804a-b125-e26de8c39033",
+        "2bc84687-79ee-80c8-8782-f0d2212cda96",
+        "2bc84687-79ee-80c6-8121-f5e9dd023364",
+        "2bc84687-79ee-8098-953d-f7844d0891a1",
+        "2bc84687-79ee-8000-96f2-f530a54b2f6b",
+        "2bc84687-79ee-8019-b46a-c7e0e14833fa"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-814a-bfbe-f51612579c70",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1764059011379,
+      "last_edited_time": 1779623560964
+    },
+    "2b684687-79ee-81ca-a925-c8df3a30d899": {
+      "id": "2b684687-79ee-81ca-a925-c8df3a30d899",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2b684687-79ee-815c-b1f2-fc8a575e925a",
+        "2b684687-79ee-81ba-8f30-ed376911ba2c"
+      ],
+      "format": {
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ed-a632-d724422d76bf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764059017168,
+      "last_edited_time": 1764059017168
+    },
+    "2b684687-79ee-815c-b1f2-fc8a575e925a": {
+      "id": "2b684687-79ee-815c-b1f2-fc8a575e925a",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2b684687-79ee-81cc-a7fd-004d29cd46f1",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81af-86c5-fc0fe5d6fb49",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b684687-79ee-81ca-a925-c8df3a30d899",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764059017168,
+      "last_edited_time": 1764059017168
+    },
+    "2b684687-79ee-81ba-8f30-ed376911ba2c": {
+      "id": "2b684687-79ee-81ba-8f30-ed376911ba2c",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2b684687-79ee-8168-8e40-004d860dfaf6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-815c-a141-f22a539443f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b684687-79ee-81ca-a925-c8df3a30d899",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764059017168,
+      "last_edited_time": 1764059017168
+    },
+    "2b684687-79ee-81d6-9519-ff2652897310": {
+      "id": "2b684687-79ee-81d6-9519-ff2652897310",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ba-bd63-e43a4489e613",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764059017168,
+      "last_edited_time": 1764059017168
+    },
+    "2bc84687-79ee-8085-8939-e86fd23866ff": {
+      "id": "2bc84687-79ee-8085-8939-e86fd23866ff",
+      "version": 140,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "04:29 이거 저희 대행하는 업체일때 할때 "
+          ]
+        ]
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585376286,
+      "last_edited_time": 1764585388365
+    },
+    "2bc84687-79ee-800b-ba34-c60c7de5291d": {
+      "id": "2bc84687-79ee-800b-ba34-c60c7de5291d",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585405521,
+      "last_edited_time": 1764585405523
+    },
+    "2bc84687-79ee-80cb-b252-d85302b16fbb": {
+      "id": "2bc84687-79ee-80cb-b252-d85302b16fbb",
+      "version": 239,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "이 영상이 떴고 할때 아래 사진 넣어주시고 사진은 블러처리 해주세요"
+          ]
+        ]
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585405380,
+      "last_edited_time": 1764585413893
+    },
+    "2bc84687-79ee-80b3-93b1-d5b2a6eaf100": {
+      "id": "2bc84687-79ee-80b3-93b1-d5b2a6eaf100",
+      "version": 15,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "163.4 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:7d993d90-9308-4937-bd65-10cdbe14b451:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.07666015625,
+        "display_source": "attachment:7d993d90-9308-4937-bd65-10cdbe14b451:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5508474576271186,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585402763,
+      "last_edited_time": 1764585422353
+    },
+    "2bc84687-79ee-8076-b016-e8c746ec0a4b": {
+      "id": "2bc84687-79ee-8076-b016-e8c746ec0a4b",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585421169,
+      "last_edited_time": 1764585421172
+    },
+    "2bc84687-79ee-8013-87df-e963c6fd2891": {
+      "id": "2bc84687-79ee-8013-87df-e963c6fd2891",
+      "version": 429,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그 뒤로 다른 영상 같이 할때 이 사진 한번에 보여주시고 올라가는 부분 확대해주세요"
+          ]
+        ]
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585420496,
+      "last_edited_time": 1764585437400
+    },
+    "2bc84687-79ee-804a-b125-e26de8c39033": {
+      "id": "2bc84687-79ee-804a-b125-e26de8c39033",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585437723,
+      "last_edited_time": 1764585437726
+    },
+    "2bc84687-79ee-80c8-8782-f0d2212cda96": {
+      "id": "2bc84687-79ee-80c8-8782-f0d2212cda96",
+      "version": 13,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "94.6 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:ef19172d-6b04-431c-9719-3a71d3853a83:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 499.98577880859375,
+        "block_height": 1107,
+        "display_source": "attachment:ef19172d-6b04-431c-9719-3a71d3853a83:image.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 2.214,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764585442421,
+      "last_edited_time": 1764585445610
+    },
+    "2bc84687-79ee-80c6-8121-f5e9dd023364": {
+      "id": "2bc84687-79ee-80c6-8121-f5e9dd023364",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764586094770,
+      "last_edited_time": 1764586094772
+    },
+    "2bc84687-79ee-8098-953d-f7844d0891a1": {
+      "id": "2bc84687-79ee-8098-953d-f7844d0891a1",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764586094914,
+      "last_edited_time": 1764586094917
+    },
+    "2bc84687-79ee-8000-96f2-f530a54b2f6b": {
+      "id": "2bc84687-79ee-8000-96f2-f530a54b2f6b",
+      "version": 191,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "19:53 광고네 부분 X 표시 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764586094103,
+      "last_edited_time": 1764586107281
+    },
+    "2bc84687-79ee-8019-b46a-c7e0e14833fa": {
+      "id": "2bc84687-79ee-8019-b46a-c7e0e14833fa",
+      "version": 15,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "874.2 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:6b0c1c40-627d-4957-a32c-8bc3dbd877c5:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 709.0908813476562,
+        "display_source": "attachment:6b0c1c40-627d-4957-a32c-8bc3dbd877c5:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.574265289912629,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2b684687-79ee-8056-9465-d7ec4c32ea10",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1764586097812,
+      "last_edited_time": 1764586111848
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

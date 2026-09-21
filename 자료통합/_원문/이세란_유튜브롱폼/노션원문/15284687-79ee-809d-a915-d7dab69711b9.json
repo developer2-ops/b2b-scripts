@@ -1,0 +1,209 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1528468779ee809da915d7dab69711b9",
+  "pageId": "15284687-79ee-809d-a915-d7dab69711b9",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "15284687-79ee-809d-a915-d7dab69711b9": {
+      "id": "15284687-79ee-809d-a915-d7dab69711b9",
+      "version": 504,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "50대 사장들이 착각하는 3가지  [작1204/업]"
+          ]
+        ]
+      },
+      "content": [
+        "15284687-79ee-80f9-81f8-ccce732bdd66",
+        "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+        "15284687-79ee-80bd-aa38-e6b587d6af87",
+        "15284687-79ee-8050-81bc-e695a23e14da"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292531466,
+      "last_edited_time": 1733314155664
+    },
+    "15284687-79ee-80f9-81f8-ccce732bdd66": {
+      "id": "15284687-79ee-80f9-81f8-ccce732bdd66",
+      "version": 630,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제목 : 과거에 잘 나갔던 사장들이 다시 매출 올리기 어려운 이유"
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-809d-a915-d7dab69711b9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292554389,
+      "last_edited_time": 1733292950963
+    },
+    "15284687-79ee-80d0-97fd-e5d8b7b918d2": {
+      "id": "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+      "version": 61,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "대본 참고"
+          ]
+        ]
+      },
+      "content": [
+        "15284687-79ee-80aa-819a-c3171bbe0cd5",
+        "15284687-79ee-803b-8616-d21f8039cd63",
+        "15284687-79ee-8005-ae2b-f2d10c490d84",
+        "15284687-79ee-8025-adf5-dc2c95a1b3d7",
+        "15284687-79ee-8061-bcc5-c1074ce452b4"
+      ],
+      "parent_id": "15284687-79ee-809d-a915-d7dab69711b9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293152344,
+      "last_edited_time": 1733293311163
+    },
+    "15284687-79ee-80bd-aa38-e6b587d6af87": {
+      "id": "15284687-79ee-80bd-aa38-e6b587d6af87",
+      "version": 10,
+      "type": "callout",
+      "content": [
+        "60e81e6e-84b1-48d3-b541-936e91643f08"
+      ],
+      "format": {
+        "page_icon": "💡",
+        "block_color": "gray_background",
+        "callout_version": 2
+      },
+      "parent_id": "15284687-79ee-809d-a915-d7dab69711b9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293314421,
+      "last_edited_time": 1733293315748
+    },
+    "60e81e6e-84b1-48d3-b541-936e91643f08": {
+      "id": "60e81e6e-84b1-48d3-b541-936e91643f08",
+      "version": 24,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "인트로"
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-80bd-aa38-e6b587d6af87",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293314421,
+      "last_edited_time": 1733293315227
+    },
+    "15284687-79ee-8050-81bc-e695a23e14da": {
+      "id": "15284687-79ee-8050-81bc-e695a23e14da",
+      "version": 4,
+      "type": "text",
+      "parent_id": "15284687-79ee-809d-a915-d7dab69711b9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733314084874,
+      "last_edited_time": 1733314084874
+    },
+    "15284687-79ee-80aa-819a-c3171bbe0cd5": {
+      "id": "15284687-79ee-80aa-819a-c3171bbe0cd5",
+      "version": 257,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://www.youtube.com/watch?v=96htNb6Tnz0",
+            [
+              [
+                "a",
+                "https://www.youtube.com/watch?v=96htNb6Tnz0"
+              ]
+            ]
+          ],
+          [
+            "\n"
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293177927,
+      "last_edited_time": 1733293304422
+    },
+    "15284687-79ee-803b-8616-d21f8039cd63": {
+      "id": "15284687-79ee-803b-8616-d21f8039cd63",
+      "version": 30,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "<인트로>\n1. 40대 여자에 대한 남자 찐 반응 물어보기 ⇒ 정신 차려라"
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293304419,
+      "last_edited_time": 1733293306095
+    },
+    "15284687-79ee-8005-ae2b-f2d10c490d84": {
+      "id": "15284687-79ee-8005-ae2b-f2d10c490d84",
+      "version": 343,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "2.예시를 주고 물어보기 ⇒ 반응 듣기 ⇒ 평범한 예시 ⇒ 반응듣기 "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 2
+      },
+      "parent_id": "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293207508,
+      "last_edited_time": 1733293260100
+    },
+    "15284687-79ee-8025-adf5-dc2c95a1b3d7": {
+      "id": "15284687-79ee-8025-adf5-dc2c95a1b3d7",
+      "version": 512,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "3.반응차이 인지시키고 ⇒ 현실 이야기 해주기 ⇒ 현실이 이런 이유가 있어 왠줄알아?⇒ 착각이란걸 하기 때문이거든요 ⇒ 오늘은 뭘 이야기 해보겠다"
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293248285,
+      "last_edited_time": 1733293300773
+    },
+    "15284687-79ee-8061-bcc5-c1074ce452b4": {
+      "id": "15284687-79ee-8061-bcc5-c1074ce452b4",
+      "version": 4,
+      "type": "text",
+      "parent_id": "15284687-79ee-80d0-97fd-e5d8b7b918d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733293310716,
+      "last_edited_time": 1733293310717
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

@@ -1,0 +1,180 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/3128468779ee80ceb907f331a8b5405c",
+  "pageId": "31284687-79ee-80ce-b907-f331a8b5405c",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "31284687-79ee-80ce-b907-f331a8b5405c": {
+      "id": "31284687-79ee-80ce-b907-f331a8b5405c",
+      "version": 22,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "29384687-79ee-8052-856f-e3db92dc7117",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "대본"
+          ]
+        ],
+        "eNf^": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "31284687-79ee-80b9-977d-c73f5acede18",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2026-02-25",
+                  "start_date": "2026-02-25"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "시작 전"
+          ]
+        ],
+        "title": [
+          [
+            "gpt 쇼핑 - 대본"
+          ]
+        ]
+      },
+      "content": [
+        "31284687-79ee-809e-84de-db99df9fa82e",
+        "31284687-79ee-8021-8d31-d14146a9df1a",
+        "31284687-79ee-8008-b5ef-d8cb204a4a96",
+        "31284687-79ee-8023-858d-dd5fbb3ddc71"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8172-a030-e41f6f0ae294",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_floating_table_of_contents": {
+          "state": "off"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1771982960477,
+      "last_edited_time": 1779623561539
+    },
+    "31284687-79ee-809e-84de-db99df9fa82e": {
+      "id": "31284687-79ee-809e-84de-db99df9fa82e",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-819b-b063-c83b644a1e54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "31284687-79ee-80ce-b907-f331a8b5405c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1771982961254,
+      "last_edited_time": 1771982961255
+    },
+    "31284687-79ee-8021-8d31-d14146a9df1a": {
+      "id": "31284687-79ee-8021-8d31-d14146a9df1a",
+      "version": 2,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c8-8857-d26e76179f75",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "31284687-79ee-80ce-b907-f331a8b5405c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1771982961254,
+      "last_edited_time": 1771982961255
+    },
+    "31284687-79ee-8008-b5ef-d8cb204a4a96": {
+      "id": "31284687-79ee-8008-b5ef-d8cb204a4a96",
+      "version": 2,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8148-9e6c-ef508c6aba03",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "31284687-79ee-80ce-b907-f331a8b5405c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1771982961254,
+      "last_edited_time": 1771982961255
+    },
+    "31284687-79ee-8023-858d-dd5fbb3ddc71": {
+      "id": "31284687-79ee-8023-858d-dd5fbb3ddc71",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-818a-9e28-f5c9038fd012",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "31284687-79ee-80ce-b907-f331a8b5405c",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1771982961254,
+      "last_edited_time": 1771982961255
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

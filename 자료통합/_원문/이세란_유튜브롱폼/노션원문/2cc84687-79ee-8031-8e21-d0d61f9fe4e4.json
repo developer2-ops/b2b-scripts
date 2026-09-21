@@ -1,0 +1,249 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2cc8468779ee80318e21d0d61f9fe4e4",
+  "pageId": "2cc84687-79ee-8031-8e21-d0d61f9fe4e4",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2cc84687-79ee-8031-8e21-d0d61f9fe4e4": {
+      "id": "2cc84687-79ee-8031-8e21-d0d61f9fe4e4",
+      "version": 26,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2ca84687-79ee-8076-8a41-d895b393c230",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "촬영"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2025-12-17"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰_김진관대표님 - 촬영"
+          ]
+        ]
+      },
+      "content": [
+        "2cc84687-79ee-812c-8557-c84533f7175e",
+        "2cc84687-79ee-81cf-bad4-f47359c134f6"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-817d-8e2a-c6f7bc5b6c29",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1765958807307,
+      "last_edited_time": 1779623561098
+    },
+    "2cc84687-79ee-812c-8557-c84533f7175e": {
+      "id": "2cc84687-79ee-812c-8557-c84533f7175e",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2cc84687-79ee-81ce-ac51-eae72d7d0182",
+        "2cc84687-79ee-817a-8796-e271c4a61a5b"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8115-a9fb-ca43622c0bb0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-8031-8e21-d0d61f9fe4e4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-81ce-ac51-eae72d7d0182": {
+      "id": "2cc84687-79ee-81ce-ac51-eae72d7d0182",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2cc84687-79ee-81aa-98dd-d1230eaefdf9"
+      ],
+      "format": {
+        "column_ratio": 0.375,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8161-8244-c6b20eb6cc35",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-812c-8557-c84533f7175e",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-81aa-98dd-d1230eaefdf9": {
+      "id": "2cc84687-79ee-81aa-98dd-d1230eaefdf9",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2cc84687-79ee-81ea-8081-fb474696d26a",
+        "2cc84687-79ee-8132-ad24-da60d67738d7"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81a9-b386-e7e8955220ad",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-81ce-ac51-eae72d7d0182",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-81ea-8081-fb474696d26a": {
+      "id": "2cc84687-79ee-81ea-8081-fb474696d26a",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2cc84687-79ee-81d9-bd76-004d88933fd5",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81b2-91f7-f2972b206dad",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-81aa-98dd-d1230eaefdf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-8132-ad24-da60d67738d7": {
+      "id": "2cc84687-79ee-8132-ad24-da60d67738d7",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2cc84687-79ee-813f-b4bd-004d5e074d9d",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8161-8f72-e3d3081e0638",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-81aa-98dd-d1230eaefdf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-817a-8796-e271c4a61a5b": {
+      "id": "2cc84687-79ee-817a-8796-e271c4a61a5b",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2cc84687-79ee-8168-b1ad-e1bc8830477b"
+      ],
+      "format": {
+        "column_ratio": 0.625,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81e0-bdec-e71955bce1a0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-812c-8557-c84533f7175e",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-8168-b1ad-e1bc8830477b": {
+      "id": "2cc84687-79ee-8168-b1ad-e1bc8830477b",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8116-bca7-d7b20200fb2f",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2cc84687-79ee-817a-8796-e271c4a61a5b",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    },
+    "2cc84687-79ee-81cf-bad4-f47359c134f6": {
+      "id": "2cc84687-79ee-81cf-bad4-f47359c134f6",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81a9-aaf0-d45d56cc32f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2cc84687-79ee-8031-8e21-d0d61f9fe4e4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765958808688,
+      "last_edited_time": 1765958808688
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

@@ -1,0 +1,372 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2558468779ee809e8b07e0aee12c2c8d",
+  "pageId": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "25584687-79ee-809e-8b07-e0aee12c2c8d": {
+      "id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "version": 53,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "25584687-79ee-8096-a127-c0a8eb603a8c",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "레퍼런스"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "25584687-79ee-8062-8a16-ea6838e37a6e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-08-20",
+                  "start_date": "2025-08-20"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            " "
+          ]
+        ]
+      },
+      "content": [
+        "25584687-79ee-819c-b47a-c4e2b73240ec",
+        "25584687-79ee-818d-8616-d7f40b2b19ce",
+        "25584687-79ee-813e-a3ee-ecab86f4dce9",
+        "25584687-79ee-813e-9554-db75fcc25699",
+        "25584687-79ee-815b-bfc8-d251fe82041b",
+        "25584687-79ee-807d-b98b-f3a87bf9bdd0",
+        "25584687-79ee-80cd-9eb3-e13d01ebd8ac",
+        "25584687-79ee-800a-9d1f-eaf757b8aacc",
+        "25584687-79ee-80fb-8b00-c9ac03603771",
+        "25584687-79ee-8034-b14e-d6f4951ef4ca"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-810a-801e-f53c8242d9c0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1755659951170,
+      "last_edited_time": 1779623560435
+    },
+    "25584687-79ee-819c-b47a-c4e2b73240ec": {
+      "id": "25584687-79ee-819c-b47a-c4e2b73240ec",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "25584687-79ee-81db-9090-ee34c18e1fbd"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c2-8a59-ccc49643ce28",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957841,
+      "last_edited_time": 1755659957841
+    },
+    "25584687-79ee-81db-9090-ee34c18e1fbd": {
+      "id": "25584687-79ee-81db-9090-ee34c18e1fbd",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "25584687-79ee-8121-9cfb-e7fb8fff7aad",
+        "25584687-79ee-8138-8674-c93f75ba578b"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-817a-a39c-d8b332ad1d27",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-819c-b47a-c4e2b73240ec",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957842,
+      "last_edited_time": 1755659957842
+    },
+    "25584687-79ee-8121-9cfb-e7fb8fff7aad": {
+      "id": "25584687-79ee-8121-9cfb-e7fb8fff7aad",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "25584687-79ee-81a7-824e-e6c257455eed"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8169-9cc0-de0fdc35b2ed",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-81db-9090-ee34c18e1fbd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957843,
+      "last_edited_time": 1755659957843
+    },
+    "25584687-79ee-81a7-824e-e6c257455eed": {
+      "id": "25584687-79ee-81a7-824e-e6c257455eed",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "25584687-79ee-81a6-abad-004ddecb17f8",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8121-aaea-f17177b38a36",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-8121-9cfb-e7fb8fff7aad",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957843,
+      "last_edited_time": 1755659957843
+    },
+    "25584687-79ee-8138-8674-c93f75ba578b": {
+      "id": "25584687-79ee-8138-8674-c93f75ba578b",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "25584687-79ee-8157-b27b-c7a65df682b8"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8193-9db2-ddcd26d66896",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-81db-9090-ee34c18e1fbd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957843,
+      "last_edited_time": 1755659957843
+    },
+    "25584687-79ee-8157-b27b-c7a65df682b8": {
+      "id": "25584687-79ee-8157-b27b-c7a65df682b8",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "25584687-79ee-81f2-a821-004d3c01a8b0",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8138-bc47-c8d6bfde4f7a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-8138-8674-c93f75ba578b",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957843,
+      "last_edited_time": 1755659957843
+    },
+    "25584687-79ee-818d-8616-d7f40b2b19ce": {
+      "id": "25584687-79ee-818d-8616-d7f40b2b19ce",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ad-8867-eabf14c3d89c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957841,
+      "last_edited_time": 1755659957841
+    },
+    "25584687-79ee-813e-a3ee-ecab86f4dce9": {
+      "id": "25584687-79ee-813e-a3ee-ecab86f4dce9",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8184-ad27-dedccb0f89d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957841,
+      "last_edited_time": 1755659957841
+    },
+    "25584687-79ee-813e-9554-db75fcc25699": {
+      "id": "25584687-79ee-813e-9554-db75fcc25699",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81f1-87fb-e1c078959f69",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957842,
+      "last_edited_time": 1755659957842
+    },
+    "25584687-79ee-815b-bfc8-d251fe82041b": {
+      "id": "25584687-79ee-815b-bfc8-d251fe82041b",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8176-bc97-e03ef4bf34b7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659957841,
+      "last_edited_time": 1755659957841
+    },
+    "25584687-79ee-807d-b98b-f3a87bf9bdd0": {
+      "id": "25584687-79ee-807d-b98b-f3a87bf9bdd0",
+      "version": 20,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://youtu.be/jvM5Sr4Y1-c"
+          ]
+        ],
+        "title": [
+          [
+            "10년 키운 보호자분들도 잘 모르는 경우가 있습니다. "
+          ]
+        ],
+        "description": [
+          [
+            "#강아지 #강아지유튜브 #강아지브이로그 \n\n00:00 오늘 이야기 할 내용\n00:53 췌장에 부담을 줄 수 있는 음식들\n02:35 스테로이드 성분이 췌장염을 유발한다?\n03:11 췌장염의 원인\n03:31 췌장염 종류 및 증상\n07:27 췌장염 예방법\n\n🔽바로외과 찾아오시는 길 🔽\nhttps://eprmkt.link/placehome"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/8666f415/img/logos/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/jvM5Sr4Y1-c/maxresdefault.jpg"
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659984716,
+      "last_edited_time": 1755659988761
+    },
+    "25584687-79ee-80cd-9eb3-e13d01ebd8ac": {
+      "id": "25584687-79ee-80cd-9eb3-e13d01ebd8ac",
+      "version": 3,
+      "type": "text",
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659994148,
+      "last_edited_time": 1755659994149
+    },
+    "25584687-79ee-800a-9d1f-eaf757b8aacc": {
+      "id": "25584687-79ee-800a-9d1f-eaf757b8aacc",
+      "version": 3,
+      "type": "text",
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659994282,
+      "last_edited_time": 1755659994283
+    },
+    "25584687-79ee-80fb-8b00-c9ac03603771": {
+      "id": "25584687-79ee-80fb-8b00-c9ac03603771",
+      "version": 330,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "‘이자세’ 라는 말이 좋았으니깐 ⇒ 마케팅 1타에서는 이걸 ‘이표정’으로 바꿔볼까 한다. "
+          ]
+        ]
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755659993547,
+      "last_edited_time": 1755660045799
+    },
+    "25584687-79ee-8034-b14e-d6f4951ef4ca": {
+      "id": "25584687-79ee-8034-b14e-d6f4951ef4ca",
+      "version": 334,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "‘이런 표정’(슬픈표정) 말고 ‘이런 표정’(기쁜표정) 하는 직원을 주의하세요"
+          ]
+        ]
+      },
+      "parent_id": "25584687-79ee-809e-8b07-e0aee12c2c8d",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1755660071780,
+      "last_edited_time": 1755660158585
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

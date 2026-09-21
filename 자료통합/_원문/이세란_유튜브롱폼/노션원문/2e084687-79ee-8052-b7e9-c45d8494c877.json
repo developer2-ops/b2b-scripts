@@ -1,0 +1,166 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2e08468779ee8052b7e9c45d8494c877",
+  "pageId": "2e084687-79ee-8052-b7e9-c45d8494c877",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2e084687-79ee-8052-b7e9-c45d8494c877": {
+      "id": "2e084687-79ee-8052-b7e9-c45d8494c877",
+      "version": 30,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2d884687-79ee-8038-ac5f-d3e3aebf9d45",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2e084687-79ee-8065-8e94-fcbe9c83de40",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2026-01-06"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "진행중"
+          ]
+        ],
+        "title": [
+          [
+            " 인터뷰_SNC원장님 - 편집"
+          ]
+        ]
+      },
+      "content": [
+        "2e084687-79ee-8198-ab69-e277a8d86359",
+        "2e084687-79ee-817f-a88e-f7b55ece39d1"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-814a-bfbe-f51612579c70",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1767681291220,
+      "last_edited_time": 1779623561167
+    },
+    "2e084687-79ee-8198-ab69-e277a8d86359": {
+      "id": "2e084687-79ee-8198-ab69-e277a8d86359",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2e084687-79ee-81cf-aecf-cec85076e868",
+        "2e084687-79ee-8197-beec-d43d33700a4f"
+      ],
+      "format": {
+        "block_color": "gray_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ed-a632-d724422d76bf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8052-b7e9-c45d8494c877",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681292580,
+      "last_edited_time": 1767681292580
+    },
+    "2e084687-79ee-81cf-aecf-cec85076e868": {
+      "id": "2e084687-79ee-81cf-aecf-cec85076e868",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2e084687-79ee-81fe-a188-004d0a7325c4",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81af-86c5-fc0fe5d6fb49",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8198-ab69-e277a8d86359",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681292580,
+      "last_edited_time": 1767681292580
+    },
+    "2e084687-79ee-8197-beec-d43d33700a4f": {
+      "id": "2e084687-79ee-8197-beec-d43d33700a4f",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2e084687-79ee-8162-a46f-004d9eccd860",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-815c-a141-f22a539443f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8198-ab69-e277a8d86359",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681292580,
+      "last_edited_time": 1767681292580
+    },
+    "2e084687-79ee-817f-a88e-f7b55ece39d1": {
+      "id": "2e084687-79ee-817f-a88e-f7b55ece39d1",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ba-bd63-e43a4489e613",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2e084687-79ee-8052-b7e9-c45d8494c877",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1767681292580,
+      "last_edited_time": 1767681292580
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

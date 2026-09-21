@@ -1,0 +1,89 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/11e8468779ee8020acbac7b5ec7cdc61",
+  "pageId": "11e84687-79ee-8020-acba-c7b5ec7cdc61",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "11e84687-79ee-8020-acba-c7b5ec7cdc61": {
+      "id": "11e84687-79ee-8020-acba-c7b5ec7cdc61",
+      "version": 236,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "(7) 자영업자들이 꼭 읽었으면 하는 책 추천"
+          ]
+        ]
+      },
+      "content": [
+        "11f84687-79ee-8009-8653-ee7310facbac",
+        "11f84687-79ee-803b-8598-f629ca8b793b",
+        "11f84687-79ee-80db-87cc-fc37e54af42f"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728820674879,
+      "last_edited_time": 1731807503612
+    },
+    "11f84687-79ee-8009-8653-ee7310facbac": {
+      "id": "11f84687-79ee-8009-8653-ee7310facbac",
+      "version": 4,
+      "type": "text",
+      "parent_id": "11e84687-79ee-8020-acba-c7b5ec7cdc61",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728881962102,
+      "last_edited_time": 1728881962103
+    },
+    "11f84687-79ee-803b-8598-f629ca8b793b": {
+      "id": "11f84687-79ee-803b-8598-f629ca8b793b",
+      "version": 17,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "개요"
+          ]
+        ]
+      },
+      "content": [
+        "11f84687-79ee-801f-be43-c04ce613ae1e"
+      ],
+      "parent_id": "11e84687-79ee-8020-acba-c7b5ec7cdc61",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728881964917,
+      "last_edited_time": 1728881968043
+    },
+    "11f84687-79ee-80db-87cc-fc37e54af42f": {
+      "id": "11f84687-79ee-80db-87cc-fc37e54af42f",
+      "version": 4,
+      "type": "text",
+      "parent_id": "11e84687-79ee-8020-acba-c7b5ec7cdc61",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728882251325,
+      "last_edited_time": 1728882251325
+    },
+    "11f84687-79ee-801f-be43-c04ce613ae1e": {
+      "id": "11f84687-79ee-801f-be43-c04ce613ae1e",
+      "version": 85,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "<서론>\n"
+          ]
+        ]
+      },
+      "parent_id": "11f84687-79ee-803b-8598-f629ca8b793b",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728881968041,
+      "last_edited_time": 1728881994127
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

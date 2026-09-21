@@ -1,0 +1,69 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1528468779ee8050832de479d29ad313",
+  "pageId": "15284687-79ee-8050-832d-e479d29ad313",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "15284687-79ee-8050-832d-e479d29ad313": {
+      "id": "15284687-79ee-8050-832d-e479d29ad313",
+      "version": 550,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "월급쟁이에서 사장되면 착각하는 3가지"
+          ]
+        ]
+      },
+      "content": [
+        "15284687-79ee-8016-9791-c1e1c256eabf",
+        "15284687-79ee-8066-8719-c27dc1185f4f",
+        "15284687-79ee-80a2-ae01-faff1d2b3d2a"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733291231358,
+      "last_edited_time": 1733293061918
+    },
+    "15284687-79ee-8016-9791-c1e1c256eabf": {
+      "id": "15284687-79ee-8016-9791-c1e1c256eabf",
+      "version": 589,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제목 : 퇴사하고 창업한 사람들이 꼭 하는 실수 모음집"
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-8050-832d-e479d29ad313",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733291249222,
+      "last_edited_time": 1733293054127
+    },
+    "15284687-79ee-8066-8719-c27dc1185f4f": {
+      "id": "15284687-79ee-8066-8719-c27dc1185f4f",
+      "version": 5,
+      "type": "text",
+      "parent_id": "15284687-79ee-8050-832d-e479d29ad313",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292001644,
+      "last_edited_time": 1733292001647
+    },
+    "15284687-79ee-80a2-ae01-faff1d2b3d2a": {
+      "id": "15284687-79ee-80a2-ae01-faff1d2b3d2a",
+      "version": 287,
+      "type": "text",
+      "parent_id": "15284687-79ee-8050-832d-e479d29ad313",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292001470,
+      "last_edited_time": 1733292494363
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

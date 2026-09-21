@@ -1,0 +1,739 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2cc8468779ee804ea8b7c3ee60e86272",
+  "pageId": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2cc84687-79ee-804e-a8b7-c3ee60e86272": {
+      "id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "version": 256,
+      "type": "page",
+      "properties": {
+        "Ifps": [
+          [
+            "마케팅1타"
+          ]
+        ],
+        "KNIa": [
+          [
+            " ",
+            [
+              [
+                "a",
+                " "
+              ]
+            ]
+          ]
+        ],
+        "Kc<T": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "25584687-79ee-8016-ad6c-e1f2589f1692",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "drhc": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2025-12-17"
+                }
+              ]
+            ]
+          ]
+        ],
+        "gLCK": [
+          [
+            "인터뷰"
+          ]
+        ],
+        "qEDb": [
+          [
+            "Yes"
+          ]
+        ],
+        "}]{K": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-815e-8095-c0bc7405d895",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰 컨텐츠 포멧"
+          ]
+        ]
+      },
+      "content": [
+        "2cc84687-79ee-8015-b549-cc84375ddb14",
+        "2cc84687-79ee-800a-9f17-c39b8071e0c0",
+        "2cc84687-79ee-80b4-a878-e88f8e839eab",
+        "2cc84687-79ee-803f-92aa-feafdf8c7351",
+        "2cc84687-79ee-80e0-8dfb-f1af43de2548",
+        "2cc84687-79ee-80b9-bbfd-e58846b29617",
+        "2cc84687-79ee-800e-81e0-c304c628549a",
+        "2cc84687-79ee-80fb-833a-c4bc25cb6f78",
+        "2cc84687-79ee-8041-90fa-f7ccf92a0550",
+        "2cc84687-79ee-80ae-81ad-dbfaeb2d0cda",
+        "2cc84687-79ee-8081-927b-f4a4cfbb0873",
+        "2cc84687-79ee-805c-b3cf-e631a74f79f5",
+        "2cc84687-79ee-8095-8d6d-ef160b8b5ba5",
+        "2cc84687-79ee-80d8-9837-e8855f020431",
+        "2cc84687-79ee-809f-b84f-d069a3c8262b",
+        "2cc84687-79ee-801c-9b4a-c4a7807d526d",
+        "2cc84687-79ee-80b0-aa35-de93749b6cbf",
+        "2cc84687-79ee-80ec-abd9-c673ea594a8a",
+        "2cc84687-79ee-80dc-a77d-e4258554934c",
+        "2cc84687-79ee-8036-8967-dab910780ef6",
+        "2cc84687-79ee-80b2-ad23-db9752f95420",
+        "2cc84687-79ee-8043-a422-f4a119bad876",
+        "2cc84687-79ee-80fb-864d-fa7ee1cc039f",
+        "2cc84687-79ee-80c6-a71c-ca513ac9a3e7",
+        "2cc84687-79ee-803a-8d38-ec47a79b77d1",
+        "2cc84687-79ee-80d4-a4b6-cc1cea86369a",
+        "2cc84687-79ee-801e-aeb8-da8c8a62d03c",
+        "2cc84687-79ee-80d9-9316-e0dc87d97908",
+        "2cc84687-79ee-800a-8529-ebb3488f48f2",
+        "2cc84687-79ee-801d-9d47-c7d7f1dbe833",
+        "2cc84687-79ee-80a4-a2e7-e3ffb4abd0db",
+        "2cc84687-79ee-8001-abc8-c2d4f9a3a0d6",
+        "2cc84687-79ee-8034-9d93-fbbcfe50747a",
+        "2cc84687-79ee-80ba-9b01-e27a63cecbaf",
+        "2cc84687-79ee-80f1-83fb-d10057f99293",
+        "2cc84687-79ee-8006-8401-f5503ea6bcdd",
+        "2cc84687-79ee-8017-94e0-d52be67488e7",
+        "2cc84687-79ee-808a-b925-d67fe1a005b8"
+      ],
+      "format": {
+        "social_media_image_preview_url": "attachment:80929438-30e7-4366-b9ed-e0388a01e688:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-816d-80eb-000b365a5ce6",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1765959122385,
+      "last_edited_time": 1771826425772
+    },
+    "2cc84687-79ee-8015-b549-cc84375ddb14": {
+      "id": "2cc84687-79ee-8015-b549-cc84375ddb14",
+      "version": 105,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "촬영잡기 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959172519,
+      "last_edited_time": 1765959181876
+    },
+    "2cc84687-79ee-800a-9f17-c39b8071e0c0": {
+      "id": "2cc84687-79ee-800a-9f17-c39b8071e0c0",
+      "version": 179,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "촬영 전 회사 조사하고 질문리스트 뽑기 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959181990,
+      "last_edited_time": 1765959189585
+    },
+    "2cc84687-79ee-80b4-a878-e88f8e839eab": {
+      "id": "2cc84687-79ee-80b4-a878-e88f8e839eab",
+      "version": 56,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "<회사>"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959247528,
+      "last_edited_time": 1765959251569
+    },
+    "2cc84687-79ee-803f-92aa-feafdf8c7351": {
+      "id": "2cc84687-79ee-803f-92aa-feafdf8c7351",
+      "version": 192,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "회사 시작 계기"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959189806,
+      "last_edited_time": 1765959204509
+    },
+    "2cc84687-79ee-80e0-8dfb-f1af43de2548": {
+      "id": "2cc84687-79ee-80e0-8dfb-f1af43de2548",
+      "version": 190,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "각 매출별 성장과정 ⇒ 키워드 잡기"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959204645,
+      "last_edited_time": 1765959227879
+    },
+    "2cc84687-79ee-80b9-bbfd-e58846b29617": {
+      "id": "2cc84687-79ee-80b9-bbfd-e58846b29617",
+      "version": 89,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "키워드 파고 들기 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959256152,
+      "last_edited_time": 1765959261345
+    },
+    "2cc84687-79ee-800e-81e0-c304c628549a": {
+      "id": "2cc84687-79ee-800e-81e0-c304c628549a",
+      "version": 55,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "빚 많았을때"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959261491,
+      "last_edited_time": 1765959271023
+    },
+    "2cc84687-79ee-80fb-833a-c4bc25cb6f78": {
+      "id": "2cc84687-79ee-80fb-833a-c4bc25cb6f78",
+      "version": 39,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "연매출"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959561191,
+      "last_edited_time": 1765959583778
+    },
+    "2cc84687-79ee-8041-90fa-f7ccf92a0550": {
+      "id": "2cc84687-79ee-8041-90fa-f7ccf92a0550",
+      "version": 51,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "매출구성"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959562394,
+      "last_edited_time": 1765959579885
+    },
+    "2cc84687-79ee-80ae-81ad-dbfaeb2d0cda": {
+      "id": "2cc84687-79ee-80ae-81ad-dbfaeb2d0cda",
+      "version": 97,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "투자 할때 스타일"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959587096,
+      "last_edited_time": 1765959593946
+    },
+    "2cc84687-79ee-8081-927b-f4a4cfbb0873": {
+      "id": "2cc84687-79ee-8081-927b-f4a4cfbb0873",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959331678,
+      "last_edited_time": 1765959331681
+    },
+    "2cc84687-79ee-805c-b3cf-e631a74f79f5": {
+      "id": "2cc84687-79ee-805c-b3cf-e631a74f79f5",
+      "version": 92,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "<마케팅 고민>"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959271173,
+      "last_edited_time": 1765959334879
+    },
+    "2cc84687-79ee-8095-8d6d-ef160b8b5ba5": {
+      "id": "2cc84687-79ee-8095-8d6d-ef160b8b5ba5",
+      "version": 183,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "지금 가장 고민하시는게 뭔지 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959335021,
+      "last_edited_time": 1765959342314
+    },
+    "2cc84687-79ee-80d8-9837-e8855f020431": {
+      "id": "2cc84687-79ee-80d8-9837-e8855f020431",
+      "version": 142,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "마케팅적으로 답답하다 하는건 없는지 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959342434,
+      "last_edited_time": 1765959349671
+    },
+    "2cc84687-79ee-809f-b84f-d069a3c8262b": {
+      "id": "2cc84687-79ee-809f-b84f-d069a3c8262b",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959252867,
+      "last_edited_time": 1765959252870
+    },
+    "2cc84687-79ee-801c-9b4a-c4a7807d526d": {
+      "id": "2cc84687-79ee-801c-9b4a-c4a7807d526d",
+      "version": 23,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "<개인>"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959239398,
+      "last_edited_time": 1765959254074
+    },
+    "2cc84687-79ee-80b0-aa35-de93749b6cbf": {
+      "id": "2cc84687-79ee-80b0-aa35-de93749b6cbf",
+      "version": 104,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "하루에 일하는 시간"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959229121,
+      "last_edited_time": 1765959243453
+    },
+    "2cc84687-79ee-80ec-abd9-c673ea594a8a": {
+      "id": "2cc84687-79ee-80ec-abd9-c673ea594a8a",
+      "version": 140,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "가족과의 시간 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959243509,
+      "last_edited_time": 1765959282668
+    },
+    "2cc84687-79ee-80dc-a77d-e4258554934c": {
+      "id": "2cc84687-79ee-80dc-a77d-e4258554934c",
+      "version": 68,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "가장 힘들었을때"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959282911,
+      "last_edited_time": 1765959286552
+    },
+    "2cc84687-79ee-8036-8967-dab910780ef6": {
+      "id": "2cc84687-79ee-8036-8967-dab910780ef6",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "list_start_index": 3
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959403408,
+      "last_edited_time": 1765959403411
+    },
+    "2cc84687-79ee-80b2-ad23-db9752f95420": {
+      "id": "2cc84687-79ee-80b2-ad23-db9752f95420",
+      "version": 170,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "촬영하기 "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 3
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959401923,
+      "last_edited_time": 1765959527449
+    },
+    "2cc84687-79ee-8043-a422-f4a119bad876": {
+      "id": "2cc84687-79ee-8043-a422-f4a119bad876",
+      "version": 69,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "인트로 촬영"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959527591,
+      "last_edited_time": 1765959531506
+    },
+    "2cc84687-79ee-80fb-864d-fa7ee1cc039f": {
+      "id": "2cc84687-79ee-80fb-864d-fa7ee1cc039f",
+      "version": 161,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "인터뷰"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959531599,
+      "last_edited_time": 1765959630528
+    },
+    "2cc84687-79ee-80c6-a71c-ca513ac9a3e7": {
+      "id": "2cc84687-79ee-80c6-a71c-ca513ac9a3e7",
+      "version": 236,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "현장촬영 (소개 + 인서트 따로 촬영)"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959630708,
+      "last_edited_time": 1765959755598
+    },
+    "2cc84687-79ee-803a-8d38-ec47a79b77d1": {
+      "id": "2cc84687-79ee-803a-8d38-ec47a79b77d1",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "list_start_index": 4
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959648598,
+      "last_edited_time": 1765959648602
+    },
+    "2cc84687-79ee-80d4-a4b6-cc1cea86369a": {
+      "id": "2cc84687-79ee-80d4-a4b6-cc1cea86369a",
+      "version": 230,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "느낀점 / 섭외 과정 정리"
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 4
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959638360,
+      "last_edited_time": 1765959670246
+    },
+    "2cc84687-79ee-801e-aeb8-da8c8a62d03c": {
+      "id": "2cc84687-79ee-801e-aeb8-da8c8a62d03c",
+      "version": 135,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "대표님 선정한 이유 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959670415,
+      "last_edited_time": 1765959677844
+    },
+    "2cc84687-79ee-80d9-9316-e0dc87d97908": {
+      "id": "2cc84687-79ee-80d9-9316-e0dc87d97908",
+      "version": 64,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "느낀점 정리하기 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959679663,
+      "last_edited_time": 1765959683790
+    },
+    "2cc84687-79ee-800a-8529-ebb3488f48f2": {
+      "id": "2cc84687-79ee-800a-8529-ebb3488f48f2",
+      "version": 107,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "이런 업종을 마케팅 한다면"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959684808,
+      "last_edited_time": 1765959689700
+    },
+    "2cc84687-79ee-801d-9d47-c7d7f1dbe833": {
+      "id": "2cc84687-79ee-801d-9d47-c7d7f1dbe833",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959690130,
+      "last_edited_time": 1765959690133
+    },
+    "2cc84687-79ee-80a4-a2e7-e3ffb4abd0db": {
+      "id": "2cc84687-79ee-80a4-a2e7-e3ffb4abd0db",
+      "version": 50,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "편집 "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 5
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959689821,
+      "last_edited_time": 1765959693576
+    },
+    "2cc84687-79ee-8001-abc8-c2d4f9a3a0d6": {
+      "id": "2cc84687-79ee-8001-abc8-c2d4f9a3a0d6",
+      "version": 604,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "여기는 무슨 회사일까요? 연매출 + 대표님 간단소개 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959693718,
+      "last_edited_time": 1765959764768
+    },
+    "2cc84687-79ee-8034-9d93-fbbcfe50747a": {
+      "id": "2cc84687-79ee-8034-9d93-fbbcfe50747a",
+      "version": 478,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "인터뷰 컷편집 (자기소개 + 인트로 컷편집 마저 이야기)"
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959766858,
+      "last_edited_time": 1765959959121
+    },
+    "2cc84687-79ee-80ba-9b01-e27a63cecbaf": {
+      "id": "2cc84687-79ee-80ba-9b01-e27a63cecbaf",
+      "version": 67,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "느낀점 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959833518,
+      "last_edited_time": 1765959938179
+    },
+    "2cc84687-79ee-80f1-83fb-d10057f99293": {
+      "id": "2cc84687-79ee-80f1-83fb-d10057f99293",
+      "version": 109,
+      "type": "bulleted_list",
+      "properties": {
+        "title": [
+          [
+            "이런 업종을 마케팅 한다면 "
+          ]
+        ]
+      },
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959959969,
+      "last_edited_time": 1765959964413
+    },
+    "2cc84687-79ee-8006-8401-f5503ea6bcdd": {
+      "id": "2cc84687-79ee-8006-8401-f5503ea6bcdd",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765961052773,
+      "last_edited_time": 1765961052777
+    },
+    "2cc84687-79ee-8017-94e0-d52be67488e7": {
+      "id": "2cc84687-79ee-8017-94e0-d52be67488e7",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765961052937,
+      "last_edited_time": 1765961052941
+    },
+    "2cc84687-79ee-808a-b925-d67fe1a005b8": {
+      "id": "2cc84687-79ee-808a-b925-d67fe1a005b8",
+      "version": 4,
+      "type": "text",
+      "parent_id": "2cc84687-79ee-804e-a8b7-c3ee60e86272",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1765959516134,
+      "last_edited_time": 1765959516137
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

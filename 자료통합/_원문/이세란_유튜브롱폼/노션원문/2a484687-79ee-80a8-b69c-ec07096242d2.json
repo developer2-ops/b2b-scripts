@@ -1,0 +1,307 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2a48468779ee80a8b69cec07096242d2",
+  "pageId": "2a484687-79ee-80a8-b69c-ec07096242d2",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2a484687-79ee-80a8-b69c-ec07096242d2": {
+      "id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "version": 30,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "29a84687-79ee-8080-a42b-c208c45981cd",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "업로드"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "datetime",
+                  "time_zone": "Asia/Seoul",
+                  "start_date": "2025-11-07",
+                  "start_time": "18:00"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "연매출 1000억 이상은 다 아는 얘기 - 업로드"
+          ]
+        ]
+      },
+      "content": [
+        "2a484687-79ee-81ff-a7bd-f177b6412382",
+        "2a484687-79ee-811e-88bc-d137add4bca9",
+        "2a484687-79ee-8151-9f86-c8d3e79728a5",
+        "2a484687-79ee-8199-a9aa-d2b28756ea66",
+        "2a484687-79ee-819c-b1c8-d172f12a6384",
+        "2a484687-79ee-8131-9db1-c500dfcb6fd2"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-80cc-b8ee-cbb5b68cc0d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "social_media_image_preview_url": "attachment:dce0c0fe-157f-4455-be7f-db6128570a62:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1762495554673,
+      "last_edited_time": 1779623560868
+    },
+    "2a484687-79ee-81ff-a7bd-f177b6412382": {
+      "id": "2a484687-79ee-81ff-a7bd-f177b6412382",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2a484687-79ee-8134-81b2-d56d01d8af31"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8103-9e86-df16aad1bc27",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555676,
+      "last_edited_time": 1762495555676
+    },
+    "2a484687-79ee-8134-81b2-d56d01d8af31": {
+      "id": "2a484687-79ee-8134-81b2-d56d01d8af31",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2a484687-79ee-818e-8719-c7115f1772a4",
+        "2a484687-79ee-81fa-b3d8-cf3409e26d82"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8137-a2e0-da0a293f3811",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-81ff-a7bd-f177b6412382",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555677,
+      "last_edited_time": 1762495555677
+    },
+    "2a484687-79ee-818e-8719-c7115f1772a4": {
+      "id": "2a484687-79ee-818e-8719-c7115f1772a4",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2a484687-79ee-814a-8b57-dbac98eb4e49"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-81a8-8c03-dfbb279dd323",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-8134-81b2-d56d01d8af31",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555677,
+      "last_edited_time": 1762495555677
+    },
+    "2a484687-79ee-814a-8b57-dbac98eb4e49": {
+      "id": "2a484687-79ee-814a-8b57-dbac98eb4e49",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2a484687-79ee-81f2-8481-004d7b52ffa1",
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8177-82eb-deba40d59d97",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-818e-8719-c7115f1772a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555677,
+      "last_edited_time": 1762495555677
+    },
+    "2a484687-79ee-81fa-b3d8-cf3409e26d82": {
+      "id": "2a484687-79ee-81fa-b3d8-cf3409e26d82",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2a484687-79ee-8128-9dd0-ee606f9c0ff5"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-81c5-8b46-fdb73021e2b3",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-8134-81b2-d56d01d8af31",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555677,
+      "last_edited_time": 1762495555677
+    },
+    "2a484687-79ee-8128-9dd0-ee606f9c0ff5": {
+      "id": "2a484687-79ee-8128-9dd0-ee606f9c0ff5",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2a484687-79ee-8105-8277-004dd777a661",
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-81af-bd98-e912d698d4ad",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-81fa-b3d8-cf3409e26d82",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555677,
+      "last_edited_time": 1762495555677
+    },
+    "2a484687-79ee-811e-88bc-d137add4bca9": {
+      "id": "2a484687-79ee-811e-88bc-d137add4bca9",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8164-a66c-e8d6665588e7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555676,
+      "last_edited_time": 1762495555676
+    },
+    "2a484687-79ee-8151-9f86-c8d3e79728a5": {
+      "id": "2a484687-79ee-8151-9f86-c8d3e79728a5",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-816a-84ab-c8e3ebce756a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555677,
+      "last_edited_time": 1762495555677
+    },
+    "2a484687-79ee-8199-a9aa-d2b28756ea66": {
+      "id": "2a484687-79ee-8199-a9aa-d2b28756ea66",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8106-9ecd-c50c22f8c0e6",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555676,
+      "last_edited_time": 1762495555676
+    },
+    "2a484687-79ee-819c-b1c8-d172f12a6384": {
+      "id": "2a484687-79ee-819c-b1c8-d172f12a6384",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8044-9bb5-ed63b7f035a4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555676,
+      "last_edited_time": 1762495555676
+    },
+    "2a484687-79ee-8131-9db1-c500dfcb6fd2": {
+      "id": "2a484687-79ee-8131-9db1-c500dfcb6fd2",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "27c84687-79ee-8029-b17e-e97b71f0a5b9",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2a484687-79ee-80a8-b69c-ec07096242d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1762495555676,
+      "last_edited_time": 1762495555676
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

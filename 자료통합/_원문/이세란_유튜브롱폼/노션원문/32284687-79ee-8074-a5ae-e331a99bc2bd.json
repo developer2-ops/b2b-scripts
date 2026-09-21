@@ -1,0 +1,780 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/3228468779ee8074a5aee331a99bc2bd",
+  "pageId": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "32284687-79ee-8074-a5ae-e331a99bc2bd": {
+      "id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "version": 126,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "32084687-79ee-80f2-bf70-cfc3f4797df6",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "32284687-79ee-8059-be3c-ca02b22c814e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2026-03-13",
+                  "start_date": "2026-03-13"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "시작 전"
+          ]
+        ],
+        "title": [
+          [
+            "가방분석 - 편집"
+          ]
+        ]
+      },
+      "content": [
+        "32284687-79ee-8160-9d8b-faff22a3a0f9",
+        "32284687-79ee-81ac-b882-ceb632f46bcd",
+        "32284687-79ee-811b-af9d-c9df2a92a559",
+        "32284687-79ee-81aa-b55a-eba1e1be3f1f",
+        "32284687-79ee-81f5-ae01-c64fd8c80421",
+        "32284687-79ee-80dd-b314-dfca6b3a9a11",
+        "32284687-79ee-8065-b4cc-ccefbb54be2b",
+        "32284687-79ee-80f9-bd04-c5568c8fe325",
+        "32284687-79ee-805f-b7c4-ea2dd91bf72a",
+        "32284687-79ee-8079-a1c0-c2148014cbb6",
+        "32284687-79ee-8004-a96e-f30d2a1159f5",
+        "32284687-79ee-804c-92f4-c7395332be2a",
+        "32284687-79ee-8086-8d0c-dfd29992971b",
+        "32284687-79ee-804d-914a-dfda6dfad5a7",
+        "32284687-79ee-80ee-967e-c420c3ff0e34",
+        "32284687-79ee-8066-8a1f-d56a95c80d46",
+        "32284687-79ee-8109-a8b3-d6f6688ef6a5",
+        "32284687-79ee-8043-a832-f95254b08c5d",
+        "32284687-79ee-80c6-b35a-d4a21e7755ac",
+        "32284687-79ee-8049-ab86-e090e8b03801",
+        "32284687-79ee-805b-900a-fd2e1ff88790",
+        "32284687-79ee-8020-a314-d3d231694320",
+        "32284687-79ee-808e-b171-eeb7a30ab66a",
+        "32284687-79ee-8014-85f5-d2ce8d71a885",
+        "32284687-79ee-80d0-b256-cae11c0b83ce",
+        "32284687-79ee-80d1-8dde-dfd71d7f71ac",
+        "32284687-79ee-809a-8435-d7fd406f7f2c",
+        "32284687-79ee-8079-bfb0-e93e9993e399",
+        "32284687-79ee-80fe-9d68-f0cafd4dac70",
+        "32284687-79ee-8070-8595-d0d6fe0766d5",
+        "32284687-79ee-8011-a095-c0f8d68f5bb6",
+        "32284687-79ee-8099-8e5e-fef25048f807"
+      ],
+      "format": {
+        "page_cover": "/images/page-cover/met_fitz_henry_lane.jpg",
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-814a-bfbe-f51612579c70",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_cover_position": 0.5,
+        "social_media_image_preview_url": "attachment:47e5e5db-6664-4e7c-86ea-b1d87f9ba410:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1773367452524,
+      "last_edited_time": 1779623561642
+    },
+    "32284687-79ee-8160-9d8b-faff22a3a0f9": {
+      "id": "32284687-79ee-8160-9d8b-faff22a3a0f9",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "32284687-79ee-81e9-9355-cdab5cf4cfc8"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ed-a632-d724422d76bf",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454601,
+      "last_edited_time": 1773367454601
+    },
+    "32284687-79ee-81e9-9355-cdab5cf4cfc8": {
+      "id": "32284687-79ee-81e9-9355-cdab5cf4cfc8",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "32284687-79ee-81d8-af32-e09ca92eb64b",
+        "32284687-79ee-81d9-96f4-f7e13856d4b7"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-807b-b69e-e43284853b0e",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8160-9d8b-faff22a3a0f9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454602,
+      "last_edited_time": 1773367454602
+    },
+    "32284687-79ee-81d8-af32-e09ca92eb64b": {
+      "id": "32284687-79ee-81d8-af32-e09ca92eb64b",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "32284687-79ee-81f9-ae83-fae50cf3162d",
+        "32284687-79ee-812c-b903-cda75962d63b"
+      ],
+      "format": {
+        "column_ratio": 0.5,
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-8030-a355-e74583c7cf4f",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-81e9-9355-cdab5cf4cfc8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454602,
+      "last_edited_time": 1773367454602
+    },
+    "32284687-79ee-81f9-ae83-fae50cf3162d": {
+      "id": "32284687-79ee-81f9-ae83-fae50cf3162d",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "32284687-79ee-81fc-9fb3-004d5486781b",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81af-86c5-fc0fe5d6fb49",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-81d8-af32-e09ca92eb64b",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454603,
+      "last_edited_time": 1773367454603
+    },
+    "32284687-79ee-812c-b903-cda75962d63b": {
+      "id": "32284687-79ee-812c-b903-cda75962d63b",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "32284687-79ee-81c4-b587-004ddba086b5",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-815c-a141-f22a539443f5",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-81d8-af32-e09ca92eb64b",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454603,
+      "last_edited_time": 1773367454603
+    },
+    "32284687-79ee-81d9-96f4-f7e13856d4b7": {
+      "id": "32284687-79ee-81d9-96f4-f7e13856d4b7",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "32284687-79ee-81d3-b512-c4e280dc051e",
+        "32284687-79ee-8176-8896-f8706a7e66c2"
+      ],
+      "format": {
+        "column_ratio": 0.5,
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-80c2-983a-c36d33b8253d",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-81e9-9355-cdab5cf4cfc8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454602,
+      "last_edited_time": 1773367454602
+    },
+    "32284687-79ee-81d3-b512-c4e280dc051e": {
+      "id": "32284687-79ee-81d3-b512-c4e280dc051e",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "32284687-79ee-810b-8d85-004d53260504",
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-80a1-9830-c6aeb70a6467",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-81d9-96f4-f7e13856d4b7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454603,
+      "last_edited_time": 1773367454603
+    },
+    "32284687-79ee-8176-8896-f8706a7e66c2": {
+      "id": "32284687-79ee-8176-8896-f8706a7e66c2",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "32284687-79ee-81f7-9597-004dc9f982a8",
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-8058-b13a-cfeb530ed918",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-81d9-96f4-f7e13856d4b7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454603,
+      "last_edited_time": 1773367454603
+    },
+    "32284687-79ee-81ac-b882-ceb632f46bcd": {
+      "id": "32284687-79ee-81ac-b882-ceb632f46bcd",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-8063-b81d-f35c572ecbe7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454601,
+      "last_edited_time": 1773367454601
+    },
+    "32284687-79ee-811b-af9d-c9df2a92a559": {
+      "id": "32284687-79ee-811b-af9d-c9df2a92a559",
+      "version": 2,
+      "type": "sub_header",
+      "properties": {
+        "title": [
+          [
+            "편집 영상"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-80e3-94f0-e1ccfbcdc415",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454602,
+      "last_edited_time": 1773367454602
+    },
+    "32284687-79ee-81aa-b55a-eba1e1be3f1f": {
+      "id": "32284687-79ee-81aa-b55a-eba1e1be3f1f",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-80ff-97d1-dd96ac6349f1",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454602,
+      "last_edited_time": 1773367454602
+    },
+    "32284687-79ee-81f5-ae01-c64fd8c80421": {
+      "id": "32284687-79ee-81f5-ae01-c64fd8c80421",
+      "version": 1,
+      "type": "external_object_instance",
+      "format": {
+        "integration_id": "2e19d8ee-fc61-48c1-be14-07a3aff43542",
+        "is_placeholder": true,
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-8053-b325-e9743576094d",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454601,
+      "last_edited_time": 1773367454601
+    },
+    "32284687-79ee-80dd-b314-dfca6b3a9a11": {
+      "id": "32284687-79ee-80dd-b314-dfca6b3a9a11",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367804143,
+      "last_edited_time": 1773367804144
+    },
+    "32284687-79ee-8065-b4cc-ccefbb54be2b": {
+      "id": "32284687-79ee-8065-b4cc-ccefbb54be2b",
+      "version": 104,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "여기 위에 검정으로 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367803085,
+      "last_edited_time": 1773367807531
+    },
+    "32284687-79ee-80f9-bd04-c5568c8fe325": {
+      "id": "32284687-79ee-80f9-bd04-c5568c8fe325",
+      "version": 13,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "687.6 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:6ba02599-7b89-442e-acc3-ac6276302e61:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 691.3671875,
+        "display_source": "attachment:6ba02599-7b89-442e-acc3-ac6276302e61:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5764119601328903,
+        "block_preserve_scale": true
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367801215,
+      "last_edited_time": 1773367813242
+    },
+    "32284687-79ee-805f-b7c4-ea2dd91bf72a": {
+      "id": "32284687-79ee-805f-b7c4-ea2dd91bf72a",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367800419,
+      "last_edited_time": 1773367800421
+    },
+    "32284687-79ee-8079-a1c0-c2148014cbb6": {
+      "id": "32284687-79ee-8079-a1c0-c2148014cbb6",
+      "version": 174,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "00:00 여기 배경 검정으로 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367489807,
+      "last_edited_time": 1773367528609
+    },
+    "32284687-79ee-8004-a96e-f30d2a1159f5": {
+      "id": "32284687-79ee-8004-a96e-f30d2a1159f5",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367547991,
+      "last_edited_time": 1773367547993
+    },
+    "32284687-79ee-804c-92f4-c7395332be2a": {
+      "id": "32284687-79ee-804c-92f4-c7395332be2a",
+      "version": 139,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "00:26 여기도 배경 검정으로 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367528749,
+      "last_edited_time": 1773367555178
+    },
+    "32284687-79ee-8086-8d0c-dfd29992971b": {
+      "id": "32284687-79ee-8086-8d0c-dfd29992971b",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367489964,
+      "last_edited_time": 1773367489966
+    },
+    "32284687-79ee-804d-914a-dfda6dfad5a7": {
+      "id": "32284687-79ee-804d-914a-dfda6dfad5a7",
+      "version": 531,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "00;43 중간하고 오른쪽 영상 모두다 전체로 채워주시고(검정부분 없게), 맨 오른쪽 영상은 물품 꺼내는 부분으로 확대해서 보여주세요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367487888,
+      "last_edited_time": 1773367585547
+    },
+    "32284687-79ee-80ee-967e-c420c3ff0e34": {
+      "id": "32284687-79ee-80ee-967e-c420c3ff0e34",
+      "version": 13,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "861.5 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:381138d7-730d-447d-ac0f-bdfc9c1a577e:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 691.376953125,
+        "display_source": "attachment:381138d7-730d-447d-ac0f-bdfc9c1a577e:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5624461670973299,
+        "block_preserve_scale": true
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367458957,
+      "last_edited_time": 1773367470822
+    },
+    "32284687-79ee-8066-8a1f-d56a95c80d46": {
+      "id": "32284687-79ee-8066-8a1f-d56a95c80d46",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-8031-b3ba-fd7a914550e0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367494570,
+      "last_edited_time": 1773367494572
+    },
+    "32284687-79ee-8109-a8b3-d6f6688ef6a5": {
+      "id": "32284687-79ee-8109-a8b3-d6f6688ef6a5",
+      "version": 275,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "00:56 조금더 구체적으로 할때 기존 영상에서 샌드위치 한번더 보여주세요"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "31a84687-79ee-8031-b3ba-fd7a914550e0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367454601,
+      "last_edited_time": 1773367507983
+    },
+    "32284687-79ee-8043-a832-f95254b08c5d": {
+      "id": "32284687-79ee-8043-a832-f95254b08c5d",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367593714,
+      "last_edited_time": 1773367593715
+    },
+    "32284687-79ee-80c6-b35a-d4a21e7755ac": {
+      "id": "32284687-79ee-80c6-b35a-d4a21e7755ac",
+      "version": 228,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "01:30 여기도 검정배경입니다. 뒤에도 다 검정배경으로 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367593496,
+      "last_edited_time": 1773367651603
+    },
+    "32284687-79ee-8049-ab86-e090e8b03801": {
+      "id": "32284687-79ee-8049-ab86-e090e8b03801",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367621515,
+      "last_edited_time": 1773367621516
+    },
+    "32284687-79ee-805b-900a-fd2e1ff88790": {
+      "id": "32284687-79ee-805b-900a-fd2e1ff88790",
+      "version": 203,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "01:39 팔로우 많아서 할때 계정에서 팔로우 부분 확대해주세요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367621384,
+      "last_edited_time": 1773367638971
+    },
+    "32284687-79ee-8020-a314-d3d231694320": {
+      "id": "32284687-79ee-8020-a314-d3d231694320",
+      "version": 4,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367719836,
+      "last_edited_time": 1773367719838
+    },
+    "32284687-79ee-808e-b171-eeb7a30ab66a": {
+      "id": "32284687-79ee-808e-b171-eeb7a30ab66a",
+      "version": 154,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "00:34 컷편집이 조금 이상해서 확인부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367639256,
+      "last_edited_time": 1773367725978
+    },
+    "32284687-79ee-8014-85f5-d2ce8d71a885": {
+      "id": "32284687-79ee-8014-85f5-d2ce8d71a885",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367891362,
+      "last_edited_time": 1773367891365
+    },
+    "32284687-79ee-80d0-b256-cae11c0b83ce": {
+      "id": "32284687-79ee-80d0-b256-cae11c0b83ce",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367891496,
+      "last_edited_time": 1773367891497
+    },
+    "32284687-79ee-80d1-8dde-dfd71d7f71ac": {
+      "id": "32284687-79ee-80d1-8dde-dfd71d7f71ac",
+      "version": 3,
+      "type": "divider",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367892301,
+      "last_edited_time": 1773367892303
+    },
+    "32284687-79ee-809a-8435-d7fd406f7f2c": {
+      "id": "32284687-79ee-809a-8435-d7fd406f7f2c",
+      "version": 236,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "다 하시고 편집 완성본은 여기 드라이브에 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367892320,
+      "last_edited_time": 1773367904326
+    },
+    "32284687-79ee-8079-bfb0-e93e9993e399": {
+      "id": "32284687-79ee-8079-bfb0-e93e9993e399",
+      "version": 11,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://naver.me/GYGjf5AQ"
+          ]
+        ],
+        "title": [
+          [
+            "마케팅1타롱"
+          ]
+        ],
+        "description": [
+          [
+            "prepharm님이 공유한 폴더를 확인하세요."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://mybox.naver.com/favicon.ico",
+        "bookmark_cover": "https://ssl.pstatic.net/static/pwe/cloud/img/common/ogtag/folder.png"
+      },
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367900584,
+      "last_edited_time": 1773367900591
+    },
+    "32284687-79ee-80fe-9d68-f0cafd4dac70": {
+      "id": "32284687-79ee-80fe-9d68-f0cafd4dac70",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367732234,
+      "last_edited_time": 1773367732237
+    },
+    "32284687-79ee-8070-8595-d0d6fe0766d5": {
+      "id": "32284687-79ee-8070-8595-d0d6fe0766d5",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367639134,
+      "last_edited_time": 1773367639135
+    },
+    "32284687-79ee-8011-a095-c0f8d68f5bb6": {
+      "id": "32284687-79ee-8011-a095-c0f8d68f5bb6",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367508265,
+      "last_edited_time": 1773367508266
+    },
+    "32284687-79ee-8099-8e5e-fef25048f807": {
+      "id": "32284687-79ee-8099-8e5e-fef25048f807",
+      "version": 3,
+      "type": "text",
+      "parent_id": "32284687-79ee-8074-a5ae-e331a99bc2bd",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1773367508154,
+      "last_edited_time": 1773367508156
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

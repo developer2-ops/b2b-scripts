@@ -1,0 +1,76 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/3258468779ee813cb9eccd1bdbfff589",
+  "pageId": "32584687-79ee-813c-b9ec-cd1bdbfff589",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "32584687-79ee-813c-b9ec-cd1bdbfff589": {
+      "id": "32584687-79ee-813c-b9ec-cd1bdbfff589",
+      "version": 13,
+      "type": "page",
+      "properties": {
+        "<c<i": [
+          [
+            "https://www.youtube.com/watch?v=BZqUUb_bGFs",
+            [
+              [
+                "a",
+                "https://www.youtube.com/watch?v=BZqUUb_bGFs"
+              ]
+            ]
+          ]
+        ],
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "32084687-79ee-80f2-bf70-cfc3f4797df6",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "업로드"
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "datetime",
+                  "time_zone": "Etc/GMT-9",
+                  "start_date": "2026-03-16",
+                  "start_time": "18:00"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "완료"
+          ]
+        ],
+        "title": [
+          [
+            "가방분석 - 업로드"
+          ]
+        ]
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1773652896406,
+      "last_edited_time": 1779623561650
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

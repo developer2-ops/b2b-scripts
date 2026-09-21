@@ -1,0 +1,961 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2ce8468779ee808e94e3c2d2223b8954",
+  "pageId": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "2ce84687-79ee-808e-94e3-c2d2223b8954": {
+      "id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "version": 148,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2c584687-79ee-80c3-889b-c645558d9590",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "O]d<": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "2c584687-79ee-80ae-a9c4-c3baafd1d1ac",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "date",
+                  "start_date": "2025-12-19"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "2차 수정"
+          ]
+        ],
+        "title": [
+          [
+            "인터뷰_시스템 에어컨 대표님 - 편집 2차"
+          ]
+        ]
+      },
+      "content": [
+        "2ce84687-79ee-81a4-b2ef-da5bd0e81983",
+        "2ce84687-79ee-8198-8539-cf4b10bb3d85",
+        "2ce84687-79ee-8116-b3be-da9833ab74e9",
+        "2ce84687-79ee-81f7-8301-d18556b44778",
+        "2ce84687-79ee-8162-9dc9-d967ecf469e1",
+        "2ce84687-79ee-816b-8f92-ffba2b60cf27",
+        "2ce84687-79ee-80b1-9d89-fe4889456451",
+        "2ce84687-79ee-8055-9fef-e61e931b4a29",
+        "2ce84687-79ee-80b0-9aff-f511eff8b023",
+        "2ce84687-79ee-80b7-b8d6-ceff377866f3",
+        "2ce84687-79ee-8099-9588-f289f310e7bb",
+        "2ce84687-79ee-80d7-8327-ea53c8f314b2",
+        "2ce84687-79ee-80a8-b9a9-ccdb59ceb6d7",
+        "2ce84687-79ee-8089-ba2b-e2fb4bf4ce6a",
+        "2ce84687-79ee-80c9-9087-d804938e7e84",
+        "2ce84687-79ee-8004-85c0-c2754e6423bf",
+        "2ce84687-79ee-80a0-b0a8-d4007f56b358",
+        "2ce84687-79ee-80b8-beaa-fa17e1f3866d",
+        "2ce84687-79ee-8008-a58a-f0e6c10c7db7",
+        "2ce84687-79ee-809b-8b6f-e017b7e4f496",
+        "2ce84687-79ee-806f-b824-fb693797bbdf",
+        "2ce84687-79ee-8008-a351-d95e27d463ad",
+        "2ce84687-79ee-806b-ad1e-de57c2f2260b",
+        "2ce84687-79ee-80b3-9787-ff74df60fb9b",
+        "2ce84687-79ee-808b-a5c8-c033944a439c",
+        "2ce84687-79ee-8078-a2ef-eaf7c73b64d0",
+        "2ce84687-79ee-807a-9a69-d0089ff56d04",
+        "2ce84687-79ee-80a3-9a6a-e231ca27f5e8",
+        "2ce84687-79ee-80a6-abe8-de446ca24e96",
+        "2ce84687-79ee-80e7-9c70-da5a5de70abc",
+        "2ce84687-79ee-80be-8b2d-ed3c0d42ac71",
+        "2ce84687-79ee-8047-9c7c-cd2f8164d75a",
+        "2ce84687-79ee-8042-8ba3-dc944b35d178",
+        "2ce84687-79ee-8085-a754-c873cd4bf428",
+        "2ce84687-79ee-80de-8557-fc400deb872a"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-810a-801e-f53c8242d9c0",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "social_media_image_preview_url": "attachment:a9b7eb01-9c06-49b2-8cd3-ff97efd047b7:SocialMediaPreviewImage.png"
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1766110413771,
+      "last_edited_time": 1779623561104
+    },
+    "2ce84687-79ee-81a4-b2ef-da5bd0e81983": {
+      "id": "2ce84687-79ee-81a4-b2ef-da5bd0e81983",
+      "version": 1,
+      "type": "callout",
+      "content": [
+        "2ce84687-79ee-81e1-86a9-f57a42a73e65"
+      ],
+      "format": {
+        "block_color": "default_background",
+        "callout_version": 2,
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c2-8a59-ccc49643ce28",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417101,
+      "last_edited_time": 1766110417101
+    },
+    "2ce84687-79ee-81e1-86a9-f57a42a73e65": {
+      "id": "2ce84687-79ee-81e1-86a9-f57a42a73e65",
+      "version": 1,
+      "type": "column_list",
+      "content": [
+        "2ce84687-79ee-81ff-9e22-ccbd9488f1a4",
+        "2ce84687-79ee-81e5-a028-ef2494d9a76e"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-817a-a39c-d8b332ad1d27",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-81a4-b2ef-da5bd0e81983",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417102,
+      "last_edited_time": 1766110417102
+    },
+    "2ce84687-79ee-81ff-9e22-ccbd9488f1a4": {
+      "id": "2ce84687-79ee-81ff-9e22-ccbd9488f1a4",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2ce84687-79ee-81d3-b403-e144f03078d6"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8169-9cc0-de0fdc35b2ed",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-81e1-86a9-f57a42a73e65",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417102,
+      "last_edited_time": 1766110417102
+    },
+    "2ce84687-79ee-81d3-b403-e144f03078d6": {
+      "id": "2ce84687-79ee-81d3-b403-e144f03078d6",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2ce84687-79ee-818c-910c-004de3517580",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8121-aaea-f17177b38a36",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-81ff-9e22-ccbd9488f1a4",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417102,
+      "last_edited_time": 1766110417102
+    },
+    "2ce84687-79ee-81e5-a028-ef2494d9a76e": {
+      "id": "2ce84687-79ee-81e5-a028-ef2494d9a76e",
+      "version": 1,
+      "type": "column",
+      "content": [
+        "2ce84687-79ee-81a3-85c5-cf2b7a37cf62"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8193-9db2-ddcd26d66896",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-81e1-86a9-f57a42a73e65",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417102,
+      "last_edited_time": 1766110417102
+    },
+    "2ce84687-79ee-81a3-85c5-cf2b7a37cf62": {
+      "id": "2ce84687-79ee-81a3-85c5-cf2b7a37cf62",
+      "version": 1,
+      "type": "button",
+      "format": {
+        "block_color": "gray_background",
+        "automation_id": "2ce84687-79ee-81fa-aaa4-004d51062ea4",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8138-bc47-c8d6bfde4f7a",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-81e5-a028-ef2494d9a76e",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417102,
+      "last_edited_time": 1766110417102
+    },
+    "2ce84687-79ee-8198-8539-cf4b10bb3d85": {
+      "id": "2ce84687-79ee-8198-8539-cf4b10bb3d85",
+      "version": 1,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81ad-8867-eabf14c3d89c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417101,
+      "last_edited_time": 1766110417101
+    },
+    "2ce84687-79ee-8116-b3be-da9833ab74e9": {
+      "id": "2ce84687-79ee-8116-b3be-da9833ab74e9",
+      "version": 1,
+      "type": "collection_view",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8184-ad27-dedccb0f89d4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417101,
+      "last_edited_time": 1766110417101
+    },
+    "2ce84687-79ee-81f7-8301-d18556b44778": {
+      "id": "2ce84687-79ee-81f7-8301-d18556b44778",
+      "version": 1,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81f1-87fb-e1c078959f69",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417101,
+      "last_edited_time": 1766110417101
+    },
+    "2ce84687-79ee-8162-9dc9-d967ecf469e1": {
+      "id": "2ce84687-79ee-8162-9dc9-d967ecf469e1",
+      "version": 3,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "ㅇ"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8176-bc97-e03ef4bf34b7",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417101,
+      "last_edited_time": 1766111965103
+    },
+    "2ce84687-79ee-816b-8f92-ffba2b60cf27": {
+      "id": "2ce84687-79ee-816b-8f92-ffba2b60cf27",
+      "version": 147,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "ver2 음악 없애주신거 좋습니다"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8186-a9bb-d013ab2099d6",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110417101,
+      "last_edited_time": 1766110450284
+    },
+    "2ce84687-79ee-80b1-9d89-fe4889456451": {
+      "id": "2ce84687-79ee-80b1-9d89-fe4889456451",
+      "version": 332,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "맨 앞에 안녕하세요 전까지 아래로 부탁드려요"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110450443,
+      "last_edited_time": 1766110516190
+    },
+    "2ce84687-79ee-8055-9fef-e61e931b4a29": {
+      "id": "2ce84687-79ee-8055-9fef-e61e931b4a29",
+      "version": 4,
+      "type": "toggle",
+      "properties": {
+        "title": [
+          [
+            "(토글에 영상 경로 첨부)\n00:34 ~ 00:36 /  01:22 ~ 01:25 / 03:12 ~ 03:19 / 03:43 ~ 04:14 빨리감기 / 04:14 ~ 04:20 / 04:26 ~ 04:44 빨리감기 /  05:21 ~ 05:27 / 05:28~05:41 / 06:24 ~ 06:37"
+          ]
+        ]
+      },
+      "content": [
+        "2ce84687-79ee-80c8-98cd-eed115030a56"
+      ],
+      "format": {
+        "copied_from_pointer": {
+          "id": "2c584687-79ee-800a-af37-cc276fb1acba",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110489282,
+      "last_edited_time": 1766110489287
+    },
+    "2ce84687-79ee-80b0-9aff-f511eff8b023": {
+      "id": "2ce84687-79ee-80b0-9aff-f511eff8b023",
+      "version": 899,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "자막은 지금 내부에서 하나 편집하고 있는데 아래 참고해서 부탁드려요 "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 3
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110511271,
+      "last_edited_time": 1766110604007
+    },
+    "2ce84687-79ee-80b7-b8d6-ceff377866f3": {
+      "id": "2ce84687-79ee-80b7-b8d6-ceff377866f3",
+      "version": 8,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://drive.google.com/file/d/10y3xJJxXN-MCauTI8tCLXd0Z2VjizndD/view?usp=sharing",
+            [
+              [
+                "a",
+                "https://drive.google.com/file/d/10y3xJJxXN-MCauTI8tCLXd0Z2VjizndD/view?usp=sharing"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110587136,
+      "last_edited_time": 1766110590284
+    },
+    "2ce84687-79ee-8099-9588-f289f310e7bb": {
+      "id": "2ce84687-79ee-8099-9588-f289f310e7bb",
+      "version": 13,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "44 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:67014f33-e066-4d5f-aa2d-1501201b75d6:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 240,
+        "block_height": 973,
+        "display_source": "attachment:67014f33-e066-4d5f-aa2d-1501201b75d6:image.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 1.5795454545454546,
+        "block_preserve_scale": true
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110560237,
+      "last_edited_time": 1766110659118
+    },
+    "2ce84687-79ee-80d7-8327-ea53c8f314b2": {
+      "id": "2ce84687-79ee-80d7-8327-ea53c8f314b2",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110651091,
+      "last_edited_time": 1766110651093
+    },
+    "2ce84687-79ee-80a8-b9a9-ccdb59ceb6d7": {
+      "id": "2ce84687-79ee-80a8-b9a9-ccdb59ceb6d7",
+      "version": 438,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "그리고 자막 잘못된게 많아서 잘 모르시겟는 부분은 차라리 날려주세요 "
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 4
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110651255,
+      "last_edited_time": 1766110695489
+    },
+    "2ce84687-79ee-8089-ba2b-e2fb4bf4ce6a": {
+      "id": "2ce84687-79ee-8089-ba2b-e2fb4bf4ce6a",
+      "version": 212,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "마지막 부분은 좀 어색한데 마무리가 된건가요? "
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110693883,
+      "last_edited_time": 1766110708358
+    },
+    "2ce84687-79ee-80c9-9087-d804938e7e84": {
+      "id": "2ce84687-79ee-80c9-9087-d804938e7e84",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110744023,
+      "last_edited_time": 1766110744024
+    },
+    "2ce84687-79ee-8004-85c0-c2754e6423bf": {
+      "id": "2ce84687-79ee-8004-85c0-c2754e6423bf",
+      "version": 214,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "<전체구조를 나눠드리는게 좋을것 같아서 보내드려요>"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110733257,
+      "last_edited_time": 1766110761877
+    },
+    "2ce84687-79ee-80a0-b0a8-d4007f56b358": {
+      "id": "2ce84687-79ee-80a0-b0a8-d4007f56b358",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110771547,
+      "last_edited_time": 1766110771549
+    },
+    "2ce84687-79ee-80b8-beaa-fa17e1f3866d": {
+      "id": "2ce84687-79ee-80b8-beaa-fa17e1f3866d",
+      "version": 124,
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "사업시작\n"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110762053,
+      "last_edited_time": 1766110911630
+    },
+    "2ce84687-79ee-8008-a58a-f0e6c10c7db7": {
+      "id": "2ce84687-79ee-8008-a58a-f0e6c10c7db7",
+      "version": 14,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "왜 시스템 에어컨을 하시는 건지 / 인터뷰1 00:22~01:21\n시스템 에어컨을 시작하신 계기 / 인터뷰1 01:22~02:06\n처음 배우실 때 어떠셨나요 / 인터뷰1 02:08~02:55\n기술을 잘 안 알려주던데 / 인터뷰1 02:58~03:42\n그 때 당시 하루 일하는 시간 / 인터뷰1 03:44~04:11\n어떻게 버티셨는지 / 인터뷰1 04:12~04:38\n"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110777548,
+      "last_edited_time": 1766110793525
+    },
+    "2ce84687-79ee-809b-8b6f-e017b7e4f496": {
+      "id": "2ce84687-79ee-809b-8b6f-e017b7e4f496",
+      "version": 242,
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "탈북에서 대표까지"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110784490,
+      "last_edited_time": 1766110908529
+    },
+    "2ce84687-79ee-806f-b824-fb693797bbdf": {
+      "id": "2ce84687-79ee-806f-b824-fb693797bbdf",
+      "version": 15,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "대표님 사연1 / 인터뷰1 04:44~05:16\n여기(대한민국) 처음 오시고 어떠셨냐 / 인터뷰2 서브캠 00:28~02:14 / 02:30~03:22\n회사에서 프리랜서로 나온 이유 / 인터뷰2 서브캠 03:56~05:05\n회사에서 나오고 영업 어떻게 하셨는지 / 인터뷰2 서브캠 05:06~05:22\n회사에서 나와서 혼자 할 생각을 했을 수 있었던 이유 / 인터뷰2 서브캠 05:28~07:30\n사업체로 바뀌면서 제일  힘들었던 점 / 인터뷰2 서브캠 07:32~08:16\n→ 여기서부터 고정캠 있습니다. 고정캠이랑 섞어가면서 편집부탁드릴게요\n"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110784222,
+      "last_edited_time": 1766110833496
+    },
+    "2ce84687-79ee-8008-a351-d95e27d463ad": {
+      "id": "2ce84687-79ee-8008-a351-d95e27d463ad",
+      "version": 72,
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "가장 힘든 것"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110824182,
+      "last_edited_time": 1766110834623
+    },
+    "2ce84687-79ee-806b-ad1e-de57c2f2260b": {
+      "id": "2ce84687-79ee-806b-ad1e-de57c2f2260b",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110824314,
+      "last_edited_time": 1766110824316
+    },
+    "2ce84687-79ee-80b3-9787-ff74df60fb9b": {
+      "id": "2ce84687-79ee-80b3-9787-ff74df60fb9b",
+      "version": 31,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "직원을 구하기가 힘들 것 같은데, 어떻게 하는지 / 인터뷰2 서브캠 08:17~08:41 / 08:48~09:02\n더 힘든 상황에서 거래처를 확보할 수 있었던 나만의 비결 던 남/  인터뷰2 서브캠 09:15~09:56 / 10:02~11:52\n규모가 커지면서 어떤 때 더 커질 수 있겠다는 느낌이 왔는가 / 인터뷰2 서브캠 11:53~13:26"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110824000,
+      "last_edited_time": 1766110857600
+    },
+    "2ce84687-79ee-808b-a5c8-c033944a439c": {
+      "id": "2ce84687-79ee-808b-a5c8-c033944a439c",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110865463,
+      "last_edited_time": 1766110865465
+    },
+    "2ce84687-79ee-8078-a2ef-eaf7c73b64d0": {
+      "id": "2ce84687-79ee-8078-a2ef-eaf7c73b64d0",
+      "version": 47,
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "마케팅"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110843228,
+      "last_edited_time": 1766110861081
+    },
+    "2ce84687-79ee-807a-9a69-d0089ff56d04": {
+      "id": "2ce84687-79ee-807a-9a69-d0089ff56d04",
+      "version": 33,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "다 내 탓을 하는 것에 대한 반작용은 없는지 / 인터뷰3 00:06~05:49\n마케팅 없이 매출을 낼 수 있었던 이유 / 인터뷰3 09:45~10:06\n"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110843065,
+      "last_edited_time": 1766110871024
+    },
+    "2ce84687-79ee-80a3-9a6a-e231ca27f5e8": {
+      "id": "2ce84687-79ee-80a3-9a6a-e231ca27f5e8",
+      "version": 401,
+      "type": "sub_sub_header",
+      "properties": {
+        "title": [
+          [
+            "이혼4번으로 알게된"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110868038,
+      "last_edited_time": 1766110924348
+    },
+    "2ce84687-79ee-80a6-abe8-de446ca24e96": {
+      "id": "2ce84687-79ee-80a6-abe8-de446ca24e96",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "일과 가족과의 관계에 대해서 / 인터뷰3 11:14~14:30\n와이프분은 어떻게 지지를 해주는 편인지 / 인터뷰3 14:31~16:46\n앞으로 회사를 키우는데 집중하고 있는 부분 / 인터뷰3 16:46~17:44\n안 힘들어 보이는 이유 / 인터뷰3 17:55~24:11\n힘든분, 새터민분들에게 조언 / 인터뷰3 19:09~19:42 / 21:28~22:54"
+          ]
+        ]
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110867861,
+      "last_edited_time": 1766110867866
+    },
+    "2ce84687-79ee-80e7-9c70-da5a5de70abc": {
+      "id": "2ce84687-79ee-80e7-9c70-da5a5de70abc",
+      "version": 3,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110972887,
+      "last_edited_time": 1766110972889
+    },
+    "2ce84687-79ee-80be-8b2d-ed3c0d42ac71": {
+      "id": "2ce84687-79ee-80be-8b2d-ed3c0d42ac71",
+      "version": 4,
+      "type": "text",
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110973002,
+      "last_edited_time": 1766110973004
+    },
+    "2ce84687-79ee-8047-9c7c-cd2f8164d75a": {
+      "id": "2ce84687-79ee-8047-9c7c-cd2f8164d75a",
+      "version": 102,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "오른쪽 상단에 얼굴사진과 함께 아래 글자에 이것좀 넣어주세요!"
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 6,
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-8044-9014-d35bed80bf54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110976014,
+      "last_edited_time": 1766111040031
+    },
+    "2ce84687-79ee-8042-8ba3-dc944b35d178": {
+      "id": "2ce84687-79ee-8042-8ba3-dc944b35d178",
+      "version": 8,
+      "type": "text",
+      "content": [
+        "2ce84687-79ee-808c-b724-deec2f4ffbe7",
+        "2ce84687-79ee-80c3-9213-c38846d9615f"
+      ],
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766111024020,
+      "last_edited_time": 1766111031443
+    },
+    "2ce84687-79ee-808c-b724-deec2f4ffbe7": {
+      "id": "2ce84687-79ee-808c-b724-deec2f4ffbe7",
+      "version": 7,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "536.5 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "동물병원-유튜브-프로필-008.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:b1623966-0726-414a-966d-f39f284859b3:동물병원-유튜브-프로필-008.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 240,
+        "display_source": "attachment:b1623966-0726-414a-966d-f39f284859b3:동물병원-유튜브-프로필-008.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 1,
+        "copied_from_pointer": {
+          "id": "2ca84687-79ee-80b3-a22e-cde83068a2a4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "block_preserve_scale": true
+      },
+      "parent_id": "2ce84687-79ee-8042-8ba3-dc944b35d178",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766111027088,
+      "last_edited_time": 1766111031443
+    },
+    "2ce84687-79ee-80c3-9213-c38846d9615f": {
+      "id": "2ce84687-79ee-80c3-9213-c38846d9615f",
+      "version": 6,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "15.6 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "Frame 1261168145.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:d07871fe-a0fe-4019-ad5b-bc04329e91be:Frame_1261168145.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 681.9500122070312,
+        "display_source": "attachment:d07871fe-a0fe-4019-ad5b-bc04329e91be:Frame_1261168145.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.2034956304619226,
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-8070-82e9-df706eff5bba",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "block_preserve_scale": true
+      },
+      "parent_id": "2ce84687-79ee-8042-8ba3-dc944b35d178",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110976014,
+      "last_edited_time": 1766111024024
+    },
+    "2ce84687-79ee-8085-a754-c873cd4bf428": {
+      "id": "2ce84687-79ee-8085-a754-c873cd4bf428",
+      "version": 3,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-80aa-84af-f7a07170c2c4",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110976016,
+      "last_edited_time": 1766110976029
+    },
+    "2ce84687-79ee-80de-8557-fc400deb872a": {
+      "id": "2ce84687-79ee-80de-8557-fc400deb872a",
+      "version": 29,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "ㅇ"
+          ]
+        ]
+      },
+      "format": {
+        "list_start_index": 7,
+        "copied_from_pointer": {
+          "id": "2cd84687-79ee-80ed-9e0b-e15930bfa6ab",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "2ce84687-79ee-808e-94e3-c2d2223b8954",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110976016,
+      "last_edited_time": 1766111967577
+    },
+    "2ce84687-79ee-80c8-98cd-eed115030a56": {
+      "id": "2ce84687-79ee-80c8-98cd-eed115030a56",
+      "version": 3,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "244.3 KiB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "attachment:d2c87ae1-b9ec-440c-8f26-c87f8ca3ea06:image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 680.984375,
+        "display_source": "attachment:d2c87ae1-b9ec-440c-8f26-c87f8ca3ea06:image.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.2681498829039813,
+        "copied_from_pointer": {
+          "id": "2c584687-79ee-8080-bdc9-e6a04c98f6ac",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "block_preserve_scale": true
+      },
+      "parent_id": "2ce84687-79ee-8055-9fef-e61e931b4a29",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1766110489282,
+      "last_edited_time": 1766110489287
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

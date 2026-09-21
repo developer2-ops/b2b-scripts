@@ -1,0 +1,180 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/2808468779ee803e92b9e6d391318be7",
+  "pageId": "28084687-79ee-803e-92b9-e6d391318be7",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "28084687-79ee-803e-92b9-e6d391318be7": {
+      "id": "28084687-79ee-803e-92b9-e6d391318be7",
+      "version": 29,
+      "type": "page",
+      "properties": {
+        "@x}V": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "27984687-79ee-8073-acef-e6b40172cc45",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "BGzt": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "23f84687-79ee-81d8-a26f-efd872f9c65e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "N_ek": [
+          [
+            "편집"
+          ]
+        ],
+        "eNf^": [
+          [
+            "‣",
+            [
+              [
+                "p",
+                "28084687-79ee-80ca-968f-e58d2ed1356e",
+                "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+              ]
+            ]
+          ]
+        ],
+        "eV=O": [
+          [
+            "‣",
+            [
+              [
+                "d",
+                {
+                  "type": "daterange",
+                  "end_date": "2025-10-07",
+                  "start_date": "2025-10-02"
+                }
+              ]
+            ]
+          ]
+        ],
+        "}w;D": [
+          [
+            "진행중"
+          ]
+        ],
+        "title": [
+          [
+            "제로클릭시대 - 편집"
+          ]
+        ]
+      },
+      "content": [
+        "28084687-79ee-801f-887c-f4a89baee516",
+        "28084687-79ee-8057-a5c7-efc14619e0a7",
+        "28084687-79ee-8003-be2a-f9face43af1d",
+        "28084687-79ee-8005-876d-eaba907d5866"
+      ],
+      "format": {
+        "block_locked": false,
+        "block_locked_by": "9a33f862-20bc-4b64-9779-1cd9f4bc0f77",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8172-a030-e41f6f0ae294",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "page_floating_table_of_contents": {
+          "state": "off"
+        }
+      },
+      "parent_id": "23f84687-79ee-81ff-89fc-000b0c513b94",
+      "parent_table": "collection",
+      "alive": true,
+      "created_time": 1759391470998,
+      "last_edited_time": 1779623560637
+    },
+    "28084687-79ee-801f-887c-f4a89baee516": {
+      "id": "28084687-79ee-801f-887c-f4a89baee516",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-819b-b063-c83b644a1e54",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "28084687-79ee-803e-92b9-e6d391318be7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391472336,
+      "last_edited_time": 1759391472338
+    },
+    "28084687-79ee-8057-a5c7-efc14619e0a7": {
+      "id": "28084687-79ee-8057-a5c7-efc14619e0a7",
+      "version": 2,
+      "type": "divider",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-81c8-8857-d26e76179f75",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-803e-92b9-e6d391318be7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391472336,
+      "last_edited_time": 1759391472338
+    },
+    "28084687-79ee-8003-be2a-f9face43af1d": {
+      "id": "28084687-79ee-8003-be2a-f9face43af1d",
+      "version": 2,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-8148-9e6c-ef508c6aba03",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "28084687-79ee-803e-92b9-e6d391318be7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391472336,
+      "last_edited_time": 1759391472338
+    },
+    "28084687-79ee-8005-876d-eaba907d5866": {
+      "id": "28084687-79ee-8005-876d-eaba907d5866",
+      "version": 2,
+      "type": "collection_view",
+      "format": {
+        "block_locked": true,
+        "block_locked_by": "221d872b-594c-81f5-b66d-00028d95d3d6",
+        "copied_from_pointer": {
+          "id": "23f84687-79ee-818a-9e28-f5c9038fd012",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        },
+        "hide_inline_collection_name": true
+      },
+      "parent_id": "28084687-79ee-803e-92b9-e6d391318be7",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1759391472336,
+      "last_edited_time": 1759391472338
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

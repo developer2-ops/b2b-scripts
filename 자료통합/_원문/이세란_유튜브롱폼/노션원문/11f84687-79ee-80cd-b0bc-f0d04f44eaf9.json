@@ -1,0 +1,158 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/11f8468779ee80cdb0bcf0d04f44eaf9",
+  "pageId": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "11f84687-79ee-80cd-b0bc-f0d04f44eaf9": {
+      "id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "version": 787,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "(4/8) 대출 받고 창업해도 될까? "
+          ]
+        ]
+      },
+      "content": [
+        "11f84687-79ee-800b-8bad-d716c8f0804f",
+        "11f84687-79ee-803d-856c-fbac620d9841",
+        "11f84687-79ee-8051-a17e-cf2aac72b76e",
+        "11f84687-79ee-807b-864d-fab96a6b2e54",
+        "11f84687-79ee-8049-be73-ed8371801130",
+        "11f84687-79ee-8086-8869-efe7daf5bd09",
+        "11f84687-79ee-806c-8e47-f054d1470411",
+        "11f84687-79ee-8033-8cd6-e1a7a0e6480e"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728882939088,
+      "last_edited_time": 1731807506333
+    },
+    "11f84687-79ee-800b-8bad-d716c8f0804f": {
+      "id": "11f84687-79ee-800b-8bad-d716c8f0804f",
+      "version": 5,
+      "type": "text",
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883266711,
+      "last_edited_time": 1728883266712
+    },
+    "11f84687-79ee-803d-856c-fbac620d9841": {
+      "id": "11f84687-79ee-803d-856c-fbac620d9841",
+      "version": 1321,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제목 : 정부지원금, 신용보증기금, 기술보증기금으로 대출받아서 창업한 사람이 말하는 현실"
+          ]
+        ]
+      },
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883266215,
+      "last_edited_time": 1728883388304
+    },
+    "11f84687-79ee-8051-a17e-cf2aac72b76e": {
+      "id": "11f84687-79ee-8051-a17e-cf2aac72b76e",
+      "version": 5,
+      "type": "text",
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883400702,
+      "last_edited_time": 1728883400704
+    },
+    "11f84687-79ee-807b-864d-fab96a6b2e54": {
+      "id": "11f84687-79ee-807b-864d-fab96a6b2e54",
+      "version": 14,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://www.sisaweek.com/news/articleView.html?idxno=112378"
+          ]
+        ],
+        "title": [
+          [
+            "스타트업 발목(?) 잡는 ‘기술보증기금’"
+          ]
+        ],
+        "description": [
+          [
+            "[시사위크=장민제 기자] “대한민국에서 스타트업을 하는 건 미친 짓이구나 싶습니다.”스타트업 지원을 위한 기술보증기금이 오히려 도전자들의 발목을 잡고 있다는 지적이 제기됐다. 스타트업 특성상 성공확률이 극히 낮은데, 사업을 정상궤도로 올리지 못하면 신용불량자가 될 수 있다는 것. 중소기업부는 제도 악용을 막기 위해 어쩔 수 없는 조치이며, 별도의 지원책을 펼치고 있다는 설명이다.최근 청와대 청원게시판엔 스타트업 창업자라고 소개한 이가 ‘기술보증기금’에 대한 문제점을 지적한 글이 올라왔다. 기술보증기금은 벤처기업 등이 보유한 혁신기술"
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://cdn.sisaweek.com/image/logo/favicon.png",
+        "bookmark_cover": "https://cdn.sisaweek.com/news/thumbnail/201808/112378_94966_722_v150.jpg"
+      },
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883417004,
+      "last_edited_time": 1728883417012
+    },
+    "11f84687-79ee-8049-be73-ed8371801130": {
+      "id": "11f84687-79ee-8049-be73-ed8371801130",
+      "version": 5,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://www.edaily.co.kr/News/Read?newsId=02407526639024384&mediaCodeNo=257&OutLnkChk=Y",
+            [
+              [
+                "a",
+                "https://www.edaily.co.kr/News/Read?newsId=02407526639024384&mediaCodeNo=257&OutLnkChk=Y"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883417294,
+      "last_edited_time": 1728883417297
+    },
+    "11f84687-79ee-8086-8869-efe7daf5bd09": {
+      "id": "11f84687-79ee-8086-8869-efe7daf5bd09",
+      "version": 5,
+      "type": "text",
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883429495,
+      "last_edited_time": 1728883429497
+    },
+    "11f84687-79ee-806c-8e47-f054d1470411": {
+      "id": "11f84687-79ee-806c-8e47-f054d1470411",
+      "version": 5,
+      "type": "text",
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883429646,
+      "last_edited_time": 1728883429648
+    },
+    "11f84687-79ee-8033-8cd6-e1a7a0e6480e": {
+      "id": "11f84687-79ee-8033-8cd6-e1a7a0e6480e",
+      "version": 5,
+      "type": "text",
+      "parent_id": "11f84687-79ee-80cd-b0bc-f0d04f44eaf9",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1728883419254,
+      "last_edited_time": 1728883419257
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

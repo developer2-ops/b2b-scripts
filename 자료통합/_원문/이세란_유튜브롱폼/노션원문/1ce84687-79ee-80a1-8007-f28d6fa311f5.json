@@ -1,0 +1,160 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1ce8468779ee80a18007f28d6fa311f5",
+  "pageId": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "1ce84687-79ee-80a1-8007-f28d6fa311f5": {
+      "id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "version": 1038,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "시간이 지날수록 문의 폭주 하는 업체 특징"
+          ]
+        ]
+      },
+      "content": [
+        "1ce84687-79ee-8093-9c85-ced3247628c8",
+        "1ce84687-79ee-804d-be68-d3fb28793c62",
+        "1ce84687-79ee-80c1-8cb4-e3772db31759",
+        "1ce84687-79ee-80de-9f22-ccd00c6aab37",
+        "1ce84687-79ee-808f-b5b8-fbf2dccbd356",
+        "1ce84687-79ee-806f-80f0-cda482782625",
+        "1ce84687-79ee-8059-8ceb-f73bcb927db2",
+        "1ce84687-79ee-8091-a044-f553156950dd",
+        "1ce84687-79ee-80fd-846f-e4647fd7abfe",
+        "1ce84687-79ee-8049-a5b0-e15524592d52"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744027160488,
+      "last_edited_time": 1744033140042
+    },
+    "1ce84687-79ee-8093-9c85-ced3247628c8": {
+      "id": "1ce84687-79ee-8093-9c85-ced3247628c8",
+      "version": 405,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제목 : 개업하기 전 모르면 후회하는 2가지 "
+          ]
+        ]
+      },
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744027622242,
+      "last_edited_time": 1744029169967
+    },
+    "1ce84687-79ee-804d-be68-d3fb28793c62": {
+      "id": "1ce84687-79ee-804d-be68-d3fb28793c62",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744029902941,
+      "last_edited_time": 1744029902942
+    },
+    "1ce84687-79ee-80c1-8cb4-e3772db31759": {
+      "id": "1ce84687-79ee-80c1-8cb4-e3772db31759",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744029903665,
+      "last_edited_time": 1744029903666
+    },
+    "1ce84687-79ee-80de-9f22-ccd00c6aab37": {
+      "id": "1ce84687-79ee-80de-9f22-ccd00c6aab37",
+      "version": 2879,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "자영업을 시작하면 시간이 훨씬더 빠르게 흘러갑니다. 아직 오픈 안한분도 느낄거예요. 솔직히 자리 구하는데까지가 제일 시간이 안가고, 계약하는 순간부터 할일 천지입니다. 인테리어부터 직원, 마케팅, 심지어는 로고, 스티커, 가운 이런 자잘한것 까지 신경쓸게 미친듯이 많거든요. "
+          ]
+        ]
+      },
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744029195568,
+      "last_edited_time": 1744032536441
+    },
+    "1ce84687-79ee-808f-b5b8-fbf2dccbd356": {
+      "id": "1ce84687-79ee-808f-b5b8-fbf2dccbd356",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744033164249,
+      "last_edited_time": 1744033164250
+    },
+    "1ce84687-79ee-806f-80f0-cda482782625": {
+      "id": "1ce84687-79ee-806f-80f0-cda482782625",
+      "version": 413,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "개업 준비중인 분들은 이때 준비를 어디까지 해놓느냐에 따라 "
+          ]
+        ]
+      },
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744032056759,
+      "last_edited_time": 1744033186978
+    },
+    "1ce84687-79ee-8059-8ceb-f73bcb927db2": {
+      "id": "1ce84687-79ee-8059-8ceb-f73bcb927db2",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744032660224,
+      "last_edited_time": 1744032660225
+    },
+    "1ce84687-79ee-8091-a044-f553156950dd": {
+      "id": "1ce84687-79ee-8091-a044-f553156950dd",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744032660374,
+      "last_edited_time": 1744032660376
+    },
+    "1ce84687-79ee-80fd-846f-e4647fd7abfe": {
+      "id": "1ce84687-79ee-80fd-846f-e4647fd7abfe",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744029170293,
+      "last_edited_time": 1744029170295
+    },
+    "1ce84687-79ee-8049-a5b0-e15524592d52": {
+      "id": "1ce84687-79ee-8049-a5b0-e15524592d52",
+      "version": 4,
+      "type": "text",
+      "parent_id": "1ce84687-79ee-80a1-8007-f28d6fa311f5",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1744028951946,
+      "last_edited_time": 1744028951947
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

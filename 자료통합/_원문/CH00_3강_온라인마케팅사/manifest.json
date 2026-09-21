@@ -1,0 +1,281 @@
+[
+  {
+    "id": "CH03-H01",
+    "title": "네이버 블로그 20주년",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=2294",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "da8bcad747804903070f11805113f3be2d3733bdb01a2e5a86b91db0a002056d",
+    "file": "H01.json"
+  },
+  {
+    "id": "CH03-H02",
+    "title": "카카오톡 주요 기능·히스토리",
+    "url": "https://www.kakaocorp.com/page/detail/10810",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "106a2a96f7ae11ea628061c1d1778309053fe760212a2161ceb7c7f4bc208c5c",
+    "file": "H02.json"
+  },
+  {
+    "id": "CH03-H03",
+    "title": "네이버페이 정식 서비스",
+    "url": "https://navercorp.com/media/pressReleasesDetail?seq=29099",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "3d5669dc4df0cd7ec95d583614d25f4e34ab0849b6b61fb384f1294ffe46c958",
+    "file": "H03.json"
+  },
+  {
+    "id": "CH03-H04",
+    "title": "인스타그램 국내 광고·한국 행사",
+    "url": "https://www.etnews.com/20151105000254",
+    "type": "당시 언론 보도",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "58f4c5dfe7bfcbb24dae839beb952e9c6dd82012f178276d3c39404cab70d0e8",
+    "file": "H04.json"
+  },
+  {
+    "id": "CH03-H05",
+    "title": "유튜브 쇼츠 한국 출시",
+    "url": "https://blog.youtube/intl/ko-kr/news-and-events/2021_07_shorts-goes-globa/",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "c9221700bf5e19abe35de31707b1730cfb2dd8bc92e4214f37fe71b4255309bd",
+    "file": "H05.json"
+  },
+  {
+    "id": "CH03-H06",
+    "title": "제일기획 2003 광고시장 집계",
+    "url": "https://www.newswire.co.kr/newsRead.php?no=117",
+    "type": "당사 배포 보도자료",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "8cdc54c2012dd7320e27a6ab7afa2484e68183bb5332364c3c3031e1176b9243",
+    "file": "H06.json"
+  },
+  {
+    "id": "CH03-H07",
+    "title": "야후코리아 서비스 종료",
+    "url": "https://www.yna.co.kr/view/AKR20121231046300017",
+    "type": "당시 언론 보도",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "0a536cab20c4a7dea0168b9dfff2419431b0542de6fc4af191b7efefcb89f715",
+    "file": "H07.json"
+  },
+  {
+    "id": "CH03-H08",
+    "title": "다음 카페 10주년",
+    "url": "https://www.kakaocorp.com/page/detail/6292",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "1849eeda3891930307408f9bb3dbf06f1519730fcda6cfaa9cd7e08b82259d76",
+    "file": "H08.json"
+  },
+  {
+    "id": "CH03-H09",
+    "title": "네이버 카페iN 정식 오픈",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=26544",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "453263a8ab4b247690aa4399db114c1f32253d20a1f673a861fbb50b521c129e",
+    "file": "H09.json"
+  },
+  {
+    "id": "CH03-H10",
+    "title": "AdWords 15주년",
+    "url": "https://adwords.googleblog.com/2015/10/happy-15th-birthday-adwords.html",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "05bf8504ef5d6bb6424b0dfe85dbc25da215ec5f66c4aa6cffdcf15587be1777",
+    "file": "H10.json"
+  },
+  {
+    "id": "CH03-H11",
+    "title": "AdSense 10주년",
+    "url": "https://adsense.googleblog.com/2013/06/the-adsense-story-looking-back-at-10.html",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "3e76139edc51eea355db43acd5f523b82548a848b190a6016cc3f8d81c2ddc3c",
+    "file": "H11.json"
+  },
+  {
+    "id": "CH03-H12",
+    "title": "Facebook Ads 발표",
+    "url": "https://about.fb.com/news/2007/11/facebook-unveils-facebook-ads/amp/",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "c00d7f4b4249988e93ba4ea5b12efc71a496026fec34a46be07130f7c58af607",
+    "file": "H12.json"
+  },
+  {
+    "id": "CH03-H13",
+    "title": "네이버 AI 브리핑 출시 발표",
+    "url": "https://navercorp.com/media/pressReleasesDetail?seq=32374",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "07b44ff1cfd31c42bb9faead238d2b298cb122266010fc7e59048805ee267d15",
+    "file": "H13.json"
+  },
+  {
+    "id": "CH03-H14",
+    "title": "유튜브 쇼핑 제휴 한국 도입",
+    "url": "https://blog.youtube/intl/ko-kr/news-and-events/--------/",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "c9ecdfe8731cc591277813837586a13c7640c12e69c2dc299afa550268d16d5f",
+    "file": "H14.json"
+  },
+  {
+    "id": "CH03-H15",
+    "title": "코바코 매체별 광고비",
+    "url": "https://www.kobaco.co.kr/site/adstat/home",
+    "type": "공공기관 통계 표",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "e3904f0f6cbda8b95bbc1cae9aaf4cd17676f2148802022817c3fb2b5068059b",
+    "file": "H15.json"
+  },
+  {
+    "id": "CH03-H16",
+    "title": "네이버 서비스 연혁",
+    "url": "https://www.navercorp.com/company/about",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "f9c64080e5220e5249003162dd5fcb6eabf214cbede808d9b05f160610a1152f",
+    "file": "H16.json"
+  },
+  {
+    "id": "CH03-H17",
+    "title": "틱톡 2024 음악 결산",
+    "url": "https://newsroom.tiktok.com/music-year-on-tiktok-2024-kr?lang=ko-KR",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "1990716d1c5a4333ffe13723d2d02ca949c26cacc50e473d0ccdb59b60afc98e",
+    "file": "H17.json"
+  },
+  {
+    "id": "CH03-H18",
+    "title": "지식iN 20주년",
+    "url": "https://navercorp.com/media/pressReleasesDetail?seq=30903",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "f0ab91a797aea7595303de4826070bb474a5ddc0472b79fa17ed219865fe35ac",
+    "file": "H18.json"
+  },
+  {
+    "id": "CH03-H19",
+    "title": "티스토리 개편·연혁",
+    "url": "https://www.kakaocorp.com/page/detail/8592",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "5be7c874c14a495760d8a681da02902d6c74ba5996c8b5445e99314e15c07598",
+    "file": "H19.json"
+  },
+  {
+    "id": "CH03-H20",
+    "title": "유튜브 한국 사이트 2008 회고",
+    "url": "https://korea.googleblog.com/2008/12/2008_05.html?m=1",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "b7b0c7755860a1a90a193ee5005dd71db542c8d1c6ebba993bd76f23c9d10aae",
+    "file": "H20.json"
+  },
+  {
+    "id": "CH03-H21",
+    "title": "TikTok For Business 한국 포함 발표",
+    "url": "https://www.newswire.co.kr/newsRead.php?no=906908",
+    "type": "당사 배포 보도자료",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "7e982a597bd719de1fa04625eddf2c017a6913d141b08096c2afc08fb38a5bbd",
+    "file": "H21.json"
+  },
+  {
+    "id": "CH03-H22",
+    "title": "구글 AI 모드 한국 지원",
+    "url": "https://blog.google/intl/ko-kr/products/explore-get-answers/ai-mode-in-korean/",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "b9f293469d583ffb4de148b9f566c503717c46ff0380ec47c6bdcc003f0f0838",
+    "file": "H22.json"
+  },
+  {
+    "id": "CH03-H23",
+    "title": "ChatGPT 공개",
+    "url": "https://openai.com/index/chatgpt/",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "773499b0fa16c14a7c6b7339631dedb1b4ec9bc7b1fe226e69626588f8c3b757",
+    "file": "H23.json"
+  },
+  {
+    "id": "CH03-H24",
+    "title": "네이버 AI탭 베타",
+    "url": "https://navercorp.com/media/pressReleasesDetail?seq=34984",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "4a08c29b616ce3cff7487153ec6b5a5906c889f6cf2b28b7ca08b1cb81782f33",
+    "file": "H24.json"
+  },
+  {
+    "id": "CH03-H25",
+    "title": "네이버 쇼핑라이브 리뉴얼",
+    "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=30187",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "54c935b972389dd8464e8f729f26102e9b5de8683500e8f35bac2e5952f0a2f1",
+    "file": "H25.json"
+  },
+  {
+    "id": "CH03-H26",
+    "title": "페이스북 한국 중소기업 지원",
+    "url": "https://news.bizwatch.co.kr/article/mobile/2017/07/12/0019",
+    "type": "당시 언론 보도",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "41305c057cd49ee8a2c3d936281d26305ae0b23918c5cc4dbbf208e93d2101ed",
+    "file": "H26.json"
+  },
+  {
+    "id": "CH03-H27",
+    "title": "구글 리마케팅 공개",
+    "url": "https://adwords.googleblog.com/2010/03/now-available-reach-right-audience.html",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "20d50394dd73e1b2b72a5b75199fb41ae2d5156450923167a55ebd9bbe765a83",
+    "file": "H27.json"
+  },
+  {
+    "id": "CH03-H28",
+    "title": "네이버 애드포스트 확대",
+    "url": "https://navercorp.com/media/pressReleasesDetail?seq=27910",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "0f5811b4bb3d40a1a77be5e381fa4045565e17dd5b174221cde1d082816bae30",
+    "file": "H28.json"
+  },
+  {
+    "id": "CH03-H29",
+    "title": "싸이월드 5주년·미니홈피",
+    "url": "https://www.etnews.com/200408300124",
+    "type": "당시 언론 보도",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "f2596c3681fbadbabfa7bda38c3e212c31d8c900452870f5adaa8816f60b267c",
+    "file": "H29.json"
+  },
+  {
+    "id": "CH03-H30",
+    "title": "CJ오쇼핑 19주년·1995 회고",
+    "url": "https://www.newswire.co.kr/newsRead.php?no=761097",
+    "type": "당사 배포 보도자료",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "cf658a39895665b0b944898bc90b38fa434bd6920be1ba7818884d62a257d4e5",
+    "file": "H30.json"
+  },
+  {
+    "id": "CH03-H31",
+    "title": "네이버 AI탭 정식 출시",
+    "url": "https://navercorp.com/media/pressReleasesDetail?seq=10034429",
+    "type": "당사 공식 웹 문서",
+    "version": "2026-09-18 조회 스냅샷",
+    "sha256": "b264607bfe61c476bdef490c7c8eac08a42a49230ec3b4ca739b7e805a3d7a5c",
+    "file": "H31.json"
+  }
+]

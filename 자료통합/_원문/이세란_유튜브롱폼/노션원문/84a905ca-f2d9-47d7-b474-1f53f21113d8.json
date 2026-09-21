@@ -1,0 +1,1985 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/84a905caf2d947d7b4741f53f21113d8",
+  "pageId": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+  "collected": "2026-09-21",
+  "chunks": 2,
+  "blocks": {
+    "84a905ca-f2d9-47d7-b474-1f53f21113d8": {
+      "id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "version": 602,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "사장은 알지만 일당 프리랜서는 모르는 것[작0613/업x]"
+          ]
+        ]
+      },
+      "content": [
+        "a68a79e9-b867-4eeb-9579-4bb9690592c4",
+        "0d5cbe7b-7a9c-4771-8eb7-6418310f24ce",
+        "b332c559-fa4b-4978-8d30-7dd0035f641e",
+        "5aea92f4-80fd-407a-98bc-f07c16af74c6",
+        "912e99e0-2b7d-4351-a1fa-38916a65039a",
+        "41775c75-2e66-4a7c-ab02-eb7359c8a5f3",
+        "e950766f-cb08-4692-bc1a-3805f5a0c4a5",
+        "4513cec1-cad8-4782-9d27-6862897b41d3",
+        "bb25b288-9bbd-491d-85fe-896d5d680bde",
+        "3687bab8-07e8-413f-80b6-f11c12088d65",
+        "a381f757-177a-4182-8f65-22229fb01ae8",
+        "670e1af1-306b-4c49-967e-515ae66e097b",
+        "5cdd6c88-f643-4087-834c-f7c83276cf72",
+        "45c1c01b-8199-41d1-beca-f37724869f75",
+        "46b674e6-8bfa-4367-8c41-f1a786659c02",
+        "c5154ca3-3b26-4034-aff2-bdbe9e2cf832",
+        "440c9036-4793-4f6e-8ba7-8b3e2158e864",
+        "5ea13e6b-1896-4d29-bcb5-9f3c464893e8",
+        "9dee8e50-4e7d-43e5-bfde-b86174d4abc4",
+        "c6fab1bd-ba2a-460b-b11d-dc39d3210269",
+        "a7fe8e43-bd4d-49eb-9d61-7b4c09d1c3cf",
+        "132a8c8b-80c7-4f9d-a9e1-58eae0e8d45a",
+        "56249736-4a3b-44f4-af2b-c7456464b55a",
+        "05720c91-8970-4201-84a7-ee8a6d401dd2",
+        "c0c78f07-b6fb-4250-bd5b-7fbd5008b19d",
+        "3084afa2-eb6b-4ff1-820d-bc78b495684d",
+        "6536f159-83ef-47a9-b835-5a06dd7d7357",
+        "732c2cb7-95e5-4bd2-8886-71cc32308182",
+        "698e3365-0d5b-4d0f-8157-85eedc0737a0",
+        "e9bd0f33-9dbe-49ef-99f2-ed88d834141d",
+        "fa83bb07-baf1-4c48-bee6-9ac714696d46",
+        "42f5fee0-076b-4690-a224-9fd759a3cfbf",
+        "55bfe95e-49b3-42f1-b1e9-7dcf172ac102",
+        "04f182e5-5726-4e13-a2fe-20d3350c6103",
+        "8b3eb445-bd95-4b98-b5a0-12fdaec7d256",
+        "d3329614-89a0-4fa0-ac0f-8b42000d6cae",
+        "508fc46e-4062-42c9-8fbc-17f4dfc8805b",
+        "c6bafcdb-d56e-43b7-8dd2-f1688822f54d",
+        "858222ff-dbb0-450f-8a6b-79d887ee6d31",
+        "5d5cbe6d-cceb-4016-8ae3-b21fe3d112ea",
+        "9650775b-6662-4138-b3a4-92d18444b4dd",
+        "52bf391e-a5c3-42b5-a6fa-ef915160de19",
+        "bb96ce63-0f78-46c3-aa9a-78bfecdcca9d",
+        "8ee99fb7-f501-40c9-931a-35576f40a7c4",
+        "d225177a-9632-429e-9b28-4b9ee3d2b965",
+        "4fcb495b-e480-4af8-955a-049a5fbc98a0",
+        "27816e1d-8c5c-4ad0-ad6c-06105bd916a3",
+        "6bd77fe5-40a9-45fd-80ac-22ce954e9ae8",
+        "f93c3aa1-db68-4f16-9ae4-521cdb197ca2",
+        "38e3c909-0839-4a01-b322-bc278af7d85c",
+        "8887eeb7-964f-4f76-92e9-1a2040c9d207",
+        "8e2fae12-89ee-4e60-8939-4b5e6ed281c4",
+        "e6885c68-9169-45dd-b5c1-f44b87fd6642",
+        "3b49c8be-21f6-4865-903b-157fbbd540e1",
+        "07faef41-74a4-4368-aa6e-879eab2213fe",
+        "0b39d378-76cd-4cdc-b515-d43c23a46325",
+        "43d41ad8-1c61-4b38-b05d-1275c60e8714",
+        "245ff52a-062d-4bff-b2f4-edac86d51577",
+        "062977e8-4e8c-47bd-9fa6-cdb4270c628f",
+        "238cb3b6-f194-4363-aac9-f42e934914e0",
+        "40f352e4-8690-48dc-9474-171826e491e4",
+        "ff8c153a-7dcf-4275-b8e2-cd7950924eb8",
+        "7a05b0c3-731b-42f9-ac85-5e094036fe07",
+        "d7f27a82-f97b-425c-bdc2-544ffa692274",
+        "d1f8cc55-64fe-4efd-b382-eaa0d04a3bc1",
+        "252482cc-c087-4926-b434-92b5917b397b",
+        "e550c1bb-7161-467a-aa6e-fcfd4bc5644e",
+        "88591006-3cf5-4464-a314-9cd6f3ca735d",
+        "e9429df6-4211-46f6-acec-811ee0c0b13c",
+        "5c445a90-751a-45bd-8b6c-a98b16d9c70f",
+        "39755596-1b84-4333-a0cf-2e9c3c64ffe3",
+        "694944b1-e164-4ed8-9299-615a4c8d9e25",
+        "1fa12954-0d9a-40d2-9e6b-4f1b364242aa",
+        "7ecfa09f-36c0-4e84-a608-32b1d62ea2d9",
+        "dbf301c2-3c30-4d48-a7cf-b0d81c035557",
+        "0cc289c2-1909-470d-9100-faa45be7cf3a",
+        "83dd266c-b37e-4062-bc43-712b7b6ad5ef",
+        "ef696723-49fd-4243-9ee7-0618eea1af36",
+        "1d932f8d-6ea8-42dd-94e6-b6377e633c3e",
+        "3ad79761-14f0-4f88-a437-c92a79113328",
+        "582c6340-5632-474e-9747-304cd9714728",
+        "a9d1648c-4256-4bc0-b853-e18bf84ab6cb",
+        "617e6692-29cb-4b24-a327-554cb1820338",
+        "077c9026-a795-4817-a2a1-31c39263ca73",
+        "2ff31d6a-2ad8-4002-897c-68c6980711ee",
+        "e29974b8-9dc0-438d-8e40-e581e81133cf",
+        "69a36fb1-bdc6-4ee9-ac6e-28f295dc10e9",
+        "0d1bfb4d-b189-470e-a926-b4c17138ad49",
+        "f98ae1d5-29d9-4a9a-b2d8-b6edf0dfbbe6",
+        "e8f58ca6-ffc5-4cc2-8e7a-1916c7dde3c9",
+        "da02146f-45c9-43f9-8e11-95720eeb50fc",
+        "c40d1652-10e7-47c4-83db-d49efcfe8385",
+        "297ebf0e-cc6e-4339-8652-8702545c86df",
+        "eb29ee6d-07e8-4da7-be5c-d6a910eab388",
+        "abcf200c-1402-4345-a4c3-6f1f5a965c19",
+        "b59c7a3a-8d9c-4966-be72-d7adb8a93c55",
+        "c9db997d-efd2-4536-8d32-c6ae521c296a",
+        "5ba888f6-2706-4fd8-96b4-af209c228528",
+        "d521845c-ceed-48c5-bddc-380be3f2f540"
+      ],
+      "format": {
+        "social_media_image_preview_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/a7c9f5d3-02e4-495b-aec9-58924aee6486/SocialMediaPreviewImage.png"
+      },
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718097965521,
+      "last_edited_time": 1732280041370
+    },
+    "a68a79e9-b867-4eeb-9579-4bb9690592c4": {
+      "id": "a68a79e9-b867-4eeb-9579-4bb9690592c4",
+      "version": 4,
+      "type": "text",
+      "format": {
+        "page_icon": "💡"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718263562444,
+      "last_edited_time": 1718263562444
+    },
+    "0d5cbe7b-7a9c-4771-8eb7-6418310f24ce": {
+      "id": "0d5cbe7b-7a9c-4771-8eb7-6418310f24ce",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247064696,
+      "last_edited_time": 1718247064696
+    },
+    "b332c559-fa4b-4978-8d30-7dd0035f641e": {
+      "id": "b332c559-fa4b-4978-8d30-7dd0035f641e",
+      "version": 170,
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "컨텐츠 (편집스타일 아래 참고해주세요)"
+          ]
+        ]
+      },
+      "format": {
+        "page_icon": "1️⃣",
+        "block_color": "gray_background"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718155697477,
+      "last_edited_time": 1718263940177
+    },
+    "5aea92f4-80fd-407a-98bc-f07c16af74c6": {
+      "id": "5aea92f4-80fd-407a-98bc-f07c16af74c6",
+      "version": 15,
+      "type": "bookmark",
+      "properties": {
+        "link": [
+          [
+            "https://youtu.be/UPqL_psk7L4?si=x3IGAasinohdTiPg"
+          ]
+        ],
+        "title": [
+          [
+            "식당 대박나려면? 당장 이것부터 버리세요. (음식점 사장님 주목)"
+          ]
+        ],
+        "description": [
+          [
+            "오늘은 대박 맛집 사장님들이 가진 특징 3가지를 말씀드립니다.\n\n아 그리고! 상권분석.. 이제 커피숍에서 하루종일 앉아있지 마세요.\n영상에서 말씀드린 사이트 링크 입니다.\n\n- 소상공인시장진흥공단: https://www.semas.or.kr/web/main/index.kmdc\n- KT 잘나가게: https://jalnagage.kt.co.kr/home/\n- 마이프차: https://myfranchise.kr/\n\n-----\n\n🍚장사가 막막하시다면?\nhttps://blog.naver.com/e2236/222342515174\n제 블로그에 들어가 보세요. 3개의 글만 읽더라도 식당 운영에 도움이 되는 정보들을 얻어 갈 수 있습니다. 블로그에서 얻은 각종 꿀팁을 직접 적용해 보시길 바랍니다.\n\n🍚제가 운영하는 임사부 브랜드와 관련해 상담을 원하신다면?\nhttps://bit.ly/39s0D3c\n\n위의 링크를 눌러주세요. 실제로 임사부와 함께하는 점주님들의 이야기와 상담 관련 내용이 정리되어있습니다."
+          ]
+        ]
+      },
+      "format": {
+        "bookmark_icon": "https://www.youtube.com/s/desktop/4810e4aa/img/favicon_144x144.png",
+        "bookmark_cover": "https://i.ytimg.com/vi/UPqL_psk7L4/maxresdefault.jpg"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718155686318,
+      "last_edited_time": 1718155709392
+    },
+    "912e99e0-2b7d-4351-a1fa-38916a65039a": {
+      "id": "912e99e0-2b7d-4351-a1fa-38916a65039a",
+      "version": 34,
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "3줄요약"
+          ]
+        ]
+      },
+      "format": {
+        "page_icon": "2️⃣",
+        "block_color": "gray_background"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718155711225,
+      "last_edited_time": 1718155717544
+    },
+    "41775c75-2e66-4a7c-ab02-eb7359c8a5f3": {
+      "id": "41775c75-2e66-4a7c-ab02-eb7359c8a5f3",
+      "version": 1083,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제목 : 일당 구직자에서 벗어나려면? 당장 이것부터 버리세요. (일당 기술직, 공장장, 프리랜서, 알바를 위한 영상)"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718156873478,
+      "last_edited_time": 1718157865446
+    },
+    "e950766f-cb08-4692-bc1a-3805f5a0c4a5": {
+      "id": "e950766f-cb08-4692-bc1a-3805f5a0c4a5",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718157074014,
+      "last_edited_time": 1718157074014
+    },
+    "4513cec1-cad8-4782-9d27-6862897b41d3": {
+      "id": "4513cec1-cad8-4782-9d27-6862897b41d3",
+      "version": 871,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "일 안하는 억대연봉 사장들은 알지만 하루종일 일하는 일당 구직자는 모르는 3가지"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718156432595,
+      "last_edited_time": 1718157879680
+    },
+    "bb25b288-9bbd-491d-85fe-896d5d680bde": {
+      "id": "bb25b288-9bbd-491d-85fe-896d5d680bde",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718160986647,
+      "last_edited_time": 1718160986647
+    },
+    "3687bab8-07e8-413f-80b6-f11c12088d65": {
+      "id": "3687bab8-07e8-413f-80b6-f11c12088d65",
+      "version": 56,
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "썸네일"
+          ]
+        ]
+      },
+      "format": {
+        "page_icon": "3️⃣",
+        "block_color": "gray_background"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718160987911,
+      "last_edited_time": 1718160996061
+    },
+    "a381f757-177a-4182-8f65-22229fb01ae8": {
+      "id": "a381f757-177a-4182-8f65-22229fb01ae8",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "18378.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/c1cd5845-2387-436c-a33b-8d8ac79a87e0/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 5120,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/c1cd5845-2387-436c-a33b-8d8ac79a87e0/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.5625,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718160992455,
+      "last_edited_time": 1718160997705
+    },
+    "670e1af1-306b-4c49-967e-515ae66e097b": {
+      "id": "670e1af1-306b-4c49-967e-515ae66e097b",
+      "version": 114,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161004033,
+      "last_edited_time": 1718246023921
+    },
+    "5cdd6c88-f643-4087-834c-f7c83276cf72": {
+      "id": "5cdd6c88-f643-4087-834c-f7c83276cf72",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161004201,
+      "last_edited_time": 1718161004201
+    },
+    "45c1c01b-8199-41d1-beca-f37724869f75": {
+      "id": "45c1c01b-8199-41d1-beca-f37724869f75",
+      "version": 45,
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "대충글쓰기"
+          ]
+        ]
+      },
+      "format": {
+        "page_icon": "4️⃣",
+        "block_color": "gray_background"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161005445,
+      "last_edited_time": 1718161716983
+    },
+    "46b674e6-8bfa-4367-8c41-f1a786659c02": {
+      "id": "46b674e6-8bfa-4367-8c41-f1a786659c02",
+      "version": 36,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "(내 이야기)"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163207757,
+      "last_edited_time": 1718163209812
+    },
+    "c5154ca3-3b26-4034-aff2-bdbe9e2cf832": {
+      "id": "c5154ca3-3b26-4034-aff2-bdbe9e2cf832",
+      "version": 504,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "제가 간판회사를 하고 있음. 간판회사에서 간판 설치하고 이런 분들은 하루종일 일하고 얼마벌어감."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718162376288,
+      "last_edited_time": 1718162442120
+    },
+    "440c9036-4793-4f6e-8ba7-8b3e2158e864": {
+      "id": "440c9036-4793-4f6e-8ba7-8b3e2158e864",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718162457760,
+      "last_edited_time": 1718162457760
+    },
+    "5ea13e6b-1896-4d29-bcb5-9f3c464893e8": {
+      "id": "5ea13e6b-1896-4d29-bcb5-9f3c464893e8",
+      "version": 24,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "(감정)"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161824312,
+      "last_edited_time": 1718163190540
+    },
+    "9dee8e50-4e7d-43e5-bfde-b86174d4abc4": {
+      "id": "9dee8e50-4e7d-43e5-bfde-b86174d4abc4",
+      "version": 231,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "나보다 일도 못하면서 돈 더 받는 사람이 있는데 억울하지 않음?"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161802497,
+      "last_edited_time": 1718161833828
+    },
+    "c6fab1bd-ba2a-460b-b11d-dc39d3210269": {
+      "id": "c6fab1bd-ba2a-460b-b11d-dc39d3210269",
+      "version": 362,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "할줄 모르는 사장이 와서 이거해라 저거해라 하면 짜증남?"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161834009,
+      "last_edited_time": 1718161850020
+    },
+    "a7fe8e43-bd4d-49eb-9d61-7b4c09d1c3cf": {
+      "id": "a7fe8e43-bd4d-49eb-9d61-7b4c09d1c3cf",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163185656,
+      "last_edited_time": 1718163185656
+    },
+    "132a8c8b-80c7-4f9d-a9e1-58eae0e8d45a": {
+      "id": "132a8c8b-80c7-4f9d-a9e1-58eae0e8d45a",
+      "version": 24,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "(이성)"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163199160,
+      "last_edited_time": 1718163202468
+    },
+    "56249736-4a3b-44f4-af2b-c7456464b55a": {
+      "id": "56249736-4a3b-44f4-af2b-c7456464b55a",
+      "version": 6,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "단가 낮춰서 일하긴 싫고 그렇다고 일을 안할 순 없고. 그러면서 단가 낮춰서라도 일하는 사람을 욕함 "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163199304,
+      "last_edited_time": 1718163200282
+    },
+    "05720c91-8970-4201-84a7-ee8a6d401dd2": {
+      "id": "05720c91-8970-4201-84a7-ee8a6d401dd2",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "나는 잘하니깐 알아서 소개올거다? 이상적인 소리 하지말아라"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "0760144b-550c-4e22-857f-65f7ebb50e2e",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163200278,
+      "last_edited_time": 1718163200282
+    },
+    "c0c78f07-b6fb-4250-bd5b-7fbd5008b19d": {
+      "id": "c0c78f07-b6fb-4250-bd5b-7fbd5008b19d",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "몇달에 몇건정도 따야함 "
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "9024d4c1-9edb-4070-a0bb-7445c0b7668c",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163200278,
+      "last_edited_time": 1718163200282
+    },
+    "3084afa2-eb6b-4ff1-820d-bc78b495684d": {
+      "id": "3084afa2-eb6b-4ff1-820d-bc78b495684d",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그러려면 최소 몇명의 고객이 나를 알아야 함 ⇒ 어려움"
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "50788232-c905-4b88-b6c8-e25c9d357dce",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163200279,
+      "last_edited_time": 1718163200282
+    },
+    "6536f159-83ef-47a9-b835-5a06dd7d7357": {
+      "id": "6536f159-83ef-47a9-b835-5a06dd7d7357",
+      "version": 4,
+      "type": "text",
+      "format": {
+        "copied_from_pointer": {
+          "id": "a5d3cb4f-c53c-4798-8e87-15efb90a3b40",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163200279,
+      "last_edited_time": 1718163200282
+    },
+    "732c2cb7-95e5-4bd2-8886-71cc32308182": {
+      "id": "732c2cb7-95e5-4bd2-8886-71cc32308182",
+      "version": 32,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "(해결책)"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163199464,
+      "last_edited_time": 1718163205676
+    },
+    "698e3365-0d5b-4d0f-8157-85eedc0737a0": {
+      "id": "698e3365-0d5b-4d0f-8157-85eedc0737a0",
+      "version": 4,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "가만히 있어도 문의가 오게 할 수 있음 "
+          ]
+        ]
+      },
+      "format": {
+        "copied_from_pointer": {
+          "id": "640054ea-6839-441c-912a-48a1393e6026",
+          "table": "block",
+          "spaceId": "ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa"
+        }
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163186532,
+      "last_edited_time": 1718163186535
+    },
+    "e9bd0f33-9dbe-49ef-99f2-ed88d834141d": {
+      "id": "e9bd0f33-9dbe-49ef-99f2-ed88d834141d",
+      "version": 6,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "기술만 잘한다고 해결되는게 아님 ⇒ 아무리 잘해도 알리는 기술이 있어야함 ⇒ 손님을 데리고 있는 사람이 짱임"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161850368,
+      "last_edited_time": 1718163219824
+    },
+    "fa83bb07-baf1-4c48-bee6-9ac714696d46": {
+      "id": "fa83bb07-baf1-4c48-bee6-9ac714696d46",
+      "version": 30,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718163127216,
+      "last_edited_time": 1718163129311
+    },
+    "42f5fee0-076b-4690-a224-9fd759a3cfbf": {
+      "id": "42f5fee0-076b-4690-a224-9fd759a3cfbf",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718162156099,
+      "last_edited_time": 1718162156099
+    },
+    "55bfe95e-49b3-42f1-b1e9-7dcf172ac102": {
+      "id": "55bfe95e-49b3-42f1-b1e9-7dcf172ac102",
+      "version": 57,
+      "type": "callout",
+      "properties": {
+        "title": [
+          [
+            "대본"
+          ]
+        ]
+      },
+      "format": {
+        "page_icon": "5️⃣",
+        "block_color": "gray_background"
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718167755464,
+      "last_edited_time": 1718263948866
+    },
+    "04f182e5-5726-4e13-a2fe-20d3350c6103": {
+      "id": "04f182e5-5726-4e13-a2fe-20d3350c6103",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718242333891,
+      "last_edited_time": 1718242333891
+    },
+    "8b3eb445-bd95-4b98-b5a0-12fdaec7d256": {
+      "id": "8b3eb445-bd95-4b98-b5a0-12fdaec7d256",
+      "version": 1131,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "여러분 지금 잠깐 나와 같이 일하는 팀장 사장 업체을 생각해보세요. 나는 지금 내 몸값을 제대로 받는 편인가요? 아니면 못 받는 편 인가요? 한 때 인기통이나 이런 카페에서 직거래 가격을 공개하기도 했는데 여러분은 어떠신가요?"
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718161869569,
+      "last_edited_time": 1718246036665
+    },
+    "d3329614-89a0-4fa0-ac0f-8b42000d6cae": {
+      "id": "d3329614-89a0-4fa0-ac0f-8b42000d6cae",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "64.6KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/845adba3-85a9-4931-8d11-5513f1ed87ed/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 707.98828125,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/845adba3-85a9-4931-8d11-5513f1ed87ed/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.9044502617801047,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718242556155,
+      "last_edited_time": 1726111105570
+    },
+    "508fc46e-4062-42c9-8fbc-17f4dfc8805b": {
+      "id": "508fc46e-4062-42c9-8fbc-17f4dfc8805b",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718243725490,
+      "last_edited_time": 1718243725490
+    },
+    "c6bafcdb-d56e-43b7-8dd2-f1688822f54d": {
+      "id": "c6bafcdb-d56e-43b7-8dd2-f1688822f54d",
+      "version": 1519,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "인테리어 업체나 건설사등 고정적인 현장이 있는 경우에야 매달 일거리가 있지만 그런 업체 찾기 힘듭니다. 근데 그런 업체를 찾아도 막상 일거리를 매번 받기도 어렵죠. 왜 그런줄 아세요? "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718243725603,
+      "last_edited_time": 1718245760715
+    },
+    "858222ff-dbb0-450f-8a6b-79d887ee6d31": {
+      "id": "858222ff-dbb0-450f-8a6b-79d887ee6d31",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718243946203,
+      "last_edited_time": 1718243946203
+    },
+    "5d5cbe6d-cceb-4016-8ae3-b21fe3d112ea": {
+      "id": "5d5cbe6d-cceb-4016-8ae3-b21fe3d112ea",
+      "version": 910,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그럽 업체는 매번 숙련공을 쓰자니 일당이 비싸기 때문에 숙련공 몇명에 초보자 조공을 더 많이 넣으려고 하기 때문이죠.  갑질도 심하구요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718243946092,
+      "last_edited_time": 1718246054835
+    },
+    "9650775b-6662-4138-b3a4-92d18444b4dd": {
+      "id": "9650775b-6662-4138-b3a4-92d18444b4dd",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718244023282,
+      "last_edited_time": 1718244023282
+    },
+    "52bf391e-a5c3-42b5-a6fa-ef915160de19": {
+      "id": "52bf391e-a5c3-42b5-a6fa-ef915160de19",
+      "version": 2879,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "한번 생각해보세요. 여러분이 인테리어 업체 사장이나 시공사를 운영하는 사람이예요. 그럼 이미 계약서에 얼마 받겠다고 썼을 거고 그럼 여기서부터는 나가는 돈을 아껴야 되는거거든요. 건설현장이야 중간에 기간 늦어지면 돈 좀 더 받는다고 하지만 그것도 다 받기도 어렵습니다. 소형 현장은 올려받기는 커녕 그 뒤에 a/s 기간 생각하면 남기기 어렵거든요. 그렇다고 처음부터 비싸게 부르면 이곳 저곳 비교해보다가 계약 따내기도 어렵구요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718244023123,
+      "last_edited_time": 1718244212285
+    },
+    "bb96ce63-0f78-46c3-aa9a-78bfecdcca9d": {
+      "id": "bb96ce63-0f78-46c3-aa9a-78bfecdcca9d",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246164927,
+      "last_edited_time": 1718246164927
+    },
+    "8ee99fb7-f501-40c9-931a-35576f40a7c4": {
+      "id": "8ee99fb7-f501-40c9-931a-35576f40a7c4",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246165025,
+      "last_edited_time": 1718246165025
+    },
+    "d225177a-9632-429e-9b28-4b9ee3d2b965": {
+      "id": "d225177a-9632-429e-9b28-4b9ee3d2b965",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718244215883,
+      "last_edited_time": 1718244215883
+    },
+    "4fcb495b-e480-4af8-955a-049a5fbc98a0": {
+      "id": "4fcb495b-e480-4af8-955a-049a5fbc98a0",
+      "version": 2070,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그래서 사실 내 몸값은 내 기술 숙련도의 문제가 아니라 소비자 가격의 문제입니다. 그럼 여기서 드는 근본적인 의문이 있으실거예요. 애초에 소비자 가격을 제대로 받을 수 있나? 하는 겁니다. 가격 경쟁을 하지 않고 소비자들의 선택을 받을 수 있냐하는거죠. 결론부터 말하자면 가능합니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718244215777,
+      "last_edited_time": 1718245696244
+    },
+    "27816e1d-8c5c-4ad0-ad6c-06105bd916a3": {
+      "id": "27816e1d-8c5c-4ad0-ad6c-06105bd916a3",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718245696594,
+      "last_edited_time": 1718245696594
+    },
+    "6bd77fe5-40a9-45fd-80ac-22ce954e9ae8": {
+      "id": "6bd77fe5-40a9-45fd-80ac-22ce954e9ae8",
+      "version": 1367,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "소비자들이 가격만을 가지고 선택하진 않거든요. 공사 다 했는데 계속 a/s 해야하는걸 좋아하는 고객은 없습니다. 그래서 요즘은 유튜브에 ‘인테리어 사기 수법’ 이런 영상이 조회수가 많이 나오기도 합니다."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718245696464,
+      "last_edited_time": 1718246128685
+    },
+    "f93c3aa1-db68-4f16-9ae4-521cdb197ca2": {
+      "id": "f93c3aa1-db68-4f16-9ae4-521cdb197ca2",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246143553,
+      "last_edited_time": 1718246143553
+    },
+    "38e3c909-0839-4a01-b322-bc278af7d85c": {
+      "id": "38e3c909-0839-4a01-b322-bc278af7d85c",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "1003.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/a12d4dd8-f28a-4c40-bc4e-6318d02a6426/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 707.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/a12d4dd8-f28a-4c40-bc4e-6318d02a6426/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.457280385078219,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246141024,
+      "last_edited_time": 1732280021500
+    },
+    "8887eeb7-964f-4f76-92e9-1a2040c9d207": {
+      "id": "8887eeb7-964f-4f76-92e9-1a2040c9d207",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246175081,
+      "last_edited_time": 1718246175081
+    },
+    "8e2fae12-89ee-4e60-8939-4b5e6ed281c4": {
+      "id": "8e2fae12-89ee-4e60-8939-4b5e6ed281c4",
+      "version": 622,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "증거를 보여드릴게요. 이 분은 한 여자 도배사분이세요. 딱 2주만에 원래 가격보다 더 높게 더 많은 게약을 딴 케이스예요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718242604615,
+      "last_edited_time": 1718246279899
+    },
+    "e6885c68-9169-45dd-b5c1-f44b87fd6642": {
+      "id": "e6885c68-9169-45dd-b5c1-f44b87fd6642",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246243017,
+      "last_edited_time": 1718246243017
+    },
+    "3b49c8be-21f6-4865-903b-157fbbd540e1": {
+      "id": "3b49c8be-21f6-4865-903b-157fbbd540e1",
+      "version": 12,
+      "type": "video",
+      "properties": {
+        "size": [
+          [
+            "1056.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "bandicam 2024-06-13 11-38-41-432.mp4"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/65a08e14-a896-4ff5-9162-cf2f063e4154/bandicam_2024-06-13_11-38-41-432.mp4"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "block_height": 320,
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_preserve_scale": false
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246334806,
+      "last_edited_time": 1718246338846
+    },
+    "07faef41-74a4-4368-aa6e-879eab2213fe": {
+      "id": "07faef41-74a4-4368-aa6e-879eab2213fe",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "23.7KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/426cadee-cd26-40d5-a41b-8d5ee931e421/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/426cadee-cd26-40d5-a41b-8d5ee931e421/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.4127310061601643,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246243629,
+      "last_edited_time": 1718246246528
+    },
+    "0b39d378-76cd-4cdc-b515-d43c23a46325": {
+      "id": "0b39d378-76cd-4cdc-b515-d43c23a46325",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246349361,
+      "last_edited_time": 1718246349361
+    },
+    "43d41ad8-1c61-4b38-b05d-1275c60e8714": {
+      "id": "43d41ad8-1c61-4b38-b05d-1275c60e8714",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246349473,
+      "last_edited_time": 1718246349473
+    },
+    "245ff52a-062d-4bff-b2f4-edac86d51577": {
+      "id": "245ff52a-062d-4bff-b2f4-edac86d51577",
+      "version": 1582,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "대체 이게 어떻게 가능한 걸까요? 그래서 이번 영상에서는 일당 기술자분들이 무조건 알아야 할 일 시키는 인테리어 시공사 사장들만이 아는 것을 알려드리려고 합니다. 여러분이 이 내용을 알게 된다면 일 구한다고 매일 인기통이나 이런 카페에서 댓글 달 때보다 훨씬 빠르게 제대로된 몸값을 받는 일거리를 구할 수 있을겁니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246340983,
+      "last_edited_time": 1718246486315
+    },
+    "062977e8-4e8c-47bd-9fa6-cdb4270c628f": {
+      "id": "062977e8-4e8c-47bd-9fa6-cdb4270c628f",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246486649,
+      "last_edited_time": 1718246486649
+    },
+    "238cb3b6-f194-4363-aac9-f42e934914e0": {
+      "id": "238cb3b6-f194-4363-aac9-f42e934914e0",
+      "version": 2129,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그럼 바로 제 몸값을 받을 수 있는 일거리를 따내는 법부터 알아볼게요. 자 이건 일당 기술자분의 작업일지와 일주일에 최소 5건씩 문의를 받는 업체의 작업일지입니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246486527,
+      "last_edited_time": 1718247451594
+    },
+    "40f352e4-8690-48dc-9474-171826e491e4": {
+      "id": "40f352e4-8690-48dc-9474-171826e491e4",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246663441,
+      "last_edited_time": 1718246663441
+    },
+    "ff8c153a-7dcf-4275-b8e2-cd7950924eb8": {
+      "id": "ff8c153a-7dcf-4275-b8e2-cd7950924eb8",
+      "version": 6,
+      "type": "column_list",
+      "content": [
+        "680d73c0-510b-4d6d-a9a8-78c4508063d2",
+        "fa25f4eb-f209-4240-bf77-e73d7e6f9435"
+      ],
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246725179,
+      "last_edited_time": 1718246725179
+    },
+    "680d73c0-510b-4d6d-a9a8-78c4508063d2": {
+      "id": "680d73c0-510b-4d6d-a9a8-78c4508063d2",
+      "version": 10,
+      "type": "column",
+      "content": [
+        "a9b8236d-2c8c-4053-b87b-77b379abf7a1",
+        "d6b4e4bb-4821-487e-9917-3884e929d370",
+        "036c4fda-e8b0-4264-a1bd-dbff14a00802"
+      ],
+      "format": {
+        "column_ratio": 0.5
+      },
+      "parent_id": "ff8c153a-7dcf-4275-b8e2-cd7950924eb8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246725179,
+      "last_edited_time": 1718247281586
+    },
+    "a9b8236d-2c8c-4053-b87b-77b379abf7a1": {
+      "id": "a9b8236d-2c8c-4053-b87b-77b379abf7a1",
+      "version": 398,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "(왼쪽)     일당 기술자        "
+          ]
+        ]
+      },
+      "parent_id": "680d73c0-510b-4d6d-a9a8-78c4508063d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246729059,
+      "last_edited_time": 1718247287769
+    },
+    "d6b4e4bb-4821-487e-9917-3884e929d370": {
+      "id": "d6b4e4bb-4821-487e-9917-3884e929d370",
+      "version": 109,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "*사진 얼굴 블러처리해주세요",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "                                          "
+          ]
+        ]
+      },
+      "parent_id": "680d73c0-510b-4d6d-a9a8-78c4508063d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247281586,
+      "last_edited_time": 1718247287769
+    },
+    "036c4fda-e8b0-4264-a1bd-dbff14a00802": {
+      "id": "036c4fda-e8b0-4264-a1bd-dbff14a00802",
+      "version": 14,
+      "type": "video",
+      "properties": {
+        "size": [
+          [
+            "4858.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "bandicam 2024-06-13 11-44-48-145.mp4"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/a29a9760-72f3-4f0c-8ce1-fc5ba5682dc7/bandicam_2024-06-13_11-44-48-145.mp4"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "block_height": 320,
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_preserve_scale": false
+      },
+      "parent_id": "680d73c0-510b-4d6d-a9a8-78c4508063d2",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246722383,
+      "last_edited_time": 1718246726963
+    },
+    "fa25f4eb-f209-4240-bf77-e73d7e6f9435": {
+      "id": "fa25f4eb-f209-4240-bf77-e73d7e6f9435",
+      "version": 10,
+      "type": "column",
+      "content": [
+        "4feb0962-c24f-4d06-94c5-8f4c8ec4695d",
+        "73b5e25b-7853-4d24-a0a7-390ed34f0794",
+        "61b92894-9511-463f-a293-b91918d7f79b"
+      ],
+      "format": {
+        "column_ratio": 0.5
+      },
+      "parent_id": "ff8c153a-7dcf-4275-b8e2-cd7950924eb8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246725179,
+      "last_edited_time": 1718247195568
+    },
+    "4feb0962-c24f-4d06-94c5-8f4c8ec4695d": {
+      "id": "4feb0962-c24f-4d06-94c5-8f4c8ec4695d",
+      "version": 149,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "   (오른쪽) 주 5회 이상 문의받는 업체"
+          ]
+        ]
+      },
+      "parent_id": "fa25f4eb-f209-4240-bf77-e73d7e6f9435",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247017711,
+      "last_edited_time": 1718247247522
+    },
+    "73b5e25b-7853-4d24-a0a7-390ed34f0794": {
+      "id": "73b5e25b-7853-4d24-a0a7-390ed34f0794",
+      "version": 179,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "*"
+          ],
+          [
+            "한울이라는 말이 보이는 곳은 블러처리 해주세요",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "fa25f4eb-f209-4240-bf77-e73d7e6f9435",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247195568,
+      "last_edited_time": 1718247205392
+    },
+    "61b92894-9511-463f-a293-b91918d7f79b": {
+      "id": "61b92894-9511-463f-a293-b91918d7f79b",
+      "version": 12,
+      "type": "video",
+      "properties": {
+        "size": [
+          [
+            "6005.3KB"
+          ]
+        ],
+        "title": [
+          [
+            "bandicam 2024-06-13 11-45-08-946.mp4"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/9ac45fc8-d94e-4a9a-9288-19be0dba905b/bandicam_2024-06-13_11-45-08-946.mp4"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "block_height": 320,
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_preserve_scale": false
+      },
+      "parent_id": "fa25f4eb-f209-4240-bf77-e73d7e6f9435",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718246725179,
+      "last_edited_time": 1718246728194
+    },
+    "7a05b0c3-731b-42f9-ac85-5e094036fe07": {
+      "id": "7a05b0c3-731b-42f9-ac85-5e094036fe07",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247017569,
+      "last_edited_time": 1718247017569
+    },
+    "d7f27a82-f97b-425c-bdc2-544ffa692274": {
+      "id": "d7f27a82-f97b-425c-bdc2-544ffa692274",
+      "version": 1862,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "가장 큰 차이점이 뭐로 보이시나요? 바로 글의 표현력 입니다. 왼쪽분은 제가 누군지 모르지만 확실한건 사진을 봤을 때는 오른쪽 업체 사장님보다 나이가 있어 보입니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247017047,
+      "last_edited_time": 1718248518213
+    },
+    "d1f8cc55-64fe-4efd-b382-eaa0d04a3bc1": {
+      "id": "d1f8cc55-64fe-4efd-b382-eaa0d04a3bc1",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248518366,
+      "last_edited_time": 1718248518366
+    },
+    "252482cc-c087-4926-b434-92b5917b397b": {
+      "id": "252482cc-c087-4926-b434-92b5917b397b",
+      "version": 265,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "오른쪽에 보여드린 주 6회 이상 문의를 받는 업체 대표님은 30대 초반이시거든요. 사실 기술력만 보면 왼쪽 일당 기술자분이 더 잘하실수도 있습니다.  근데 내가 얼마나 잘할 수 있는지 이 표현력이 부족하셔서 문의와 몸값을 제대로 못 받고 있을 확률이 높습니다."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248518213,
+      "last_edited_time": 1718248534132
+    },
+    "e550c1bb-7161-467a-aa6e-fcfd4bc5644e": {
+      "id": "e550c1bb-7161-467a-aa6e-fcfd4bc5644e",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248536278,
+      "last_edited_time": 1718248536278
+    },
+    "88591006-3cf5-4464-a314-9cd6f3ca735d": {
+      "id": "88591006-3cf5-4464-a314-9cd6f3ca735d",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248536454,
+      "last_edited_time": 1718248536454
+    },
+    "e9429df6-4211-46f6-acec-811ee0c0b13c": {
+      "id": "e9429df6-4211-46f6-acec-811ee0c0b13c",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248472046,
+      "last_edited_time": 1718248472046
+    },
+    "5c445a90-751a-45bd-8b6c-a98b16d9c70f": {
+      "id": "5c445a90-751a-45bd-8b6c-a98b16d9c70f",
+      "version": 1088,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "이처럼 표현력이 중요한 이유는 내가 아무리 잘해도 잘한다는걸 고객이 모르면 말짱 도루묵일겁니다. 내 기술이 뛰어난것도 중요하지만 그 기술을 알리는 기술이 결국 내 몸값을 제대로 받는 방법이기 때문이죠. 내가 아무리 잘해도 업체가 나를 모르면 나를 쓸수 없는것처럼요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248472190,
+      "last_edited_time": 1718248582673
+    },
+    "39755596-1b84-4333-a0cf-2e9c3c64ffe3": {
+      "id": "39755596-1b84-4333-a0cf-2e9c3c64ffe3",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247663383,
+      "last_edited_time": 1718247663383
+    },
+    "694944b1-e164-4ed8-9299-615a4c8d9e25": {
+      "id": "694944b1-e164-4ed8-9299-615a4c8d9e25",
+      "version": 1824,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "아니 글을 쓴다고? 그것도 표현력이 풍부하게? 그게 가능하다고? 이런 의구심이 드셨나요? 이건 당연히 기술자분이 쓰시는건 아닙니다. 대신 써주신거죠. 보통 대신 써주는 비용은 평균 1건당 5만원 정도를 받는데요. 일단 오늘은 직접 써보실수 있도록 주 5회씩 문의를 받는다는 이 사장님이 적은 작업일지의 순서를 알려드리겠습니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247663120,
+      "last_edited_time": 1718247850442
+    },
+    "1fa12954-0d9a-40d2-9e6b-4f1b364242aa": {
+      "id": "1fa12954-0d9a-40d2-9e6b-4f1b364242aa",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247850792,
+      "last_edited_time": 1718247850792
+    },
+    "7ecfa09f-36c0-4e84-a608-32b1d62ea2d9": {
+      "id": "7ecfa09f-36c0-4e84-a608-32b1d62ea2d9",
+      "version": 174,
+      "type": "numbered_list",
+      "properties": {
+        "title": [
+          [
+            "첫번째로 일단 가장 위에 시공지역과 시공부분 원하는 사항과 자재를 적어주세요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247850648,
+      "last_edited_time": 1718247866162
+    },
+    "dbf301c2-3c30-4d48-a7cf-b0d81c035557": {
+      "id": "dbf301c2-3c30-4d48-a7cf-b0d81c035557",
+      "version": 548,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "이건 업종마다 자재라는 표현대신 다른 말로 표현될수도 있겠죠. 시공 브랜드 이런게 될수도 있구요. 이건 자유롭게 수정해주세요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247866536,
+      "last_edited_time": 1718247890002
+    },
+    "0cc289c2-1909-470d-9100-faa45be7cf3a": {
+      "id": "0cc289c2-1909-470d-9100-faa45be7cf3a",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247590456,
+      "last_edited_time": 1718247590456
+    },
+    "83dd266c-b37e-4062-bc43-712b7b6ad5ef": {
+      "id": "83dd266c-b37e-4062-bc43-712b7b6ad5ef",
+      "version": 152,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "*한울이라는 말 블러처리해주세요",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247590320,
+      "last_edited_time": 1718247598192
+    },
+    "ef696723-49fd-4243-9ee7-0618eea1af36": {
+      "id": "ef696723-49fd-4243-9ee7-0618eea1af36",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "20.4KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/b756b7d6-63e7-40ff-9e09-ed1e60aac069/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 586,
+        "block_height": 442,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/b756b7d6-63e7-40ff-9e09-ed1e60aac069/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 0.7542662116040956,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247472790,
+      "last_edited_time": 1718247475009
+    },
+    "1d932f8d-6ea8-42dd-94e6-b6377e633c3e": {
+      "id": "1d932f8d-6ea8-42dd-94e6-b6377e633c3e",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247892900,
+      "last_edited_time": 1718247892900
+    },
+    "3ad79761-14f0-4f88-a437-c92a79113328": {
+      "id": "3ad79761-14f0-4f88-a437-c92a79113328",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247893047,
+      "last_edited_time": 1718247893047
+    },
+    "582c6340-5632-474e-9747-304cd9714728": {
+      "id": "582c6340-5632-474e-9747-304cd9714728",
+      "version": 1046,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "두번째로는 어떤 부분이 문제가 있었는지도 적어주시면 됩니다. 일단 이 현장은 싱크대 뒤쪽의 현장벽 상태가 좋지 않았다는 문제를 적어줬습니다. 그리고 이때 사진을 찍어놓으셔야 합니다. 그리고 어떤 부분인지 이렇게 빨간색으로 체크해 주면 좋습니다."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247506051,
+      "last_edited_time": 1718247930013
+    },
+    "a9d1648c-4256-4bc0-b853-e18bf84ab6cb": {
+      "id": "a9d1648c-4256-4bc0-b853-e18bf84ab6cb",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "505.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/e0da9319-593a-4fa8-82ee-5e93826a5b3f/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 699,
+        "block_height": 902,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/e0da9319-593a-4fa8-82ee-5e93826a5b3f/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 1.290414878397711,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247515007,
+      "last_edited_time": 1718247518488
+    },
+    "617e6692-29cb-4b24-a327-554cb1820338": {
+      "id": "617e6692-29cb-4b24-a327-554cb1820338",
+      "version": 1784,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "다음 세번째로는 대략적인 가격대를 적어놓는겁니다. 사실 이걸 적는 이유는 가격을 후려치는 고객은 아예 연락을 못하도록 하기 위함입니다. 근데 가끔 이 가격을 공개하기 부담스러워하시는 분도 있습니다. 다른 업자들이 보는게 싫으셔서인데요. 그런 분들은 그냥 30만원~100만원 이렇게 범위를 넓게 잡으셔도 됩니다."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247526358,
+      "last_edited_time": 1718248029773
+    },
+    "077c9026-a795-4817-a2a1-31c39263ca73": {
+      "id": "077c9026-a795-4817-a2a1-31c39263ca73",
+      "version": 12,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "61.0KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/eb8aae1c-8989-4d81-88f4-37c75cdc1dd1/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 666,
+        "block_height": 789,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/eb8aae1c-8989-4d81-88f4-37c75cdc1dd1/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 1.1846846846846846,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247535911,
+      "last_edited_time": 1718247538802
+    },
+    "2ff31d6a-2ad8-4002-897c-68c6980711ee": {
+      "id": "2ff31d6a-2ad8-4002-897c-68c6980711ee",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248033948,
+      "last_edited_time": 1718248033948
+    },
+    "e29974b8-9dc0-438d-8e40-e581e81133cf": {
+      "id": "e29974b8-9dc0-438d-8e40-e581e81133cf",
+      "version": 948,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "그다음 네번째로는 순서를 적어주는거예요. 이 순서는 너무 정확하지 않아도 됩니다. 아마 현장별로 거의 비슷할텐데요. 괜찮습니다. 비슷해도 그 순서를 적어주는거죠. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247560454,
+      "last_edited_time": 1718248064970
+    },
+    "69a36fb1-bdc6-4ee9-ac6e-28f295dc10e9": {
+      "id": "69a36fb1-bdc6-4ee9-ac6e-28f295dc10e9",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "49.2KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f34d8167-8baf-4511-bbb4-a22dc97a6519/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 707.984375,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/f34d8167-8baf-4511-bbb4-a22dc97a6519/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 1.120879120879121,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247574072,
+      "last_edited_time": 1732280041369
+    },
+    "0d1bfb4d-b189-470e-a926-b4c17138ad49": {
+      "id": "0d1bfb4d-b189-470e-a926-b4c17138ad49",
+      "version": 421,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "마지막으로 사진을 전과 후로 나눠서 올려주는겁니다."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247600648,
+      "last_edited_time": 1718248080274
+    },
+    "f98ae1d5-29d9-4a9a-b2d8-b6edf0dfbbe6": {
+      "id": "f98ae1d5-29d9-4a9a-b2d8-b6edf0dfbbe6",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "886.3KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/7ffd8f1e-9f26-4db0-b48b-1243749ede2d/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/7ffd8f1e-9f26-4db0-b48b-1243749ede2d/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.8098318240620958,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247620142,
+      "last_edited_time": 1718247623857
+    },
+    "e8f58ca6-ffc5-4cc2-8e7a-1916c7dde3c9": {
+      "id": "e8f58ca6-ffc5-4cc2-8e7a-1916c7dde3c9",
+      "version": 14,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "894.5KB"
+          ]
+        ],
+        "title": [
+          [
+            "Untitled"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/c43b42d0-6e40-4aa2-9e15-28598f53db69/Untitled.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 708,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/c43b42d0-6e40-4aa2-9e15-28598f53db69/Untitled.png",
+        "block_full_width": false,
+        "block_page_width": true,
+        "block_aspect_ratio": 0.9057591623036649,
+        "block_preserve_scale": true
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247629862,
+      "last_edited_time": 1718247633797
+    },
+    "da02146f-45c9-43f9-8e11-95720eeb50fc": {
+      "id": "da02146f-45c9-43f9-8e11-95720eeb50fc",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247654592,
+      "last_edited_time": 1718247654592
+    },
+    "c40d1652-10e7-47c4-83db-d49efcfe8385": {
+      "id": "c40d1652-10e7-47c4-83db-d49efcfe8385",
+      "version": 1323,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "이게 처음에는 쓰기가 부담스럽고 사진도 찍어야 하고 할일이 많아 보일수도 있는데, 5개정도만 연습해보시면 바로바로 써질겁니다. 꾸준히 연습하다보면 금방 일거리가 많아질겁니다. 빠르면 2-3주 내로 문의가 오는 경우도 있습니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718247653901,
+      "last_edited_time": 1718248182215
+    },
+    "297ebf0e-cc6e-4339-8652-8702545c86df": {
+      "id": "297ebf0e-cc6e-4339-8652-8702545c86df",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248187916,
+      "last_edited_time": 1718248187916
+    },
+    "eb29ee6d-07e8-4da7-be5c-d6a910eab388": {
+      "id": "eb29ee6d-07e8-4da7-be5c-d6a910eab388",
+      "version": 1776,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "만약 혼자 쓰기 어렵거나 질문사항이 있으시면 아래 고정댓글에 있는 오픈채팅방에서 이 글을 작성한 사람이 직접 답변을 드리고 있습니다.  이렇게 문의가 와서 일거리가 많아지면 어짜피 건당 5만원 정도면 맡길 수 있으니 맡기셔도 됩니다. 오픈채팅방에서 맡길 사람을 찾을 수도 있습니다. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248187767,
+      "last_edited_time": 1718248416842
+    },
+    "abcf200c-1402-4345-a4c3-6f1f5a965c19": {
+      "id": "abcf200c-1402-4345-a4c3-6f1f5a965c19",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248430390,
+      "last_edited_time": 1718248430390
+    },
+    "b59c7a3a-8d9c-4966-be72-d7adb8a93c55": {
+      "id": "b59c7a3a-8d9c-4966-be72-d7adb8a93c55",
+      "version": 1954,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "여러분은 이번 영상을 통해 내 몸값을 받는 방법을 알게 되셨을 겁니다. 내 몸값을 제대로 받기 위해서는 일단 소비자 가격부터 제대로 받아야 한다는 사실과 그 소비자 가격을 제대로 받기 위해서는 나를 알리는 기술도 중요하다는 것을 알게 되셨을겁니다. 뿐만 아니라 알리는 기술을 갖게 되면 큰 현장을맡을 수 있게 된다는 사실도요. 만약 지금까지 내 몸값에 불만을 갖고 계셨던 분이라면 오늘 알려드린 5가지만 기억해서 적어보세요. "
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248144501,
+      "last_edited_time": 1718248668410
+    },
+    "c9db997d-efd2-4536-8d32-c6ae521c296a": {
+      "id": "c9db997d-efd2-4536-8d32-c6ae521c296a",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248681276,
+      "last_edited_time": 1718248681276
+    },
+    "5ba888f6-2706-4fd8-96b4-af209c228528": {
+      "id": "5ba888f6-2706-4fd8-96b4-af209c228528",
+      "version": 1116,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "앞으로 기술은 갖고 있지만 몸값을 제대로 못 받는 분들을 위해 5가지를 알려드렸는데요. 방금 이 방법 스스로 못하겠다는 분들은 아래 고정댓글을 확인해주세요. 제가 도와드리겠습니다."
+          ]
+        ]
+      },
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718248586791,
+      "last_edited_time": 1718617786061
+    },
+    "d521845c-ceed-48c5-bddc-380be3f2f540": {
+      "id": "d521845c-ceed-48c5-bddc-380be3f2f540",
+      "version": 4,
+      "type": "text",
+      "parent_id": "84a905ca-f2d9-47d7-b474-1f53f21113d8",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1718617748353,
+      "last_edited_time": 1718617748353
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}

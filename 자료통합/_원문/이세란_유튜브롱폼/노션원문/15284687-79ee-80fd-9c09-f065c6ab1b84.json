@@ -1,0 +1,101 @@
+{
+  "source": "https://app.notion.com/p/bootoesa/1528468779ee80fd9c09f065c6ab1b84",
+  "pageId": "15284687-79ee-80fd-9c09-f065c6ab1b84",
+  "collected": "2026-09-21",
+  "chunks": 1,
+  "blocks": {
+    "15284687-79ee-80fd-9c09-f065c6ab1b84": {
+      "id": "15284687-79ee-80fd-9c09-f065c6ab1b84",
+      "version": 150,
+      "type": "page",
+      "properties": {
+        "title": [
+          [
+            "자영업자 평균 월 매출액 순위"
+          ]
+        ]
+      },
+      "content": [
+        "15284687-79ee-80a2-9671-c7fcd85b1fa8",
+        "15284687-79ee-80a8-b6fc-d2d7533c7581",
+        "15284687-79ee-8078-801e-fdf4c89a56d9"
+      ],
+      "parent_id": "7e3c9feb-f559-4976-8214-4998bf51a034",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292714969,
+      "last_edited_time": 1763372305163
+    },
+    "15284687-79ee-80a2-9671-c7fcd85b1fa8": {
+      "id": "15284687-79ee-80a2-9671-c7fcd85b1fa8",
+      "version": 15,
+      "type": "image",
+      "properties": {
+        "size": [
+          [
+            "160.1KB"
+          ]
+        ],
+        "title": [
+          [
+            "image.png"
+          ]
+        ],
+        "source": [
+          [
+            "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/0169c82c-03ad-460c-8908-2c5168d114dd/image.png"
+          ]
+        ]
+      },
+      "format": {
+        "block_width": 479.9999694824219,
+        "block_height": 555,
+        "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ed44f80c-fc41-4fc6-ad3a-583a4ee8f3fa/0169c82c-03ad-460c-8908-2c5168d114dd/image.png",
+        "block_full_width": false,
+        "block_page_width": false,
+        "block_aspect_ratio": 1.15625,
+        "block_preserve_scale": true
+      },
+      "parent_id": "15284687-79ee-80fd-9c09-f065c6ab1b84",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292727569,
+      "last_edited_time": 1763372305163
+    },
+    "15284687-79ee-80a8-b6fc-d2d7533c7581": {
+      "id": "15284687-79ee-80a8-b6fc-d2d7533c7581",
+      "version": 8,
+      "type": "text",
+      "properties": {
+        "title": [
+          [
+            "https://m.news.nate.com/view/20240401n28219?mid=m02&list=recent&cpcd=",
+            [
+              [
+                "a",
+                "https://m.news.nate.com/view/20240401n28219?mid=m02&list=recent&cpcd="
+              ]
+            ]
+          ]
+        ]
+      },
+      "parent_id": "15284687-79ee-80fd-9c09-f065c6ab1b84",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292736064,
+      "last_edited_time": 1733292736253
+    },
+    "15284687-79ee-8078-801e-fdf4c89a56d9": {
+      "id": "15284687-79ee-8078-801e-fdf4c89a56d9",
+      "version": 5,
+      "type": "text",
+      "parent_id": "15284687-79ee-80fd-9c09-f065c6ab1b84",
+      "parent_table": "block",
+      "alive": true,
+      "created_time": 1733292737174,
+      "last_edited_time": 1733292737176
+    }
+  },
+  "childPages": [],
+  "missingBlocks": []
+}
